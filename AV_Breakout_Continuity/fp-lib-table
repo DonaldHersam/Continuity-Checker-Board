@@ -1,0 +1,3 @@
+(fp_lib_table
+  (lib (name RCU-0C)(type Legacy)(uri C:/Users/donald.hersam/Downloads/RCU-0C.mod)(options "")(descr ""))
+)
