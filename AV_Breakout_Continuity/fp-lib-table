@@ -1,3 +1,4 @@
 (fp_lib_table
   (lib (name RCU-0C)(type Legacy)(uri C:/Users/donald.hersam/Downloads/RCU-0C.mod)(options "")(descr ""))
+  (lib (name Source_Footprints)(type KiCad)(uri C:/Users/donald.hersam/Documents/digikey-kicad-library/src/Source_Footprints)(options "")(descr ""))
 )
