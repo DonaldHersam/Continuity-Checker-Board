@@ -1,4 +1,5 @@
 EESchema Schematic File Version 4
+LIBS:AV_Breakout_Continuity-cache
 EELAYER 29 0
 EELAYER END
 $Descr A4 11693 8268
@@ -14,25 +15,51 @@ Comment3 ""
 Comment4 ""
 $EndDescr
 $Comp
-L RCU-0C:RCU-0C R?
-U 1 1 5CB644AB
-P 3600 2500
-F 0 "R?" H 3600 2706 50  0000 C CNN
-F 1 "RCU-0C" H 3600 2615 50  0000 C CNN
-F 2 "RESC1608X50N" H 3600 2500 50  0001 L BNN
-F 3 "" H 3600 2500 50  0001 L BNN
-F 4 "0603" H 3600 2500 50  0001 L BNN "Field4"
-F 5 "TE Connectivity" H 3600 2500 50  0001 L BNN "Field5"
-F 6 "0 W" H 3600 2500 50  0001 L BNN "Field6"
-F 7 "A106145CT-ND" H 3600 2500 50  0001 L BNN "Field7"
-F 8 "https://www.digikey.com/product-detail/en/te-connectivity-amp-connectors/RCU-0C/A106145CT-ND/3477802?utm_source=snapeda&utm_medium=aggregator&utm_campaign=symbol" H 3600 2500 50  0001 L BNN "Field8"
-F 9 "RCU-0C" H 3600 2500 50  0001 L BNN "Field9"
-F 10 "0603 PROBE PAD" H 3600 2500 50  0001 L BNN "Field10"
-F 11 "1625854-3" H 3600 2500 50  0001 L BNN "Field11"
-F 12 "Compliant" H 3600 2500 50  0001 L BNN "Field12"
-F 13 "0%" H 3600 2500 50  0001 L BNN "Field13"
-F 14 "https://www.te.com/usa-en/product-1625854-3.html?te_bu=Cor&te_type=disp&te_campaign=seda_glo_cor-seda-global-disp-prtnr-fy19-seda-model-bom-cta_sma-317_1&elqCampaignId=32493" H 3600 2500 50  0001 L BNN "Field14"
-	1    3600 2500
+L 36-5029ct-nd:36-5029CT-ND TP1
+U 1 1 5CC3AC23
+P 1500 2200
+F 0 "TP1" H 1550 2247 50  0000 L CNN
+F 1 "36-5029CT-ND" H 1500 2100 50  0001 C CNN
+F 2 "digikey-footprints:PC_Test_Point_Mini_3.8x2.03mm" H 1800 2500 60  0001 L CNN
+F 3 "" H 1500 2200 60  0001 C CNN
+	1    1500 2200
 	1    0    0    -1  
 $EndComp
+$Comp
+L 36-5029ct-nd:36-5029CT-ND TP2
+U 1 1 5CC3AC29
+P 1800 2200
+F 0 "TP2" H 1850 2247 50  0000 L CNN
+F 1 "36-5029CT-ND" H 1800 2100 50  0001 C CNN
+F 2 "digikey-footprints:PC_Test_Point_Mini_3.8x2.03mm" H 2100 2500 60  0001 L CNN
+F 3 "" H 1800 2200 60  0001 C CNN
+	1    1800 2200
+	1    0    0    -1  
+$EndComp
+$Comp
+L 36-5029ct-nd:StrainRelief SR1
+U 1 1 5CC43FA1
+P 1500 2450
+F 0 "SR1" H 1578 2350 50  0000 L CNN
+F 1 "StrainRelief" H 1200 2550 50  0001 C CNN
+F 2 "" H 1500 2450 50  0001 C CNN
+F 3 "" H 1500 2450 50  0001 C CNN
+	1    1500 2450
+	1    0    0    -1  
+$EndComp
+$Comp
+L 36-5029ct-nd:StrainRelief SR2
+U 1 1 5CC44D65
+P 1800 2450
+F 0 "SR2" H 1878 2350 50  0000 L CNN
+F 1 "StrainRelief" H 1500 2550 50  0001 C CNN
+F 2 "" H 1800 2450 50  0001 C CNN
+F 3 "" H 1800 2450 50  0001 C CNN
+	1    1800 2450
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	1500 2200 1500 2500
+Wire Wire Line
+	1800 2200 1800 2500
 $EndSCHEMATC

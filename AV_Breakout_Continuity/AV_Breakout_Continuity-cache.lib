@@ -1,36 +1,30 @@
 EESchema-LIBRARY Version 2.4
 #encoding utf-8
 #
-# RCU-0C_RCU-0C
+# 36-5029ct-nd_36-5029CT-ND
 #
-DEF RCU-0C_RCU-0C R 0 40 Y N 1 L N
-F0 "R" -150 59 50 H V L BNN
-F1 "RCU-0C_RCU-0C" -150 -130 50 H V L BNN
-F2 "RESC1608X50N" 0 0 50 H I L BNN
-F3 "<.05" 0 0 50 H I L BNN
-F4 "0603" 0 0 50 H I L BNN
-F5 "TE Connectivity" 0 0 50 H I L BNN
-F6 "0 W" 0 0 50 H I L BNN
-F7 "A106145CT-ND" 0 0 50 H I L BNN
-F8 "https://www.digikey.com/product-detail/en/te-connectivity-amp-connectors/RCU-0C/A106145CT-ND/3477802?utm_source=snapeda&utm_medium=aggregator&utm_campaign=symbol" 0 0 50 H I L BNN
-F9 "RCU-0C" 0 0 50 H I L BNN
-F10 "0603 PROBE PAD" 0 0 50 H I L BNN
-F11 "1625854-3" 0 0 50 H I L BNN
-F12 "Compliant" 0 0 50 H I L BNN
-F13 "0%" 0 0 50 H I L BNN
-F14 "https://www.te.com/usa-en/product-1625854-3.html?te_bu=Cor&te_type=disp&te_campaign=seda_glo_cor-seda-global-disp-prtnr-fy19-seda-model-bom-cta_sma-317_1&elqCampaignId=32493" 0 0 50 H I L BNN
+DEF ~36-5029ct-nd_36-5029CT-ND TP? 0 40 N N 1 F N
+F0 "TP?" -50 50 50 H V R CNN
+F1 "36-5029ct-nd_36-5029CT-ND" 0 -100 50 H I C CNN
+F2 "digikey-footprints:PC_Test_Point_Mini_3.8x2.03mm" 300 300 60 H I L CNN
+F3 "" 0 0 60 H I C CNN
 DRAW
-P 2 0 0 8 -100 0 -85 40 N
-P 2 0 0 8 -85 40 -60 -40 N
-P 2 0 0 8 -60 -40 -35 40 N
-P 2 0 0 8 -35 40 -10 -40 N
-P 2 0 0 8 -10 -40 15 40 N
-P 2 0 0 8 15 40 40 -40 N
-P 2 0 0 8 40 -40 65 40 N
-P 2 0 0 8 65 40 90 -40 N
-P 2 0 0 8 90 -40 100 0 N
-X 1 1 -300 0 200 R 40 40 0 0 P
-X 2 2 300 0 200 L 40 40 0 0 P
+C 0 0 22 0 1 0 N
+X ~ 1 0 100 75 D 50 50 1 1 P
+X ~ ~ 0 0 100 D 50 50 1 1 I N
+ENDDRAW
+ENDDEF
+#
+# 36-5029ct-nd_StrainRelief
+#
+DEF ~36-5029ct-nd_StrainRelief SR 0 40 Y Y 1 F N
+F0 "SR" 0 0 50 H V C CNN
+F1 "36-5029ct-nd_StrainRelief" -300 100 50 H I C CNN
+F2 "" 0 0 50 H I C CNN
+F3 "" 0 0 50 H I C CNN
+DRAW
+C 0 -100 50 0 1 0 N
+X ~ ~ 0 -50 100 U 50 50 1 1 I N
 ENDDRAW
 ENDDEF
 #
