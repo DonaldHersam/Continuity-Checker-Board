@@ -1,4 +1,4 @@
-16551641309031408
+16553197623808813
 AV_Breakout_Continuity
 StrainRelief
 
@@ -6,6 +6,13 @@ StrainRelief
 0
 3
 3
+AV_Breakout_Continuity
+TestPoint
+
+
+0
+1
+1
 Battery
 BatteryHolder_Bulgin_BX0036_1xC
 Bulgin Battery Holder, BX0036, Battery Type C (https://www.bulgin.com/products/pub/media/bulgin/data/Battery_holders.pdf)
