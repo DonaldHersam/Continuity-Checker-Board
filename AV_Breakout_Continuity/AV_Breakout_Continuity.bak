@@ -16,50 +16,4258 @@ Comment4 ""
 $EndDescr
 $Comp
 L 36-5029ct-nd:36-5029CT-ND TP1
-U 1 1 5CC3AC23
-P 1500 2200
-F 0 "TP1" H 1550 2247 50  0000 L CNN
-F 1 "36-5029CT-ND" H 1500 2100 50  0001 C CNN
-F 2 "digikey-footprints:PC_Test_Point_Mini_3.8x2.03mm" H 1800 2500 60  0001 L CNN
-F 3 "" H 1500 2200 60  0001 C CNN
-	1    1500 2200
-	1    0    0    -1  
-$EndComp
-$Comp
-L 36-5029ct-nd:36-5029CT-ND TP2
-U 1 1 5CC3AC29
-P 1800 2200
-F 0 "TP2" H 1850 2247 50  0000 L CNN
-F 1 "36-5029CT-ND" H 1800 2100 50  0001 C CNN
-F 2 "digikey-footprints:PC_Test_Point_Mini_3.8x2.03mm" H 2100 2500 60  0001 L CNN
-F 3 "" H 1800 2200 60  0001 C CNN
-	1    1800 2200
+U 1 1 5CD23EC8
+P 600 650
+F 0 "TP1" H 650 703 50  0000 L CNN
+F 1 "36-5029CT-ND" H 600 750 50  0001 C CNN
+F 2 "digikey-footprints:PC_Test_Point_Mini_3.8x2.03mm" H 900 950 60  0001 L CNN
+F 3 "" H 600 750 60  0001 C CNN
+	1    600  650 
 	1    0    0    -1  
 $EndComp
 $Comp
 L 36-5029ct-nd:StrainRelief SR1
-U 1 1 5CC43FA1
-P 1500 2450
-F 0 "SR1" H 1578 2350 50  0000 L CNN
-F 1 "StrainRelief" H 1200 2550 50  0001 C CNN
-F 2 "" H 1500 2450 50  0001 C CNN
-F 3 "" H 1500 2450 50  0001 C CNN
-	1    1500 2450
+U 1 1 5CD22868
+P 600 950
+F 0 "SR1" H 678 858 50  0000 L CNN
+F 1 "StrainRelief" H 300 1100 50  0001 C CNN
+F 2 "" H 600 1000 50  0001 C CNN
+F 3 "" H 600 1000 50  0001 C CNN
+	1    600  950 
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	600  650  600  950 
+$Comp
+L 36-5029ct-nd:36-5029CT-ND TP?
+U 1 1 5CE21E73
+P 900 650
+F 0 "TP?" H 950 703 50  0000 L CNN
+F 1 "36-5029CT-ND" H 900 750 50  0001 C CNN
+F 2 "digikey-footprints:PC_Test_Point_Mini_3.8x2.03mm" H 1200 950 60  0001 L CNN
+F 3 "" H 900 750 60  0001 C CNN
+	1    900  650 
 	1    0    0    -1  
 $EndComp
 $Comp
-L 36-5029ct-nd:StrainRelief SR2
-U 1 1 5CC44D65
-P 1800 2450
-F 0 "SR2" H 1878 2350 50  0000 L CNN
-F 1 "StrainRelief" H 1500 2550 50  0001 C CNN
-F 2 "" H 1800 2450 50  0001 C CNN
-F 3 "" H 1800 2450 50  0001 C CNN
-	1    1800 2450
+L 36-5029ct-nd:StrainRelief SR?
+U 1 1 5CE21E79
+P 900 950
+F 0 "SR?" H 978 858 50  0000 L CNN
+F 1 "StrainRelief" H 600 1100 50  0001 C CNN
+F 2 "" H 900 1000 50  0001 C CNN
+F 3 "" H 900 1000 50  0001 C CNN
+	1    900  950 
 	1    0    0    -1  
 $EndComp
 Wire Wire Line
-	1500 2200 1500 2500
+	900  650  900  950 
+$Comp
+L 36-5029ct-nd:36-5029CT-ND TP?
+U 1 1 5CE22F37
+P 1200 650
+F 0 "TP?" H 1250 703 50  0000 L CNN
+F 1 "36-5029CT-ND" H 1200 750 50  0001 C CNN
+F 2 "digikey-footprints:PC_Test_Point_Mini_3.8x2.03mm" H 1500 950 60  0001 L CNN
+F 3 "" H 1200 750 60  0001 C CNN
+	1    1200 650 
+	1    0    0    -1  
+$EndComp
+$Comp
+L 36-5029ct-nd:StrainRelief SR?
+U 1 1 5CE22F3D
+P 1200 950
+F 0 "SR?" H 1278 858 50  0000 L CNN
+F 1 "StrainRelief" H 900 1100 50  0001 C CNN
+F 2 "" H 1200 1000 50  0001 C CNN
+F 3 "" H 1200 1000 50  0001 C CNN
+	1    1200 950 
+	1    0    0    -1  
+$EndComp
 Wire Wire Line
-	1800 2200 1800 2500
+	1200 650  1200 950 
+$Comp
+L 36-5029ct-nd:36-5029CT-ND TP?
+U 1 1 5CE22F44
+P 1500 650
+F 0 "TP?" H 1550 703 50  0000 L CNN
+F 1 "36-5029CT-ND" H 1500 750 50  0001 C CNN
+F 2 "digikey-footprints:PC_Test_Point_Mini_3.8x2.03mm" H 1800 950 60  0001 L CNN
+F 3 "" H 1500 750 60  0001 C CNN
+	1    1500 650 
+	1    0    0    -1  
+$EndComp
+$Comp
+L 36-5029ct-nd:StrainRelief SR?
+U 1 1 5CE22F4A
+P 1500 950
+F 0 "SR?" H 1578 858 50  0000 L CNN
+F 1 "StrainRelief" H 1200 1100 50  0001 C CNN
+F 2 "" H 1500 1000 50  0001 C CNN
+F 3 "" H 1500 1000 50  0001 C CNN
+	1    1500 950 
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	1500 650  1500 950 
+$Comp
+L 36-5029ct-nd:36-5029CT-ND TP?
+U 1 1 5CE257CD
+P 1800 650
+F 0 "TP?" H 1850 703 50  0000 L CNN
+F 1 "36-5029CT-ND" H 1800 750 50  0001 C CNN
+F 2 "digikey-footprints:PC_Test_Point_Mini_3.8x2.03mm" H 2100 950 60  0001 L CNN
+F 3 "" H 1800 750 60  0001 C CNN
+	1    1800 650 
+	1    0    0    -1  
+$EndComp
+$Comp
+L 36-5029ct-nd:StrainRelief SR?
+U 1 1 5CE257D3
+P 1800 950
+F 0 "SR?" H 1878 858 50  0000 L CNN
+F 1 "StrainRelief" H 1500 1100 50  0001 C CNN
+F 2 "" H 1800 1000 50  0001 C CNN
+F 3 "" H 1800 1000 50  0001 C CNN
+	1    1800 950 
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	1800 650  1800 950 
+$Comp
+L 36-5029ct-nd:36-5029CT-ND TP?
+U 1 1 5CE257DA
+P 2100 650
+F 0 "TP?" H 2150 703 50  0000 L CNN
+F 1 "36-5029CT-ND" H 2100 750 50  0001 C CNN
+F 2 "digikey-footprints:PC_Test_Point_Mini_3.8x2.03mm" H 2400 950 60  0001 L CNN
+F 3 "" H 2100 750 60  0001 C CNN
+	1    2100 650 
+	1    0    0    -1  
+$EndComp
+$Comp
+L 36-5029ct-nd:StrainRelief SR?
+U 1 1 5CE257E0
+P 2100 950
+F 0 "SR?" H 2178 858 50  0000 L CNN
+F 1 "StrainRelief" H 1800 1100 50  0001 C CNN
+F 2 "" H 2100 1000 50  0001 C CNN
+F 3 "" H 2100 1000 50  0001 C CNN
+	1    2100 950 
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	2100 650  2100 950 
+$Comp
+L 36-5029ct-nd:36-5029CT-ND TP?
+U 1 1 5CE257E7
+P 2400 650
+F 0 "TP?" H 2450 703 50  0000 L CNN
+F 1 "36-5029CT-ND" H 2400 750 50  0001 C CNN
+F 2 "digikey-footprints:PC_Test_Point_Mini_3.8x2.03mm" H 2700 950 60  0001 L CNN
+F 3 "" H 2400 750 60  0001 C CNN
+	1    2400 650 
+	1    0    0    -1  
+$EndComp
+$Comp
+L 36-5029ct-nd:StrainRelief SR?
+U 1 1 5CE257ED
+P 2400 950
+F 0 "SR?" H 2478 858 50  0000 L CNN
+F 1 "StrainRelief" H 2100 1100 50  0001 C CNN
+F 2 "" H 2400 1000 50  0001 C CNN
+F 3 "" H 2400 1000 50  0001 C CNN
+	1    2400 950 
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	2400 650  2400 950 
+$Comp
+L 36-5029ct-nd:36-5029CT-ND TP?
+U 1 1 5CE257F4
+P 2700 650
+F 0 "TP?" H 2750 703 50  0000 L CNN
+F 1 "36-5029CT-ND" H 2700 750 50  0001 C CNN
+F 2 "digikey-footprints:PC_Test_Point_Mini_3.8x2.03mm" H 3000 950 60  0001 L CNN
+F 3 "" H 2700 750 60  0001 C CNN
+	1    2700 650 
+	1    0    0    -1  
+$EndComp
+$Comp
+L 36-5029ct-nd:StrainRelief SR?
+U 1 1 5CE257FA
+P 2700 950
+F 0 "SR?" H 2778 858 50  0000 L CNN
+F 1 "StrainRelief" H 2400 1100 50  0001 C CNN
+F 2 "" H 2700 1000 50  0001 C CNN
+F 3 "" H 2700 1000 50  0001 C CNN
+	1    2700 950 
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	2700 650  2700 950 
+$Comp
+L 36-5029ct-nd:36-5029CT-ND TP?
+U 1 1 5CE303AF
+P 3000 650
+F 0 "TP?" H 3050 703 50  0000 L CNN
+F 1 "36-5029CT-ND" H 3000 750 50  0001 C CNN
+F 2 "digikey-footprints:PC_Test_Point_Mini_3.8x2.03mm" H 3300 950 60  0001 L CNN
+F 3 "" H 3000 750 60  0001 C CNN
+	1    3000 650 
+	1    0    0    -1  
+$EndComp
+$Comp
+L 36-5029ct-nd:StrainRelief SR?
+U 1 1 5CE303B5
+P 3000 950
+F 0 "SR?" H 3078 858 50  0000 L CNN
+F 1 "StrainRelief" H 2700 1100 50  0001 C CNN
+F 2 "" H 3000 1000 50  0001 C CNN
+F 3 "" H 3000 1000 50  0001 C CNN
+	1    3000 950 
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	3000 650  3000 950 
+$Comp
+L 36-5029ct-nd:36-5029CT-ND TP?
+U 1 1 5CE303BC
+P 3300 650
+F 0 "TP?" H 3350 703 50  0000 L CNN
+F 1 "36-5029CT-ND" H 3300 750 50  0001 C CNN
+F 2 "digikey-footprints:PC_Test_Point_Mini_3.8x2.03mm" H 3600 950 60  0001 L CNN
+F 3 "" H 3300 750 60  0001 C CNN
+	1    3300 650 
+	1    0    0    -1  
+$EndComp
+$Comp
+L 36-5029ct-nd:StrainRelief SR?
+U 1 1 5CE303C2
+P 3300 950
+F 0 "SR?" H 3378 858 50  0000 L CNN
+F 1 "StrainRelief" H 3000 1100 50  0001 C CNN
+F 2 "" H 3300 1000 50  0001 C CNN
+F 3 "" H 3300 1000 50  0001 C CNN
+	1    3300 950 
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	3300 650  3300 950 
+$Comp
+L 36-5029ct-nd:36-5029CT-ND TP?
+U 1 1 5CE303C9
+P 3600 650
+F 0 "TP?" H 3650 703 50  0000 L CNN
+F 1 "36-5029CT-ND" H 3600 750 50  0001 C CNN
+F 2 "digikey-footprints:PC_Test_Point_Mini_3.8x2.03mm" H 3900 950 60  0001 L CNN
+F 3 "" H 3600 750 60  0001 C CNN
+	1    3600 650 
+	1    0    0    -1  
+$EndComp
+$Comp
+L 36-5029ct-nd:StrainRelief SR?
+U 1 1 5CE303CF
+P 3600 950
+F 0 "SR?" H 3678 858 50  0000 L CNN
+F 1 "StrainRelief" H 3300 1100 50  0001 C CNN
+F 2 "" H 3600 1000 50  0001 C CNN
+F 3 "" H 3600 1000 50  0001 C CNN
+	1    3600 950 
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	3600 650  3600 950 
+$Comp
+L 36-5029ct-nd:36-5029CT-ND TP?
+U 1 1 5CE303D6
+P 3900 650
+F 0 "TP?" H 3950 703 50  0000 L CNN
+F 1 "36-5029CT-ND" H 3900 750 50  0001 C CNN
+F 2 "digikey-footprints:PC_Test_Point_Mini_3.8x2.03mm" H 4200 950 60  0001 L CNN
+F 3 "" H 3900 750 60  0001 C CNN
+	1    3900 650 
+	1    0    0    -1  
+$EndComp
+$Comp
+L 36-5029ct-nd:StrainRelief SR?
+U 1 1 5CE303DC
+P 3900 950
+F 0 "SR?" H 3978 858 50  0000 L CNN
+F 1 "StrainRelief" H 3600 1100 50  0001 C CNN
+F 2 "" H 3900 1000 50  0001 C CNN
+F 3 "" H 3900 1000 50  0001 C CNN
+	1    3900 950 
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	3900 650  3900 950 
+$Comp
+L 36-5029ct-nd:36-5029CT-ND TP?
+U 1 1 5CE303E3
+P 4200 650
+F 0 "TP?" H 4250 703 50  0000 L CNN
+F 1 "36-5029CT-ND" H 4200 750 50  0001 C CNN
+F 2 "digikey-footprints:PC_Test_Point_Mini_3.8x2.03mm" H 4500 950 60  0001 L CNN
+F 3 "" H 4200 750 60  0001 C CNN
+	1    4200 650 
+	1    0    0    -1  
+$EndComp
+$Comp
+L 36-5029ct-nd:StrainRelief SR?
+U 1 1 5CE303E9
+P 4200 950
+F 0 "SR?" H 4278 858 50  0000 L CNN
+F 1 "StrainRelief" H 3900 1100 50  0001 C CNN
+F 2 "" H 4200 1000 50  0001 C CNN
+F 3 "" H 4200 1000 50  0001 C CNN
+	1    4200 950 
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	4200 650  4200 950 
+$Comp
+L 36-5029ct-nd:36-5029CT-ND TP?
+U 1 1 5CE303F0
+P 4500 650
+F 0 "TP?" H 4550 703 50  0000 L CNN
+F 1 "36-5029CT-ND" H 4500 750 50  0001 C CNN
+F 2 "digikey-footprints:PC_Test_Point_Mini_3.8x2.03mm" H 4800 950 60  0001 L CNN
+F 3 "" H 4500 750 60  0001 C CNN
+	1    4500 650 
+	1    0    0    -1  
+$EndComp
+$Comp
+L 36-5029ct-nd:StrainRelief SR?
+U 1 1 5CE303F6
+P 4500 950
+F 0 "SR?" H 4578 858 50  0000 L CNN
+F 1 "StrainRelief" H 4200 1100 50  0001 C CNN
+F 2 "" H 4500 1000 50  0001 C CNN
+F 3 "" H 4500 1000 50  0001 C CNN
+	1    4500 950 
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	4500 650  4500 950 
+$Comp
+L 36-5029ct-nd:36-5029CT-ND TP?
+U 1 1 5CE303FD
+P 4800 650
+F 0 "TP?" H 4850 703 50  0000 L CNN
+F 1 "36-5029CT-ND" H 4800 750 50  0001 C CNN
+F 2 "digikey-footprints:PC_Test_Point_Mini_3.8x2.03mm" H 5100 950 60  0001 L CNN
+F 3 "" H 4800 750 60  0001 C CNN
+	1    4800 650 
+	1    0    0    -1  
+$EndComp
+$Comp
+L 36-5029ct-nd:StrainRelief SR?
+U 1 1 5CE30403
+P 4800 950
+F 0 "SR?" H 4878 858 50  0000 L CNN
+F 1 "StrainRelief" H 4500 1100 50  0001 C CNN
+F 2 "" H 4800 1000 50  0001 C CNN
+F 3 "" H 4800 1000 50  0001 C CNN
+	1    4800 950 
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	4800 650  4800 950 
+$Comp
+L 36-5029ct-nd:36-5029CT-ND TP?
+U 1 1 5CE3040A
+P 5100 650
+F 0 "TP?" H 5150 703 50  0000 L CNN
+F 1 "36-5029CT-ND" H 5100 750 50  0001 C CNN
+F 2 "digikey-footprints:PC_Test_Point_Mini_3.8x2.03mm" H 5400 950 60  0001 L CNN
+F 3 "" H 5100 750 60  0001 C CNN
+	1    5100 650 
+	1    0    0    -1  
+$EndComp
+$Comp
+L 36-5029ct-nd:StrainRelief SR?
+U 1 1 5CE30410
+P 5100 950
+F 0 "SR?" H 5178 858 50  0000 L CNN
+F 1 "StrainRelief" H 4800 1100 50  0001 C CNN
+F 2 "" H 5100 1000 50  0001 C CNN
+F 3 "" H 5100 1000 50  0001 C CNN
+	1    5100 950 
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	5100 650  5100 950 
+$Comp
+L 36-5029ct-nd:36-5029CT-ND TP?
+U 1 1 5CE42FA1
+P 5400 650
+F 0 "TP?" H 5450 703 50  0000 L CNN
+F 1 "36-5029CT-ND" H 5400 750 50  0001 C CNN
+F 2 "digikey-footprints:PC_Test_Point_Mini_3.8x2.03mm" H 5700 950 60  0001 L CNN
+F 3 "" H 5400 750 60  0001 C CNN
+	1    5400 650 
+	1    0    0    -1  
+$EndComp
+$Comp
+L 36-5029ct-nd:StrainRelief SR?
+U 1 1 5CE42FA7
+P 5400 950
+F 0 "SR?" H 5478 858 50  0000 L CNN
+F 1 "StrainRelief" H 5100 1100 50  0001 C CNN
+F 2 "" H 5400 1000 50  0001 C CNN
+F 3 "" H 5400 1000 50  0001 C CNN
+	1    5400 950 
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	5400 650  5400 950 
+$Comp
+L 36-5029ct-nd:36-5029CT-ND TP?
+U 1 1 5CE42FAE
+P 5700 650
+F 0 "TP?" H 5750 703 50  0000 L CNN
+F 1 "36-5029CT-ND" H 5700 750 50  0001 C CNN
+F 2 "digikey-footprints:PC_Test_Point_Mini_3.8x2.03mm" H 6000 950 60  0001 L CNN
+F 3 "" H 5700 750 60  0001 C CNN
+	1    5700 650 
+	1    0    0    -1  
+$EndComp
+$Comp
+L 36-5029ct-nd:StrainRelief SR?
+U 1 1 5CE42FB4
+P 5700 950
+F 0 "SR?" H 5778 858 50  0000 L CNN
+F 1 "StrainRelief" H 5400 1100 50  0001 C CNN
+F 2 "" H 5700 1000 50  0001 C CNN
+F 3 "" H 5700 1000 50  0001 C CNN
+	1    5700 950 
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	5700 650  5700 950 
+$Comp
+L 36-5029ct-nd:36-5029CT-ND TP?
+U 1 1 5CE42FBB
+P 6000 650
+F 0 "TP?" H 6050 703 50  0000 L CNN
+F 1 "36-5029CT-ND" H 6000 750 50  0001 C CNN
+F 2 "digikey-footprints:PC_Test_Point_Mini_3.8x2.03mm" H 6300 950 60  0001 L CNN
+F 3 "" H 6000 750 60  0001 C CNN
+	1    6000 650 
+	1    0    0    -1  
+$EndComp
+$Comp
+L 36-5029ct-nd:StrainRelief SR?
+U 1 1 5CE42FC1
+P 6000 950
+F 0 "SR?" H 6078 858 50  0000 L CNN
+F 1 "StrainRelief" H 5700 1100 50  0001 C CNN
+F 2 "" H 6000 1000 50  0001 C CNN
+F 3 "" H 6000 1000 50  0001 C CNN
+	1    6000 950 
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	6000 650  6000 950 
+$Comp
+L 36-5029ct-nd:36-5029CT-ND TP?
+U 1 1 5CE42FC8
+P 6300 650
+F 0 "TP?" H 6350 703 50  0000 L CNN
+F 1 "36-5029CT-ND" H 6300 750 50  0001 C CNN
+F 2 "digikey-footprints:PC_Test_Point_Mini_3.8x2.03mm" H 6600 950 60  0001 L CNN
+F 3 "" H 6300 750 60  0001 C CNN
+	1    6300 650 
+	1    0    0    -1  
+$EndComp
+$Comp
+L 36-5029ct-nd:StrainRelief SR?
+U 1 1 5CE42FCE
+P 6300 950
+F 0 "SR?" H 6378 858 50  0000 L CNN
+F 1 "StrainRelief" H 6000 1100 50  0001 C CNN
+F 2 "" H 6300 1000 50  0001 C CNN
+F 3 "" H 6300 1000 50  0001 C CNN
+	1    6300 950 
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	6300 650  6300 950 
+$Comp
+L 36-5029ct-nd:36-5029CT-ND TP?
+U 1 1 5CE42FD5
+P 6600 650
+F 0 "TP?" H 6650 703 50  0000 L CNN
+F 1 "36-5029CT-ND" H 6600 750 50  0001 C CNN
+F 2 "digikey-footprints:PC_Test_Point_Mini_3.8x2.03mm" H 6900 950 60  0001 L CNN
+F 3 "" H 6600 750 60  0001 C CNN
+	1    6600 650 
+	1    0    0    -1  
+$EndComp
+$Comp
+L 36-5029ct-nd:StrainRelief SR?
+U 1 1 5CE42FDB
+P 6600 950
+F 0 "SR?" H 6678 858 50  0000 L CNN
+F 1 "StrainRelief" H 6300 1100 50  0001 C CNN
+F 2 "" H 6600 1000 50  0001 C CNN
+F 3 "" H 6600 1000 50  0001 C CNN
+	1    6600 950 
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	6600 650  6600 950 
+$Comp
+L 36-5029ct-nd:36-5029CT-ND TP?
+U 1 1 5CE42FE2
+P 6900 650
+F 0 "TP?" H 6950 703 50  0000 L CNN
+F 1 "36-5029CT-ND" H 6900 750 50  0001 C CNN
+F 2 "digikey-footprints:PC_Test_Point_Mini_3.8x2.03mm" H 7200 950 60  0001 L CNN
+F 3 "" H 6900 750 60  0001 C CNN
+	1    6900 650 
+	1    0    0    -1  
+$EndComp
+$Comp
+L 36-5029ct-nd:StrainRelief SR?
+U 1 1 5CE42FE8
+P 6900 950
+F 0 "SR?" H 6978 858 50  0000 L CNN
+F 1 "StrainRelief" H 6600 1100 50  0001 C CNN
+F 2 "" H 6900 1000 50  0001 C CNN
+F 3 "" H 6900 1000 50  0001 C CNN
+	1    6900 950 
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	6900 650  6900 950 
+$Comp
+L 36-5029ct-nd:36-5029CT-ND TP?
+U 1 1 5CE42FEF
+P 7200 650
+F 0 "TP?" H 7250 703 50  0000 L CNN
+F 1 "36-5029CT-ND" H 7200 750 50  0001 C CNN
+F 2 "digikey-footprints:PC_Test_Point_Mini_3.8x2.03mm" H 7500 950 60  0001 L CNN
+F 3 "" H 7200 750 60  0001 C CNN
+	1    7200 650 
+	1    0    0    -1  
+$EndComp
+$Comp
+L 36-5029ct-nd:StrainRelief SR?
+U 1 1 5CE42FF5
+P 7200 950
+F 0 "SR?" H 7278 858 50  0000 L CNN
+F 1 "StrainRelief" H 6900 1100 50  0001 C CNN
+F 2 "" H 7200 1000 50  0001 C CNN
+F 3 "" H 7200 1000 50  0001 C CNN
+	1    7200 950 
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	7200 650  7200 950 
+$Comp
+L 36-5029ct-nd:36-5029CT-ND TP?
+U 1 1 5CE42FFC
+P 7500 650
+F 0 "TP?" H 7550 703 50  0000 L CNN
+F 1 "36-5029CT-ND" H 7500 750 50  0001 C CNN
+F 2 "digikey-footprints:PC_Test_Point_Mini_3.8x2.03mm" H 7800 950 60  0001 L CNN
+F 3 "" H 7500 750 60  0001 C CNN
+	1    7500 650 
+	1    0    0    -1  
+$EndComp
+$Comp
+L 36-5029ct-nd:StrainRelief SR?
+U 1 1 5CE43002
+P 7500 950
+F 0 "SR?" H 7578 858 50  0000 L CNN
+F 1 "StrainRelief" H 7200 1100 50  0001 C CNN
+F 2 "" H 7500 1000 50  0001 C CNN
+F 3 "" H 7500 1000 50  0001 C CNN
+	1    7500 950 
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	7500 650  7500 950 
+$Comp
+L 36-5029ct-nd:36-5029CT-ND TP?
+U 1 1 5CE43009
+P 7800 650
+F 0 "TP?" H 7850 703 50  0000 L CNN
+F 1 "36-5029CT-ND" H 7800 750 50  0001 C CNN
+F 2 "digikey-footprints:PC_Test_Point_Mini_3.8x2.03mm" H 8100 950 60  0001 L CNN
+F 3 "" H 7800 750 60  0001 C CNN
+	1    7800 650 
+	1    0    0    -1  
+$EndComp
+$Comp
+L 36-5029ct-nd:StrainRelief SR?
+U 1 1 5CE4300F
+P 7800 950
+F 0 "SR?" H 7878 858 50  0000 L CNN
+F 1 "StrainRelief" H 7500 1100 50  0001 C CNN
+F 2 "" H 7800 1000 50  0001 C CNN
+F 3 "" H 7800 1000 50  0001 C CNN
+	1    7800 950 
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	7800 650  7800 950 
+$Comp
+L 36-5029ct-nd:36-5029CT-ND TP?
+U 1 1 5CE43016
+P 8100 650
+F 0 "TP?" H 8150 703 50  0000 L CNN
+F 1 "36-5029CT-ND" H 8100 750 50  0001 C CNN
+F 2 "digikey-footprints:PC_Test_Point_Mini_3.8x2.03mm" H 8400 950 60  0001 L CNN
+F 3 "" H 8100 750 60  0001 C CNN
+	1    8100 650 
+	1    0    0    -1  
+$EndComp
+$Comp
+L 36-5029ct-nd:StrainRelief SR?
+U 1 1 5CE4301C
+P 8100 950
+F 0 "SR?" H 8178 858 50  0000 L CNN
+F 1 "StrainRelief" H 7800 1100 50  0001 C CNN
+F 2 "" H 8100 1000 50  0001 C CNN
+F 3 "" H 8100 1000 50  0001 C CNN
+	1    8100 950 
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	8100 650  8100 950 
+$Comp
+L 36-5029ct-nd:36-5029CT-ND TP?
+U 1 1 5CE43023
+P 8400 650
+F 0 "TP?" H 8450 703 50  0000 L CNN
+F 1 "36-5029CT-ND" H 8400 750 50  0001 C CNN
+F 2 "digikey-footprints:PC_Test_Point_Mini_3.8x2.03mm" H 8700 950 60  0001 L CNN
+F 3 "" H 8400 750 60  0001 C CNN
+	1    8400 650 
+	1    0    0    -1  
+$EndComp
+$Comp
+L 36-5029ct-nd:StrainRelief SR?
+U 1 1 5CE43029
+P 8400 950
+F 0 "SR?" H 8478 858 50  0000 L CNN
+F 1 "StrainRelief" H 8100 1100 50  0001 C CNN
+F 2 "" H 8400 1000 50  0001 C CNN
+F 3 "" H 8400 1000 50  0001 C CNN
+	1    8400 950 
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	8400 650  8400 950 
+$Comp
+L 36-5029ct-nd:36-5029CT-ND TP?
+U 1 1 5CE43030
+P 8700 650
+F 0 "TP?" H 8750 703 50  0000 L CNN
+F 1 "36-5029CT-ND" H 8700 750 50  0001 C CNN
+F 2 "digikey-footprints:PC_Test_Point_Mini_3.8x2.03mm" H 9000 950 60  0001 L CNN
+F 3 "" H 8700 750 60  0001 C CNN
+	1    8700 650 
+	1    0    0    -1  
+$EndComp
+$Comp
+L 36-5029ct-nd:StrainRelief SR?
+U 1 1 5CE43036
+P 8700 950
+F 0 "SR?" H 8778 858 50  0000 L CNN
+F 1 "StrainRelief" H 8400 1100 50  0001 C CNN
+F 2 "" H 8700 1000 50  0001 C CNN
+F 3 "" H 8700 1000 50  0001 C CNN
+	1    8700 950 
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	8700 650  8700 950 
+$Comp
+L 36-5029ct-nd:36-5029CT-ND TP?
+U 1 1 5CE4303D
+P 9000 650
+F 0 "TP?" H 9050 703 50  0000 L CNN
+F 1 "36-5029CT-ND" H 9000 750 50  0001 C CNN
+F 2 "digikey-footprints:PC_Test_Point_Mini_3.8x2.03mm" H 9300 950 60  0001 L CNN
+F 3 "" H 9000 750 60  0001 C CNN
+	1    9000 650 
+	1    0    0    -1  
+$EndComp
+$Comp
+L 36-5029ct-nd:StrainRelief SR?
+U 1 1 5CE43043
+P 9000 950
+F 0 "SR?" H 9078 858 50  0000 L CNN
+F 1 "StrainRelief" H 8700 1100 50  0001 C CNN
+F 2 "" H 9000 1000 50  0001 C CNN
+F 3 "" H 9000 1000 50  0001 C CNN
+	1    9000 950 
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	9000 650  9000 950 
+$Comp
+L 36-5029ct-nd:36-5029CT-ND TP?
+U 1 1 5CE4304A
+P 9300 650
+F 0 "TP?" H 9350 703 50  0000 L CNN
+F 1 "36-5029CT-ND" H 9300 750 50  0001 C CNN
+F 2 "digikey-footprints:PC_Test_Point_Mini_3.8x2.03mm" H 9600 950 60  0001 L CNN
+F 3 "" H 9300 750 60  0001 C CNN
+	1    9300 650 
+	1    0    0    -1  
+$EndComp
+$Comp
+L 36-5029ct-nd:StrainRelief SR?
+U 1 1 5CE43050
+P 9300 950
+F 0 "SR?" H 9378 858 50  0000 L CNN
+F 1 "StrainRelief" H 9000 1100 50  0001 C CNN
+F 2 "" H 9300 1000 50  0001 C CNN
+F 3 "" H 9300 1000 50  0001 C CNN
+	1    9300 950 
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	9300 650  9300 950 
+$Comp
+L 36-5029ct-nd:36-5029CT-ND TP?
+U 1 1 5CE43057
+P 9600 650
+F 0 "TP?" H 9650 703 50  0000 L CNN
+F 1 "36-5029CT-ND" H 9600 750 50  0001 C CNN
+F 2 "digikey-footprints:PC_Test_Point_Mini_3.8x2.03mm" H 9900 950 60  0001 L CNN
+F 3 "" H 9600 750 60  0001 C CNN
+	1    9600 650 
+	1    0    0    -1  
+$EndComp
+$Comp
+L 36-5029ct-nd:StrainRelief SR?
+U 1 1 5CE4305D
+P 9600 950
+F 0 "SR?" H 9678 858 50  0000 L CNN
+F 1 "StrainRelief" H 9300 1100 50  0001 C CNN
+F 2 "" H 9600 1000 50  0001 C CNN
+F 3 "" H 9600 1000 50  0001 C CNN
+	1    9600 950 
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	9600 650  9600 950 
+$Comp
+L 36-5029ct-nd:36-5029CT-ND TP?
+U 1 1 5CE43064
+P 9900 650
+F 0 "TP?" H 9950 703 50  0000 L CNN
+F 1 "36-5029CT-ND" H 9900 750 50  0001 C CNN
+F 2 "digikey-footprints:PC_Test_Point_Mini_3.8x2.03mm" H 10200 950 60  0001 L CNN
+F 3 "" H 9900 750 60  0001 C CNN
+	1    9900 650 
+	1    0    0    -1  
+$EndComp
+$Comp
+L 36-5029ct-nd:StrainRelief SR?
+U 1 1 5CE4306A
+P 9900 950
+F 0 "SR?" H 9978 858 50  0000 L CNN
+F 1 "StrainRelief" H 9600 1100 50  0001 C CNN
+F 2 "" H 9900 1000 50  0001 C CNN
+F 3 "" H 9900 1000 50  0001 C CNN
+	1    9900 950 
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	9900 650  9900 950 
+$Comp
+L 36-5029ct-nd:36-5029CT-ND TP?
+U 1 1 5CE5CEBB
+P 600 1450
+F 0 "TP?" H 650 1503 50  0000 L CNN
+F 1 "36-5029CT-ND" H 600 1550 50  0001 C CNN
+F 2 "digikey-footprints:PC_Test_Point_Mini_3.8x2.03mm" H 900 1750 60  0001 L CNN
+F 3 "" H 600 1550 60  0001 C CNN
+	1    600  1450
+	1    0    0    -1  
+$EndComp
+$Comp
+L 36-5029ct-nd:StrainRelief SR?
+U 1 1 5CE5CEC1
+P 600 1750
+F 0 "SR?" H 678 1658 50  0000 L CNN
+F 1 "StrainRelief" H 300 1900 50  0001 C CNN
+F 2 "" H 600 1800 50  0001 C CNN
+F 3 "" H 600 1800 50  0001 C CNN
+	1    600  1750
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	600  1450 600  1750
+$Comp
+L 36-5029ct-nd:36-5029CT-ND TP?
+U 1 1 5CE5CEC8
+P 900 1450
+F 0 "TP?" H 950 1503 50  0000 L CNN
+F 1 "36-5029CT-ND" H 900 1550 50  0001 C CNN
+F 2 "digikey-footprints:PC_Test_Point_Mini_3.8x2.03mm" H 1200 1750 60  0001 L CNN
+F 3 "" H 900 1550 60  0001 C CNN
+	1    900  1450
+	1    0    0    -1  
+$EndComp
+$Comp
+L 36-5029ct-nd:StrainRelief SR?
+U 1 1 5CE5CECE
+P 900 1750
+F 0 "SR?" H 978 1658 50  0000 L CNN
+F 1 "StrainRelief" H 600 1900 50  0001 C CNN
+F 2 "" H 900 1800 50  0001 C CNN
+F 3 "" H 900 1800 50  0001 C CNN
+	1    900  1750
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	900  1450 900  1750
+$Comp
+L 36-5029ct-nd:36-5029CT-ND TP?
+U 1 1 5CE5CED5
+P 1200 1450
+F 0 "TP?" H 1250 1503 50  0000 L CNN
+F 1 "36-5029CT-ND" H 1200 1550 50  0001 C CNN
+F 2 "digikey-footprints:PC_Test_Point_Mini_3.8x2.03mm" H 1500 1750 60  0001 L CNN
+F 3 "" H 1200 1550 60  0001 C CNN
+	1    1200 1450
+	1    0    0    -1  
+$EndComp
+$Comp
+L 36-5029ct-nd:StrainRelief SR?
+U 1 1 5CE5CEDB
+P 1200 1750
+F 0 "SR?" H 1278 1658 50  0000 L CNN
+F 1 "StrainRelief" H 900 1900 50  0001 C CNN
+F 2 "" H 1200 1800 50  0001 C CNN
+F 3 "" H 1200 1800 50  0001 C CNN
+	1    1200 1750
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	1200 1450 1200 1750
+$Comp
+L 36-5029ct-nd:36-5029CT-ND TP?
+U 1 1 5CE5CEE2
+P 1500 1450
+F 0 "TP?" H 1550 1503 50  0000 L CNN
+F 1 "36-5029CT-ND" H 1500 1550 50  0001 C CNN
+F 2 "digikey-footprints:PC_Test_Point_Mini_3.8x2.03mm" H 1800 1750 60  0001 L CNN
+F 3 "" H 1500 1550 60  0001 C CNN
+	1    1500 1450
+	1    0    0    -1  
+$EndComp
+$Comp
+L 36-5029ct-nd:StrainRelief SR?
+U 1 1 5CE5CEE8
+P 1500 1750
+F 0 "SR?" H 1578 1658 50  0000 L CNN
+F 1 "StrainRelief" H 1200 1900 50  0001 C CNN
+F 2 "" H 1500 1800 50  0001 C CNN
+F 3 "" H 1500 1800 50  0001 C CNN
+	1    1500 1750
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	1500 1450 1500 1750
+$Comp
+L 36-5029ct-nd:36-5029CT-ND TP?
+U 1 1 5CE5CEEF
+P 1800 1450
+F 0 "TP?" H 1850 1503 50  0000 L CNN
+F 1 "36-5029CT-ND" H 1800 1550 50  0001 C CNN
+F 2 "digikey-footprints:PC_Test_Point_Mini_3.8x2.03mm" H 2100 1750 60  0001 L CNN
+F 3 "" H 1800 1550 60  0001 C CNN
+	1    1800 1450
+	1    0    0    -1  
+$EndComp
+$Comp
+L 36-5029ct-nd:StrainRelief SR?
+U 1 1 5CE5CEF5
+P 1800 1750
+F 0 "SR?" H 1878 1658 50  0000 L CNN
+F 1 "StrainRelief" H 1500 1900 50  0001 C CNN
+F 2 "" H 1800 1800 50  0001 C CNN
+F 3 "" H 1800 1800 50  0001 C CNN
+	1    1800 1750
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	1800 1450 1800 1750
+$Comp
+L 36-5029ct-nd:36-5029CT-ND TP?
+U 1 1 5CE5CEFC
+P 2100 1450
+F 0 "TP?" H 2150 1503 50  0000 L CNN
+F 1 "36-5029CT-ND" H 2100 1550 50  0001 C CNN
+F 2 "digikey-footprints:PC_Test_Point_Mini_3.8x2.03mm" H 2400 1750 60  0001 L CNN
+F 3 "" H 2100 1550 60  0001 C CNN
+	1    2100 1450
+	1    0    0    -1  
+$EndComp
+$Comp
+L 36-5029ct-nd:StrainRelief SR?
+U 1 1 5CE5CF02
+P 2100 1750
+F 0 "SR?" H 2178 1658 50  0000 L CNN
+F 1 "StrainRelief" H 1800 1900 50  0001 C CNN
+F 2 "" H 2100 1800 50  0001 C CNN
+F 3 "" H 2100 1800 50  0001 C CNN
+	1    2100 1750
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	2100 1450 2100 1750
+$Comp
+L 36-5029ct-nd:36-5029CT-ND TP?
+U 1 1 5CE5CF09
+P 2400 1450
+F 0 "TP?" H 2450 1503 50  0000 L CNN
+F 1 "36-5029CT-ND" H 2400 1550 50  0001 C CNN
+F 2 "digikey-footprints:PC_Test_Point_Mini_3.8x2.03mm" H 2700 1750 60  0001 L CNN
+F 3 "" H 2400 1550 60  0001 C CNN
+	1    2400 1450
+	1    0    0    -1  
+$EndComp
+$Comp
+L 36-5029ct-nd:StrainRelief SR?
+U 1 1 5CE5CF0F
+P 2400 1750
+F 0 "SR?" H 2478 1658 50  0000 L CNN
+F 1 "StrainRelief" H 2100 1900 50  0001 C CNN
+F 2 "" H 2400 1800 50  0001 C CNN
+F 3 "" H 2400 1800 50  0001 C CNN
+	1    2400 1750
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	2400 1450 2400 1750
+$Comp
+L 36-5029ct-nd:36-5029CT-ND TP?
+U 1 1 5CE5CF16
+P 2700 1450
+F 0 "TP?" H 2750 1503 50  0000 L CNN
+F 1 "36-5029CT-ND" H 2700 1550 50  0001 C CNN
+F 2 "digikey-footprints:PC_Test_Point_Mini_3.8x2.03mm" H 3000 1750 60  0001 L CNN
+F 3 "" H 2700 1550 60  0001 C CNN
+	1    2700 1450
+	1    0    0    -1  
+$EndComp
+$Comp
+L 36-5029ct-nd:StrainRelief SR?
+U 1 1 5CE5CF1C
+P 2700 1750
+F 0 "SR?" H 2778 1658 50  0000 L CNN
+F 1 "StrainRelief" H 2400 1900 50  0001 C CNN
+F 2 "" H 2700 1800 50  0001 C CNN
+F 3 "" H 2700 1800 50  0001 C CNN
+	1    2700 1750
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	2700 1450 2700 1750
+$Comp
+L 36-5029ct-nd:36-5029CT-ND TP?
+U 1 1 5CE5CF23
+P 3000 1450
+F 0 "TP?" H 3050 1503 50  0000 L CNN
+F 1 "36-5029CT-ND" H 3000 1550 50  0001 C CNN
+F 2 "digikey-footprints:PC_Test_Point_Mini_3.8x2.03mm" H 3300 1750 60  0001 L CNN
+F 3 "" H 3000 1550 60  0001 C CNN
+	1    3000 1450
+	1    0    0    -1  
+$EndComp
+$Comp
+L 36-5029ct-nd:StrainRelief SR?
+U 1 1 5CE5CF29
+P 3000 1750
+F 0 "SR?" H 3078 1658 50  0000 L CNN
+F 1 "StrainRelief" H 2700 1900 50  0001 C CNN
+F 2 "" H 3000 1800 50  0001 C CNN
+F 3 "" H 3000 1800 50  0001 C CNN
+	1    3000 1750
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	3000 1450 3000 1750
+$Comp
+L 36-5029ct-nd:36-5029CT-ND TP?
+U 1 1 5CE5CF30
+P 3300 1450
+F 0 "TP?" H 3350 1503 50  0000 L CNN
+F 1 "36-5029CT-ND" H 3300 1550 50  0001 C CNN
+F 2 "digikey-footprints:PC_Test_Point_Mini_3.8x2.03mm" H 3600 1750 60  0001 L CNN
+F 3 "" H 3300 1550 60  0001 C CNN
+	1    3300 1450
+	1    0    0    -1  
+$EndComp
+$Comp
+L 36-5029ct-nd:StrainRelief SR?
+U 1 1 5CE5CF36
+P 3300 1750
+F 0 "SR?" H 3378 1658 50  0000 L CNN
+F 1 "StrainRelief" H 3000 1900 50  0001 C CNN
+F 2 "" H 3300 1800 50  0001 C CNN
+F 3 "" H 3300 1800 50  0001 C CNN
+	1    3300 1750
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	3300 1450 3300 1750
+$Comp
+L 36-5029ct-nd:36-5029CT-ND TP?
+U 1 1 5CE5CF3D
+P 3600 1450
+F 0 "TP?" H 3650 1503 50  0000 L CNN
+F 1 "36-5029CT-ND" H 3600 1550 50  0001 C CNN
+F 2 "digikey-footprints:PC_Test_Point_Mini_3.8x2.03mm" H 3900 1750 60  0001 L CNN
+F 3 "" H 3600 1550 60  0001 C CNN
+	1    3600 1450
+	1    0    0    -1  
+$EndComp
+$Comp
+L 36-5029ct-nd:StrainRelief SR?
+U 1 1 5CE5CF43
+P 3600 1750
+F 0 "SR?" H 3678 1658 50  0000 L CNN
+F 1 "StrainRelief" H 3300 1900 50  0001 C CNN
+F 2 "" H 3600 1800 50  0001 C CNN
+F 3 "" H 3600 1800 50  0001 C CNN
+	1    3600 1750
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	3600 1450 3600 1750
+$Comp
+L 36-5029ct-nd:36-5029CT-ND TP?
+U 1 1 5CE5CF4A
+P 3900 1450
+F 0 "TP?" H 3950 1503 50  0000 L CNN
+F 1 "36-5029CT-ND" H 3900 1550 50  0001 C CNN
+F 2 "digikey-footprints:PC_Test_Point_Mini_3.8x2.03mm" H 4200 1750 60  0001 L CNN
+F 3 "" H 3900 1550 60  0001 C CNN
+	1    3900 1450
+	1    0    0    -1  
+$EndComp
+$Comp
+L 36-5029ct-nd:StrainRelief SR?
+U 1 1 5CE5CF50
+P 3900 1750
+F 0 "SR?" H 3978 1658 50  0000 L CNN
+F 1 "StrainRelief" H 3600 1900 50  0001 C CNN
+F 2 "" H 3900 1800 50  0001 C CNN
+F 3 "" H 3900 1800 50  0001 C CNN
+	1    3900 1750
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	3900 1450 3900 1750
+$Comp
+L 36-5029ct-nd:36-5029CT-ND TP?
+U 1 1 5CE5CF57
+P 4200 1450
+F 0 "TP?" H 4250 1503 50  0000 L CNN
+F 1 "36-5029CT-ND" H 4200 1550 50  0001 C CNN
+F 2 "digikey-footprints:PC_Test_Point_Mini_3.8x2.03mm" H 4500 1750 60  0001 L CNN
+F 3 "" H 4200 1550 60  0001 C CNN
+	1    4200 1450
+	1    0    0    -1  
+$EndComp
+$Comp
+L 36-5029ct-nd:StrainRelief SR?
+U 1 1 5CE5CF5D
+P 4200 1750
+F 0 "SR?" H 4278 1658 50  0000 L CNN
+F 1 "StrainRelief" H 3900 1900 50  0001 C CNN
+F 2 "" H 4200 1800 50  0001 C CNN
+F 3 "" H 4200 1800 50  0001 C CNN
+	1    4200 1750
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	4200 1450 4200 1750
+$Comp
+L 36-5029ct-nd:36-5029CT-ND TP?
+U 1 1 5CE5CF64
+P 4500 1450
+F 0 "TP?" H 4550 1503 50  0000 L CNN
+F 1 "36-5029CT-ND" H 4500 1550 50  0001 C CNN
+F 2 "digikey-footprints:PC_Test_Point_Mini_3.8x2.03mm" H 4800 1750 60  0001 L CNN
+F 3 "" H 4500 1550 60  0001 C CNN
+	1    4500 1450
+	1    0    0    -1  
+$EndComp
+$Comp
+L 36-5029ct-nd:StrainRelief SR?
+U 1 1 5CE5CF6A
+P 4500 1750
+F 0 "SR?" H 4578 1658 50  0000 L CNN
+F 1 "StrainRelief" H 4200 1900 50  0001 C CNN
+F 2 "" H 4500 1800 50  0001 C CNN
+F 3 "" H 4500 1800 50  0001 C CNN
+	1    4500 1750
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	4500 1450 4500 1750
+$Comp
+L 36-5029ct-nd:36-5029CT-ND TP?
+U 1 1 5CE5CF71
+P 4800 1450
+F 0 "TP?" H 4850 1503 50  0000 L CNN
+F 1 "36-5029CT-ND" H 4800 1550 50  0001 C CNN
+F 2 "digikey-footprints:PC_Test_Point_Mini_3.8x2.03mm" H 5100 1750 60  0001 L CNN
+F 3 "" H 4800 1550 60  0001 C CNN
+	1    4800 1450
+	1    0    0    -1  
+$EndComp
+$Comp
+L 36-5029ct-nd:StrainRelief SR?
+U 1 1 5CE5CF77
+P 4800 1750
+F 0 "SR?" H 4878 1658 50  0000 L CNN
+F 1 "StrainRelief" H 4500 1900 50  0001 C CNN
+F 2 "" H 4800 1800 50  0001 C CNN
+F 3 "" H 4800 1800 50  0001 C CNN
+	1    4800 1750
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	4800 1450 4800 1750
+$Comp
+L 36-5029ct-nd:36-5029CT-ND TP?
+U 1 1 5CE5CF7E
+P 5100 1450
+F 0 "TP?" H 5150 1503 50  0000 L CNN
+F 1 "36-5029CT-ND" H 5100 1550 50  0001 C CNN
+F 2 "digikey-footprints:PC_Test_Point_Mini_3.8x2.03mm" H 5400 1750 60  0001 L CNN
+F 3 "" H 5100 1550 60  0001 C CNN
+	1    5100 1450
+	1    0    0    -1  
+$EndComp
+$Comp
+L 36-5029ct-nd:StrainRelief SR?
+U 1 1 5CE5CF84
+P 5100 1750
+F 0 "SR?" H 5178 1658 50  0000 L CNN
+F 1 "StrainRelief" H 4800 1900 50  0001 C CNN
+F 2 "" H 5100 1800 50  0001 C CNN
+F 3 "" H 5100 1800 50  0001 C CNN
+	1    5100 1750
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	5100 1450 5100 1750
+$Comp
+L 36-5029ct-nd:36-5029CT-ND TP?
+U 1 1 5CE5CF8B
+P 5400 1450
+F 0 "TP?" H 5450 1503 50  0000 L CNN
+F 1 "36-5029CT-ND" H 5400 1550 50  0001 C CNN
+F 2 "digikey-footprints:PC_Test_Point_Mini_3.8x2.03mm" H 5700 1750 60  0001 L CNN
+F 3 "" H 5400 1550 60  0001 C CNN
+	1    5400 1450
+	1    0    0    -1  
+$EndComp
+$Comp
+L 36-5029ct-nd:StrainRelief SR?
+U 1 1 5CE5CF91
+P 5400 1750
+F 0 "SR?" H 5478 1658 50  0000 L CNN
+F 1 "StrainRelief" H 5100 1900 50  0001 C CNN
+F 2 "" H 5400 1800 50  0001 C CNN
+F 3 "" H 5400 1800 50  0001 C CNN
+	1    5400 1750
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	5400 1450 5400 1750
+$Comp
+L 36-5029ct-nd:36-5029CT-ND TP?
+U 1 1 5CE5CF98
+P 5700 1450
+F 0 "TP?" H 5750 1503 50  0000 L CNN
+F 1 "36-5029CT-ND" H 5700 1550 50  0001 C CNN
+F 2 "digikey-footprints:PC_Test_Point_Mini_3.8x2.03mm" H 6000 1750 60  0001 L CNN
+F 3 "" H 5700 1550 60  0001 C CNN
+	1    5700 1450
+	1    0    0    -1  
+$EndComp
+$Comp
+L 36-5029ct-nd:StrainRelief SR?
+U 1 1 5CE5CF9E
+P 5700 1750
+F 0 "SR?" H 5778 1658 50  0000 L CNN
+F 1 "StrainRelief" H 5400 1900 50  0001 C CNN
+F 2 "" H 5700 1800 50  0001 C CNN
+F 3 "" H 5700 1800 50  0001 C CNN
+	1    5700 1750
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	5700 1450 5700 1750
+$Comp
+L 36-5029ct-nd:36-5029CT-ND TP?
+U 1 1 5CE5CFA5
+P 6000 1450
+F 0 "TP?" H 6050 1503 50  0000 L CNN
+F 1 "36-5029CT-ND" H 6000 1550 50  0001 C CNN
+F 2 "digikey-footprints:PC_Test_Point_Mini_3.8x2.03mm" H 6300 1750 60  0001 L CNN
+F 3 "" H 6000 1550 60  0001 C CNN
+	1    6000 1450
+	1    0    0    -1  
+$EndComp
+$Comp
+L 36-5029ct-nd:StrainRelief SR?
+U 1 1 5CE5CFAB
+P 6000 1750
+F 0 "SR?" H 6078 1658 50  0000 L CNN
+F 1 "StrainRelief" H 5700 1900 50  0001 C CNN
+F 2 "" H 6000 1800 50  0001 C CNN
+F 3 "" H 6000 1800 50  0001 C CNN
+	1    6000 1750
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	6000 1450 6000 1750
+$Comp
+L 36-5029ct-nd:36-5029CT-ND TP?
+U 1 1 5CE5CFB2
+P 6300 1450
+F 0 "TP?" H 6350 1503 50  0000 L CNN
+F 1 "36-5029CT-ND" H 6300 1550 50  0001 C CNN
+F 2 "digikey-footprints:PC_Test_Point_Mini_3.8x2.03mm" H 6600 1750 60  0001 L CNN
+F 3 "" H 6300 1550 60  0001 C CNN
+	1    6300 1450
+	1    0    0    -1  
+$EndComp
+$Comp
+L 36-5029ct-nd:StrainRelief SR?
+U 1 1 5CE5CFB8
+P 6300 1750
+F 0 "SR?" H 6378 1658 50  0000 L CNN
+F 1 "StrainRelief" H 6000 1900 50  0001 C CNN
+F 2 "" H 6300 1800 50  0001 C CNN
+F 3 "" H 6300 1800 50  0001 C CNN
+	1    6300 1750
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	6300 1450 6300 1750
+$Comp
+L 36-5029ct-nd:36-5029CT-ND TP?
+U 1 1 5CE5CFBF
+P 6600 1450
+F 0 "TP?" H 6650 1503 50  0000 L CNN
+F 1 "36-5029CT-ND" H 6600 1550 50  0001 C CNN
+F 2 "digikey-footprints:PC_Test_Point_Mini_3.8x2.03mm" H 6900 1750 60  0001 L CNN
+F 3 "" H 6600 1550 60  0001 C CNN
+	1    6600 1450
+	1    0    0    -1  
+$EndComp
+$Comp
+L 36-5029ct-nd:StrainRelief SR?
+U 1 1 5CE5CFC5
+P 6600 1750
+F 0 "SR?" H 6678 1658 50  0000 L CNN
+F 1 "StrainRelief" H 6300 1900 50  0001 C CNN
+F 2 "" H 6600 1800 50  0001 C CNN
+F 3 "" H 6600 1800 50  0001 C CNN
+	1    6600 1750
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	6600 1450 6600 1750
+$Comp
+L 36-5029ct-nd:36-5029CT-ND TP?
+U 1 1 5CE5CFCC
+P 6900 1450
+F 0 "TP?" H 6950 1503 50  0000 L CNN
+F 1 "36-5029CT-ND" H 6900 1550 50  0001 C CNN
+F 2 "digikey-footprints:PC_Test_Point_Mini_3.8x2.03mm" H 7200 1750 60  0001 L CNN
+F 3 "" H 6900 1550 60  0001 C CNN
+	1    6900 1450
+	1    0    0    -1  
+$EndComp
+$Comp
+L 36-5029ct-nd:StrainRelief SR?
+U 1 1 5CE5CFD2
+P 6900 1750
+F 0 "SR?" H 6978 1658 50  0000 L CNN
+F 1 "StrainRelief" H 6600 1900 50  0001 C CNN
+F 2 "" H 6900 1800 50  0001 C CNN
+F 3 "" H 6900 1800 50  0001 C CNN
+	1    6900 1750
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	6900 1450 6900 1750
+$Comp
+L 36-5029ct-nd:36-5029CT-ND TP?
+U 1 1 5CE5CFD9
+P 7200 1450
+F 0 "TP?" H 7250 1503 50  0000 L CNN
+F 1 "36-5029CT-ND" H 7200 1550 50  0001 C CNN
+F 2 "digikey-footprints:PC_Test_Point_Mini_3.8x2.03mm" H 7500 1750 60  0001 L CNN
+F 3 "" H 7200 1550 60  0001 C CNN
+	1    7200 1450
+	1    0    0    -1  
+$EndComp
+$Comp
+L 36-5029ct-nd:StrainRelief SR?
+U 1 1 5CE5CFDF
+P 7200 1750
+F 0 "SR?" H 7278 1658 50  0000 L CNN
+F 1 "StrainRelief" H 6900 1900 50  0001 C CNN
+F 2 "" H 7200 1800 50  0001 C CNN
+F 3 "" H 7200 1800 50  0001 C CNN
+	1    7200 1750
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	7200 1450 7200 1750
+$Comp
+L 36-5029ct-nd:36-5029CT-ND TP?
+U 1 1 5CE5CFE6
+P 7500 1450
+F 0 "TP?" H 7550 1503 50  0000 L CNN
+F 1 "36-5029CT-ND" H 7500 1550 50  0001 C CNN
+F 2 "digikey-footprints:PC_Test_Point_Mini_3.8x2.03mm" H 7800 1750 60  0001 L CNN
+F 3 "" H 7500 1550 60  0001 C CNN
+	1    7500 1450
+	1    0    0    -1  
+$EndComp
+$Comp
+L 36-5029ct-nd:StrainRelief SR?
+U 1 1 5CE5CFEC
+P 7500 1750
+F 0 "SR?" H 7578 1658 50  0000 L CNN
+F 1 "StrainRelief" H 7200 1900 50  0001 C CNN
+F 2 "" H 7500 1800 50  0001 C CNN
+F 3 "" H 7500 1800 50  0001 C CNN
+	1    7500 1750
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	7500 1450 7500 1750
+$Comp
+L 36-5029ct-nd:36-5029CT-ND TP?
+U 1 1 5CE5CFF3
+P 7800 1450
+F 0 "TP?" H 7850 1503 50  0000 L CNN
+F 1 "36-5029CT-ND" H 7800 1550 50  0001 C CNN
+F 2 "digikey-footprints:PC_Test_Point_Mini_3.8x2.03mm" H 8100 1750 60  0001 L CNN
+F 3 "" H 7800 1550 60  0001 C CNN
+	1    7800 1450
+	1    0    0    -1  
+$EndComp
+$Comp
+L 36-5029ct-nd:StrainRelief SR?
+U 1 1 5CE5CFF9
+P 7800 1750
+F 0 "SR?" H 7878 1658 50  0000 L CNN
+F 1 "StrainRelief" H 7500 1900 50  0001 C CNN
+F 2 "" H 7800 1800 50  0001 C CNN
+F 3 "" H 7800 1800 50  0001 C CNN
+	1    7800 1750
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	7800 1450 7800 1750
+$Comp
+L 36-5029ct-nd:36-5029CT-ND TP?
+U 1 1 5CE5D000
+P 8100 1450
+F 0 "TP?" H 8150 1503 50  0000 L CNN
+F 1 "36-5029CT-ND" H 8100 1550 50  0001 C CNN
+F 2 "digikey-footprints:PC_Test_Point_Mini_3.8x2.03mm" H 8400 1750 60  0001 L CNN
+F 3 "" H 8100 1550 60  0001 C CNN
+	1    8100 1450
+	1    0    0    -1  
+$EndComp
+$Comp
+L 36-5029ct-nd:StrainRelief SR?
+U 1 1 5CE5D006
+P 8100 1750
+F 0 "SR?" H 8178 1658 50  0000 L CNN
+F 1 "StrainRelief" H 7800 1900 50  0001 C CNN
+F 2 "" H 8100 1800 50  0001 C CNN
+F 3 "" H 8100 1800 50  0001 C CNN
+	1    8100 1750
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	8100 1450 8100 1750
+$Comp
+L 36-5029ct-nd:36-5029CT-ND TP?
+U 1 1 5CE5D00D
+P 8400 1450
+F 0 "TP?" H 8450 1503 50  0000 L CNN
+F 1 "36-5029CT-ND" H 8400 1550 50  0001 C CNN
+F 2 "digikey-footprints:PC_Test_Point_Mini_3.8x2.03mm" H 8700 1750 60  0001 L CNN
+F 3 "" H 8400 1550 60  0001 C CNN
+	1    8400 1450
+	1    0    0    -1  
+$EndComp
+$Comp
+L 36-5029ct-nd:StrainRelief SR?
+U 1 1 5CE5D013
+P 8400 1750
+F 0 "SR?" H 8478 1658 50  0000 L CNN
+F 1 "StrainRelief" H 8100 1900 50  0001 C CNN
+F 2 "" H 8400 1800 50  0001 C CNN
+F 3 "" H 8400 1800 50  0001 C CNN
+	1    8400 1750
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	8400 1450 8400 1750
+$Comp
+L 36-5029ct-nd:36-5029CT-ND TP?
+U 1 1 5CE5D01A
+P 8700 1450
+F 0 "TP?" H 8750 1503 50  0000 L CNN
+F 1 "36-5029CT-ND" H 8700 1550 50  0001 C CNN
+F 2 "digikey-footprints:PC_Test_Point_Mini_3.8x2.03mm" H 9000 1750 60  0001 L CNN
+F 3 "" H 8700 1550 60  0001 C CNN
+	1    8700 1450
+	1    0    0    -1  
+$EndComp
+$Comp
+L 36-5029ct-nd:StrainRelief SR?
+U 1 1 5CE5D020
+P 8700 1750
+F 0 "SR?" H 8778 1658 50  0000 L CNN
+F 1 "StrainRelief" H 8400 1900 50  0001 C CNN
+F 2 "" H 8700 1800 50  0001 C CNN
+F 3 "" H 8700 1800 50  0001 C CNN
+	1    8700 1750
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	8700 1450 8700 1750
+$Comp
+L 36-5029ct-nd:36-5029CT-ND TP?
+U 1 1 5CE5D027
+P 9000 1450
+F 0 "TP?" H 9050 1503 50  0000 L CNN
+F 1 "36-5029CT-ND" H 9000 1550 50  0001 C CNN
+F 2 "digikey-footprints:PC_Test_Point_Mini_3.8x2.03mm" H 9300 1750 60  0001 L CNN
+F 3 "" H 9000 1550 60  0001 C CNN
+	1    9000 1450
+	1    0    0    -1  
+$EndComp
+$Comp
+L 36-5029ct-nd:StrainRelief SR?
+U 1 1 5CE5D02D
+P 9000 1750
+F 0 "SR?" H 9078 1658 50  0000 L CNN
+F 1 "StrainRelief" H 8700 1900 50  0001 C CNN
+F 2 "" H 9000 1800 50  0001 C CNN
+F 3 "" H 9000 1800 50  0001 C CNN
+	1    9000 1750
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	9000 1450 9000 1750
+$Comp
+L 36-5029ct-nd:36-5029CT-ND TP?
+U 1 1 5CE5D034
+P 9300 1450
+F 0 "TP?" H 9350 1503 50  0000 L CNN
+F 1 "36-5029CT-ND" H 9300 1550 50  0001 C CNN
+F 2 "digikey-footprints:PC_Test_Point_Mini_3.8x2.03mm" H 9600 1750 60  0001 L CNN
+F 3 "" H 9300 1550 60  0001 C CNN
+	1    9300 1450
+	1    0    0    -1  
+$EndComp
+$Comp
+L 36-5029ct-nd:StrainRelief SR?
+U 1 1 5CE5D03A
+P 9300 1750
+F 0 "SR?" H 9378 1658 50  0000 L CNN
+F 1 "StrainRelief" H 9000 1900 50  0001 C CNN
+F 2 "" H 9300 1800 50  0001 C CNN
+F 3 "" H 9300 1800 50  0001 C CNN
+	1    9300 1750
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	9300 1450 9300 1750
+$Comp
+L 36-5029ct-nd:36-5029CT-ND TP?
+U 1 1 5CE5D041
+P 9600 1450
+F 0 "TP?" H 9650 1503 50  0000 L CNN
+F 1 "36-5029CT-ND" H 9600 1550 50  0001 C CNN
+F 2 "digikey-footprints:PC_Test_Point_Mini_3.8x2.03mm" H 9900 1750 60  0001 L CNN
+F 3 "" H 9600 1550 60  0001 C CNN
+	1    9600 1450
+	1    0    0    -1  
+$EndComp
+$Comp
+L 36-5029ct-nd:StrainRelief SR?
+U 1 1 5CE5D047
+P 9600 1750
+F 0 "SR?" H 9678 1658 50  0000 L CNN
+F 1 "StrainRelief" H 9300 1900 50  0001 C CNN
+F 2 "" H 9600 1800 50  0001 C CNN
+F 3 "" H 9600 1800 50  0001 C CNN
+	1    9600 1750
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	9600 1450 9600 1750
+$Comp
+L 36-5029ct-nd:36-5029CT-ND TP?
+U 1 1 5CE5D04E
+P 9900 1450
+F 0 "TP?" H 9950 1503 50  0000 L CNN
+F 1 "36-5029CT-ND" H 9900 1550 50  0001 C CNN
+F 2 "digikey-footprints:PC_Test_Point_Mini_3.8x2.03mm" H 10200 1750 60  0001 L CNN
+F 3 "" H 9900 1550 60  0001 C CNN
+	1    9900 1450
+	1    0    0    -1  
+$EndComp
+$Comp
+L 36-5029ct-nd:StrainRelief SR?
+U 1 1 5CE5D054
+P 9900 1750
+F 0 "SR?" H 9978 1658 50  0000 L CNN
+F 1 "StrainRelief" H 9600 1900 50  0001 C CNN
+F 2 "" H 9900 1800 50  0001 C CNN
+F 3 "" H 9900 1800 50  0001 C CNN
+	1    9900 1750
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	9900 1450 9900 1750
+$Comp
+L 36-5029ct-nd:36-5029CT-ND TP?
+U 1 1 5CE874E9
+P 600 2250
+F 0 "TP?" H 650 2303 50  0000 L CNN
+F 1 "36-5029CT-ND" H 600 2350 50  0001 C CNN
+F 2 "digikey-footprints:PC_Test_Point_Mini_3.8x2.03mm" H 900 2550 60  0001 L CNN
+F 3 "" H 600 2350 60  0001 C CNN
+	1    600  2250
+	1    0    0    -1  
+$EndComp
+$Comp
+L 36-5029ct-nd:StrainRelief SR?
+U 1 1 5CE874EF
+P 600 2550
+F 0 "SR?" H 678 2458 50  0000 L CNN
+F 1 "StrainRelief" H 300 2700 50  0001 C CNN
+F 2 "" H 600 2600 50  0001 C CNN
+F 3 "" H 600 2600 50  0001 C CNN
+	1    600  2550
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	600  2250 600  2550
+$Comp
+L 36-5029ct-nd:36-5029CT-ND TP?
+U 1 1 5CE874F6
+P 900 2250
+F 0 "TP?" H 950 2303 50  0000 L CNN
+F 1 "36-5029CT-ND" H 900 2350 50  0001 C CNN
+F 2 "digikey-footprints:PC_Test_Point_Mini_3.8x2.03mm" H 1200 2550 60  0001 L CNN
+F 3 "" H 900 2350 60  0001 C CNN
+	1    900  2250
+	1    0    0    -1  
+$EndComp
+$Comp
+L 36-5029ct-nd:StrainRelief SR?
+U 1 1 5CE874FC
+P 900 2550
+F 0 "SR?" H 978 2458 50  0000 L CNN
+F 1 "StrainRelief" H 600 2700 50  0001 C CNN
+F 2 "" H 900 2600 50  0001 C CNN
+F 3 "" H 900 2600 50  0001 C CNN
+	1    900  2550
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	900  2250 900  2550
+$Comp
+L 36-5029ct-nd:36-5029CT-ND TP?
+U 1 1 5CE87503
+P 1200 2250
+F 0 "TP?" H 1250 2303 50  0000 L CNN
+F 1 "36-5029CT-ND" H 1200 2350 50  0001 C CNN
+F 2 "digikey-footprints:PC_Test_Point_Mini_3.8x2.03mm" H 1500 2550 60  0001 L CNN
+F 3 "" H 1200 2350 60  0001 C CNN
+	1    1200 2250
+	1    0    0    -1  
+$EndComp
+$Comp
+L 36-5029ct-nd:StrainRelief SR?
+U 1 1 5CE87509
+P 1200 2550
+F 0 "SR?" H 1278 2458 50  0000 L CNN
+F 1 "StrainRelief" H 900 2700 50  0001 C CNN
+F 2 "" H 1200 2600 50  0001 C CNN
+F 3 "" H 1200 2600 50  0001 C CNN
+	1    1200 2550
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	1200 2250 1200 2550
+$Comp
+L 36-5029ct-nd:36-5029CT-ND TP?
+U 1 1 5CE87510
+P 1500 2250
+F 0 "TP?" H 1550 2303 50  0000 L CNN
+F 1 "36-5029CT-ND" H 1500 2350 50  0001 C CNN
+F 2 "digikey-footprints:PC_Test_Point_Mini_3.8x2.03mm" H 1800 2550 60  0001 L CNN
+F 3 "" H 1500 2350 60  0001 C CNN
+	1    1500 2250
+	1    0    0    -1  
+$EndComp
+$Comp
+L 36-5029ct-nd:StrainRelief SR?
+U 1 1 5CE87516
+P 1500 2550
+F 0 "SR?" H 1578 2458 50  0000 L CNN
+F 1 "StrainRelief" H 1200 2700 50  0001 C CNN
+F 2 "" H 1500 2600 50  0001 C CNN
+F 3 "" H 1500 2600 50  0001 C CNN
+	1    1500 2550
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	1500 2250 1500 2550
+$Comp
+L 36-5029ct-nd:36-5029CT-ND TP?
+U 1 1 5CE8751D
+P 1800 2250
+F 0 "TP?" H 1850 2303 50  0000 L CNN
+F 1 "36-5029CT-ND" H 1800 2350 50  0001 C CNN
+F 2 "digikey-footprints:PC_Test_Point_Mini_3.8x2.03mm" H 2100 2550 60  0001 L CNN
+F 3 "" H 1800 2350 60  0001 C CNN
+	1    1800 2250
+	1    0    0    -1  
+$EndComp
+$Comp
+L 36-5029ct-nd:StrainRelief SR?
+U 1 1 5CE87523
+P 1800 2550
+F 0 "SR?" H 1878 2458 50  0000 L CNN
+F 1 "StrainRelief" H 1500 2700 50  0001 C CNN
+F 2 "" H 1800 2600 50  0001 C CNN
+F 3 "" H 1800 2600 50  0001 C CNN
+	1    1800 2550
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	1800 2250 1800 2550
+$Comp
+L 36-5029ct-nd:36-5029CT-ND TP?
+U 1 1 5CE8752A
+P 2100 2250
+F 0 "TP?" H 2150 2303 50  0000 L CNN
+F 1 "36-5029CT-ND" H 2100 2350 50  0001 C CNN
+F 2 "digikey-footprints:PC_Test_Point_Mini_3.8x2.03mm" H 2400 2550 60  0001 L CNN
+F 3 "" H 2100 2350 60  0001 C CNN
+	1    2100 2250
+	1    0    0    -1  
+$EndComp
+$Comp
+L 36-5029ct-nd:StrainRelief SR?
+U 1 1 5CE87530
+P 2100 2550
+F 0 "SR?" H 2178 2458 50  0000 L CNN
+F 1 "StrainRelief" H 1800 2700 50  0001 C CNN
+F 2 "" H 2100 2600 50  0001 C CNN
+F 3 "" H 2100 2600 50  0001 C CNN
+	1    2100 2550
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	2100 2250 2100 2550
+$Comp
+L 36-5029ct-nd:36-5029CT-ND TP?
+U 1 1 5CE87537
+P 2400 2250
+F 0 "TP?" H 2450 2303 50  0000 L CNN
+F 1 "36-5029CT-ND" H 2400 2350 50  0001 C CNN
+F 2 "digikey-footprints:PC_Test_Point_Mini_3.8x2.03mm" H 2700 2550 60  0001 L CNN
+F 3 "" H 2400 2350 60  0001 C CNN
+	1    2400 2250
+	1    0    0    -1  
+$EndComp
+$Comp
+L 36-5029ct-nd:StrainRelief SR?
+U 1 1 5CE8753D
+P 2400 2550
+F 0 "SR?" H 2478 2458 50  0000 L CNN
+F 1 "StrainRelief" H 2100 2700 50  0001 C CNN
+F 2 "" H 2400 2600 50  0001 C CNN
+F 3 "" H 2400 2600 50  0001 C CNN
+	1    2400 2550
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	2400 2250 2400 2550
+$Comp
+L 36-5029ct-nd:36-5029CT-ND TP?
+U 1 1 5CE87544
+P 2700 2250
+F 0 "TP?" H 2750 2303 50  0000 L CNN
+F 1 "36-5029CT-ND" H 2700 2350 50  0001 C CNN
+F 2 "digikey-footprints:PC_Test_Point_Mini_3.8x2.03mm" H 3000 2550 60  0001 L CNN
+F 3 "" H 2700 2350 60  0001 C CNN
+	1    2700 2250
+	1    0    0    -1  
+$EndComp
+$Comp
+L 36-5029ct-nd:StrainRelief SR?
+U 1 1 5CE8754A
+P 2700 2550
+F 0 "SR?" H 2778 2458 50  0000 L CNN
+F 1 "StrainRelief" H 2400 2700 50  0001 C CNN
+F 2 "" H 2700 2600 50  0001 C CNN
+F 3 "" H 2700 2600 50  0001 C CNN
+	1    2700 2550
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	2700 2250 2700 2550
+$Comp
+L 36-5029ct-nd:36-5029CT-ND TP?
+U 1 1 5CE87551
+P 3000 2250
+F 0 "TP?" H 3050 2303 50  0000 L CNN
+F 1 "36-5029CT-ND" H 3000 2350 50  0001 C CNN
+F 2 "digikey-footprints:PC_Test_Point_Mini_3.8x2.03mm" H 3300 2550 60  0001 L CNN
+F 3 "" H 3000 2350 60  0001 C CNN
+	1    3000 2250
+	1    0    0    -1  
+$EndComp
+$Comp
+L 36-5029ct-nd:StrainRelief SR?
+U 1 1 5CE87557
+P 3000 2550
+F 0 "SR?" H 3078 2458 50  0000 L CNN
+F 1 "StrainRelief" H 2700 2700 50  0001 C CNN
+F 2 "" H 3000 2600 50  0001 C CNN
+F 3 "" H 3000 2600 50  0001 C CNN
+	1    3000 2550
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	3000 2250 3000 2550
+$Comp
+L 36-5029ct-nd:36-5029CT-ND TP?
+U 1 1 5CE8755E
+P 3300 2250
+F 0 "TP?" H 3350 2303 50  0000 L CNN
+F 1 "36-5029CT-ND" H 3300 2350 50  0001 C CNN
+F 2 "digikey-footprints:PC_Test_Point_Mini_3.8x2.03mm" H 3600 2550 60  0001 L CNN
+F 3 "" H 3300 2350 60  0001 C CNN
+	1    3300 2250
+	1    0    0    -1  
+$EndComp
+$Comp
+L 36-5029ct-nd:StrainRelief SR?
+U 1 1 5CE87564
+P 3300 2550
+F 0 "SR?" H 3378 2458 50  0000 L CNN
+F 1 "StrainRelief" H 3000 2700 50  0001 C CNN
+F 2 "" H 3300 2600 50  0001 C CNN
+F 3 "" H 3300 2600 50  0001 C CNN
+	1    3300 2550
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	3300 2250 3300 2550
+$Comp
+L 36-5029ct-nd:36-5029CT-ND TP?
+U 1 1 5CE8756B
+P 3600 2250
+F 0 "TP?" H 3650 2303 50  0000 L CNN
+F 1 "36-5029CT-ND" H 3600 2350 50  0001 C CNN
+F 2 "digikey-footprints:PC_Test_Point_Mini_3.8x2.03mm" H 3900 2550 60  0001 L CNN
+F 3 "" H 3600 2350 60  0001 C CNN
+	1    3600 2250
+	1    0    0    -1  
+$EndComp
+$Comp
+L 36-5029ct-nd:StrainRelief SR?
+U 1 1 5CE87571
+P 3600 2550
+F 0 "SR?" H 3678 2458 50  0000 L CNN
+F 1 "StrainRelief" H 3300 2700 50  0001 C CNN
+F 2 "" H 3600 2600 50  0001 C CNN
+F 3 "" H 3600 2600 50  0001 C CNN
+	1    3600 2550
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	3600 2250 3600 2550
+$Comp
+L 36-5029ct-nd:36-5029CT-ND TP?
+U 1 1 5CE87578
+P 3900 2250
+F 0 "TP?" H 3950 2303 50  0000 L CNN
+F 1 "36-5029CT-ND" H 3900 2350 50  0001 C CNN
+F 2 "digikey-footprints:PC_Test_Point_Mini_3.8x2.03mm" H 4200 2550 60  0001 L CNN
+F 3 "" H 3900 2350 60  0001 C CNN
+	1    3900 2250
+	1    0    0    -1  
+$EndComp
+$Comp
+L 36-5029ct-nd:StrainRelief SR?
+U 1 1 5CE8757E
+P 3900 2550
+F 0 "SR?" H 3978 2458 50  0000 L CNN
+F 1 "StrainRelief" H 3600 2700 50  0001 C CNN
+F 2 "" H 3900 2600 50  0001 C CNN
+F 3 "" H 3900 2600 50  0001 C CNN
+	1    3900 2550
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	3900 2250 3900 2550
+$Comp
+L 36-5029ct-nd:36-5029CT-ND TP?
+U 1 1 5CE87585
+P 4200 2250
+F 0 "TP?" H 4250 2303 50  0000 L CNN
+F 1 "36-5029CT-ND" H 4200 2350 50  0001 C CNN
+F 2 "digikey-footprints:PC_Test_Point_Mini_3.8x2.03mm" H 4500 2550 60  0001 L CNN
+F 3 "" H 4200 2350 60  0001 C CNN
+	1    4200 2250
+	1    0    0    -1  
+$EndComp
+$Comp
+L 36-5029ct-nd:StrainRelief SR?
+U 1 1 5CE8758B
+P 4200 2550
+F 0 "SR?" H 4278 2458 50  0000 L CNN
+F 1 "StrainRelief" H 3900 2700 50  0001 C CNN
+F 2 "" H 4200 2600 50  0001 C CNN
+F 3 "" H 4200 2600 50  0001 C CNN
+	1    4200 2550
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	4200 2250 4200 2550
+$Comp
+L 36-5029ct-nd:36-5029CT-ND TP?
+U 1 1 5CE87592
+P 4500 2250
+F 0 "TP?" H 4550 2303 50  0000 L CNN
+F 1 "36-5029CT-ND" H 4500 2350 50  0001 C CNN
+F 2 "digikey-footprints:PC_Test_Point_Mini_3.8x2.03mm" H 4800 2550 60  0001 L CNN
+F 3 "" H 4500 2350 60  0001 C CNN
+	1    4500 2250
+	1    0    0    -1  
+$EndComp
+$Comp
+L 36-5029ct-nd:StrainRelief SR?
+U 1 1 5CE87598
+P 4500 2550
+F 0 "SR?" H 4578 2458 50  0000 L CNN
+F 1 "StrainRelief" H 4200 2700 50  0001 C CNN
+F 2 "" H 4500 2600 50  0001 C CNN
+F 3 "" H 4500 2600 50  0001 C CNN
+	1    4500 2550
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	4500 2250 4500 2550
+$Comp
+L 36-5029ct-nd:36-5029CT-ND TP?
+U 1 1 5CE8759F
+P 4800 2250
+F 0 "TP?" H 4850 2303 50  0000 L CNN
+F 1 "36-5029CT-ND" H 4800 2350 50  0001 C CNN
+F 2 "digikey-footprints:PC_Test_Point_Mini_3.8x2.03mm" H 5100 2550 60  0001 L CNN
+F 3 "" H 4800 2350 60  0001 C CNN
+	1    4800 2250
+	1    0    0    -1  
+$EndComp
+$Comp
+L 36-5029ct-nd:StrainRelief SR?
+U 1 1 5CE875A5
+P 4800 2550
+F 0 "SR?" H 4878 2458 50  0000 L CNN
+F 1 "StrainRelief" H 4500 2700 50  0001 C CNN
+F 2 "" H 4800 2600 50  0001 C CNN
+F 3 "" H 4800 2600 50  0001 C CNN
+	1    4800 2550
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	4800 2250 4800 2550
+$Comp
+L 36-5029ct-nd:36-5029CT-ND TP?
+U 1 1 5CE875AC
+P 5100 2250
+F 0 "TP?" H 5150 2303 50  0000 L CNN
+F 1 "36-5029CT-ND" H 5100 2350 50  0001 C CNN
+F 2 "digikey-footprints:PC_Test_Point_Mini_3.8x2.03mm" H 5400 2550 60  0001 L CNN
+F 3 "" H 5100 2350 60  0001 C CNN
+	1    5100 2250
+	1    0    0    -1  
+$EndComp
+$Comp
+L 36-5029ct-nd:StrainRelief SR?
+U 1 1 5CE875B2
+P 5100 2550
+F 0 "SR?" H 5178 2458 50  0000 L CNN
+F 1 "StrainRelief" H 4800 2700 50  0001 C CNN
+F 2 "" H 5100 2600 50  0001 C CNN
+F 3 "" H 5100 2600 50  0001 C CNN
+	1    5100 2550
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	5100 2250 5100 2550
+$Comp
+L 36-5029ct-nd:36-5029CT-ND TP?
+U 1 1 5CE875B9
+P 5400 2250
+F 0 "TP?" H 5450 2303 50  0000 L CNN
+F 1 "36-5029CT-ND" H 5400 2350 50  0001 C CNN
+F 2 "digikey-footprints:PC_Test_Point_Mini_3.8x2.03mm" H 5700 2550 60  0001 L CNN
+F 3 "" H 5400 2350 60  0001 C CNN
+	1    5400 2250
+	1    0    0    -1  
+$EndComp
+$Comp
+L 36-5029ct-nd:StrainRelief SR?
+U 1 1 5CE875BF
+P 5400 2550
+F 0 "SR?" H 5478 2458 50  0000 L CNN
+F 1 "StrainRelief" H 5100 2700 50  0001 C CNN
+F 2 "" H 5400 2600 50  0001 C CNN
+F 3 "" H 5400 2600 50  0001 C CNN
+	1    5400 2550
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	5400 2250 5400 2550
+$Comp
+L 36-5029ct-nd:36-5029CT-ND TP?
+U 1 1 5CE875C6
+P 5700 2250
+F 0 "TP?" H 5750 2303 50  0000 L CNN
+F 1 "36-5029CT-ND" H 5700 2350 50  0001 C CNN
+F 2 "digikey-footprints:PC_Test_Point_Mini_3.8x2.03mm" H 6000 2550 60  0001 L CNN
+F 3 "" H 5700 2350 60  0001 C CNN
+	1    5700 2250
+	1    0    0    -1  
+$EndComp
+$Comp
+L 36-5029ct-nd:StrainRelief SR?
+U 1 1 5CE875CC
+P 5700 2550
+F 0 "SR?" H 5778 2458 50  0000 L CNN
+F 1 "StrainRelief" H 5400 2700 50  0001 C CNN
+F 2 "" H 5700 2600 50  0001 C CNN
+F 3 "" H 5700 2600 50  0001 C CNN
+	1    5700 2550
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	5700 2250 5700 2550
+$Comp
+L 36-5029ct-nd:36-5029CT-ND TP?
+U 1 1 5CE875D3
+P 6000 2250
+F 0 "TP?" H 6050 2303 50  0000 L CNN
+F 1 "36-5029CT-ND" H 6000 2350 50  0001 C CNN
+F 2 "digikey-footprints:PC_Test_Point_Mini_3.8x2.03mm" H 6300 2550 60  0001 L CNN
+F 3 "" H 6000 2350 60  0001 C CNN
+	1    6000 2250
+	1    0    0    -1  
+$EndComp
+$Comp
+L 36-5029ct-nd:StrainRelief SR?
+U 1 1 5CE875D9
+P 6000 2550
+F 0 "SR?" H 6078 2458 50  0000 L CNN
+F 1 "StrainRelief" H 5700 2700 50  0001 C CNN
+F 2 "" H 6000 2600 50  0001 C CNN
+F 3 "" H 6000 2600 50  0001 C CNN
+	1    6000 2550
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	6000 2250 6000 2550
+$Comp
+L 36-5029ct-nd:36-5029CT-ND TP?
+U 1 1 5CE875E0
+P 6300 2250
+F 0 "TP?" H 6350 2303 50  0000 L CNN
+F 1 "36-5029CT-ND" H 6300 2350 50  0001 C CNN
+F 2 "digikey-footprints:PC_Test_Point_Mini_3.8x2.03mm" H 6600 2550 60  0001 L CNN
+F 3 "" H 6300 2350 60  0001 C CNN
+	1    6300 2250
+	1    0    0    -1  
+$EndComp
+$Comp
+L 36-5029ct-nd:StrainRelief SR?
+U 1 1 5CE875E6
+P 6300 2550
+F 0 "SR?" H 6378 2458 50  0000 L CNN
+F 1 "StrainRelief" H 6000 2700 50  0001 C CNN
+F 2 "" H 6300 2600 50  0001 C CNN
+F 3 "" H 6300 2600 50  0001 C CNN
+	1    6300 2550
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	6300 2250 6300 2550
+$Comp
+L 36-5029ct-nd:36-5029CT-ND TP?
+U 1 1 5CE875ED
+P 6600 2250
+F 0 "TP?" H 6650 2303 50  0000 L CNN
+F 1 "36-5029CT-ND" H 6600 2350 50  0001 C CNN
+F 2 "digikey-footprints:PC_Test_Point_Mini_3.8x2.03mm" H 6900 2550 60  0001 L CNN
+F 3 "" H 6600 2350 60  0001 C CNN
+	1    6600 2250
+	1    0    0    -1  
+$EndComp
+$Comp
+L 36-5029ct-nd:StrainRelief SR?
+U 1 1 5CE875F3
+P 6600 2550
+F 0 "SR?" H 6678 2458 50  0000 L CNN
+F 1 "StrainRelief" H 6300 2700 50  0001 C CNN
+F 2 "" H 6600 2600 50  0001 C CNN
+F 3 "" H 6600 2600 50  0001 C CNN
+	1    6600 2550
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	6600 2250 6600 2550
+$Comp
+L 36-5029ct-nd:36-5029CT-ND TP?
+U 1 1 5CE875FA
+P 6900 2250
+F 0 "TP?" H 6950 2303 50  0000 L CNN
+F 1 "36-5029CT-ND" H 6900 2350 50  0001 C CNN
+F 2 "digikey-footprints:PC_Test_Point_Mini_3.8x2.03mm" H 7200 2550 60  0001 L CNN
+F 3 "" H 6900 2350 60  0001 C CNN
+	1    6900 2250
+	1    0    0    -1  
+$EndComp
+$Comp
+L 36-5029ct-nd:StrainRelief SR?
+U 1 1 5CE87600
+P 6900 2550
+F 0 "SR?" H 6978 2458 50  0000 L CNN
+F 1 "StrainRelief" H 6600 2700 50  0001 C CNN
+F 2 "" H 6900 2600 50  0001 C CNN
+F 3 "" H 6900 2600 50  0001 C CNN
+	1    6900 2550
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	6900 2250 6900 2550
+$Comp
+L 36-5029ct-nd:36-5029CT-ND TP?
+U 1 1 5CE87607
+P 7200 2250
+F 0 "TP?" H 7250 2303 50  0000 L CNN
+F 1 "36-5029CT-ND" H 7200 2350 50  0001 C CNN
+F 2 "digikey-footprints:PC_Test_Point_Mini_3.8x2.03mm" H 7500 2550 60  0001 L CNN
+F 3 "" H 7200 2350 60  0001 C CNN
+	1    7200 2250
+	1    0    0    -1  
+$EndComp
+$Comp
+L 36-5029ct-nd:StrainRelief SR?
+U 1 1 5CE8760D
+P 7200 2550
+F 0 "SR?" H 7278 2458 50  0000 L CNN
+F 1 "StrainRelief" H 6900 2700 50  0001 C CNN
+F 2 "" H 7200 2600 50  0001 C CNN
+F 3 "" H 7200 2600 50  0001 C CNN
+	1    7200 2550
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	7200 2250 7200 2550
+$Comp
+L 36-5029ct-nd:36-5029CT-ND TP?
+U 1 1 5CE87614
+P 7500 2250
+F 0 "TP?" H 7550 2303 50  0000 L CNN
+F 1 "36-5029CT-ND" H 7500 2350 50  0001 C CNN
+F 2 "digikey-footprints:PC_Test_Point_Mini_3.8x2.03mm" H 7800 2550 60  0001 L CNN
+F 3 "" H 7500 2350 60  0001 C CNN
+	1    7500 2250
+	1    0    0    -1  
+$EndComp
+$Comp
+L 36-5029ct-nd:StrainRelief SR?
+U 1 1 5CE8761A
+P 7500 2550
+F 0 "SR?" H 7578 2458 50  0000 L CNN
+F 1 "StrainRelief" H 7200 2700 50  0001 C CNN
+F 2 "" H 7500 2600 50  0001 C CNN
+F 3 "" H 7500 2600 50  0001 C CNN
+	1    7500 2550
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	7500 2250 7500 2550
+$Comp
+L 36-5029ct-nd:36-5029CT-ND TP?
+U 1 1 5CE87621
+P 7800 2250
+F 0 "TP?" H 7850 2303 50  0000 L CNN
+F 1 "36-5029CT-ND" H 7800 2350 50  0001 C CNN
+F 2 "digikey-footprints:PC_Test_Point_Mini_3.8x2.03mm" H 8100 2550 60  0001 L CNN
+F 3 "" H 7800 2350 60  0001 C CNN
+	1    7800 2250
+	1    0    0    -1  
+$EndComp
+$Comp
+L 36-5029ct-nd:StrainRelief SR?
+U 1 1 5CE87627
+P 7800 2550
+F 0 "SR?" H 7878 2458 50  0000 L CNN
+F 1 "StrainRelief" H 7500 2700 50  0001 C CNN
+F 2 "" H 7800 2600 50  0001 C CNN
+F 3 "" H 7800 2600 50  0001 C CNN
+	1    7800 2550
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	7800 2250 7800 2550
+$Comp
+L 36-5029ct-nd:36-5029CT-ND TP?
+U 1 1 5CE8762E
+P 8100 2250
+F 0 "TP?" H 8150 2303 50  0000 L CNN
+F 1 "36-5029CT-ND" H 8100 2350 50  0001 C CNN
+F 2 "digikey-footprints:PC_Test_Point_Mini_3.8x2.03mm" H 8400 2550 60  0001 L CNN
+F 3 "" H 8100 2350 60  0001 C CNN
+	1    8100 2250
+	1    0    0    -1  
+$EndComp
+$Comp
+L 36-5029ct-nd:StrainRelief SR?
+U 1 1 5CE87634
+P 8100 2550
+F 0 "SR?" H 8178 2458 50  0000 L CNN
+F 1 "StrainRelief" H 7800 2700 50  0001 C CNN
+F 2 "" H 8100 2600 50  0001 C CNN
+F 3 "" H 8100 2600 50  0001 C CNN
+	1    8100 2550
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	8100 2250 8100 2550
+$Comp
+L 36-5029ct-nd:36-5029CT-ND TP?
+U 1 1 5CE8763B
+P 8400 2250
+F 0 "TP?" H 8450 2303 50  0000 L CNN
+F 1 "36-5029CT-ND" H 8400 2350 50  0001 C CNN
+F 2 "digikey-footprints:PC_Test_Point_Mini_3.8x2.03mm" H 8700 2550 60  0001 L CNN
+F 3 "" H 8400 2350 60  0001 C CNN
+	1    8400 2250
+	1    0    0    -1  
+$EndComp
+$Comp
+L 36-5029ct-nd:StrainRelief SR?
+U 1 1 5CE87641
+P 8400 2550
+F 0 "SR?" H 8478 2458 50  0000 L CNN
+F 1 "StrainRelief" H 8100 2700 50  0001 C CNN
+F 2 "" H 8400 2600 50  0001 C CNN
+F 3 "" H 8400 2600 50  0001 C CNN
+	1    8400 2550
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	8400 2250 8400 2550
+$Comp
+L 36-5029ct-nd:36-5029CT-ND TP?
+U 1 1 5CE87648
+P 8700 2250
+F 0 "TP?" H 8750 2303 50  0000 L CNN
+F 1 "36-5029CT-ND" H 8700 2350 50  0001 C CNN
+F 2 "digikey-footprints:PC_Test_Point_Mini_3.8x2.03mm" H 9000 2550 60  0001 L CNN
+F 3 "" H 8700 2350 60  0001 C CNN
+	1    8700 2250
+	1    0    0    -1  
+$EndComp
+$Comp
+L 36-5029ct-nd:StrainRelief SR?
+U 1 1 5CE8764E
+P 8700 2550
+F 0 "SR?" H 8778 2458 50  0000 L CNN
+F 1 "StrainRelief" H 8400 2700 50  0001 C CNN
+F 2 "" H 8700 2600 50  0001 C CNN
+F 3 "" H 8700 2600 50  0001 C CNN
+	1    8700 2550
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	8700 2250 8700 2550
+$Comp
+L 36-5029ct-nd:36-5029CT-ND TP?
+U 1 1 5CE87655
+P 9000 2250
+F 0 "TP?" H 9050 2303 50  0000 L CNN
+F 1 "36-5029CT-ND" H 9000 2350 50  0001 C CNN
+F 2 "digikey-footprints:PC_Test_Point_Mini_3.8x2.03mm" H 9300 2550 60  0001 L CNN
+F 3 "" H 9000 2350 60  0001 C CNN
+	1    9000 2250
+	1    0    0    -1  
+$EndComp
+$Comp
+L 36-5029ct-nd:StrainRelief SR?
+U 1 1 5CE8765B
+P 9000 2550
+F 0 "SR?" H 9078 2458 50  0000 L CNN
+F 1 "StrainRelief" H 8700 2700 50  0001 C CNN
+F 2 "" H 9000 2600 50  0001 C CNN
+F 3 "" H 9000 2600 50  0001 C CNN
+	1    9000 2550
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	9000 2250 9000 2550
+$Comp
+L 36-5029ct-nd:36-5029CT-ND TP?
+U 1 1 5CE87662
+P 9300 2250
+F 0 "TP?" H 9350 2303 50  0000 L CNN
+F 1 "36-5029CT-ND" H 9300 2350 50  0001 C CNN
+F 2 "digikey-footprints:PC_Test_Point_Mini_3.8x2.03mm" H 9600 2550 60  0001 L CNN
+F 3 "" H 9300 2350 60  0001 C CNN
+	1    9300 2250
+	1    0    0    -1  
+$EndComp
+$Comp
+L 36-5029ct-nd:StrainRelief SR?
+U 1 1 5CE87668
+P 9300 2550
+F 0 "SR?" H 9378 2458 50  0000 L CNN
+F 1 "StrainRelief" H 9000 2700 50  0001 C CNN
+F 2 "" H 9300 2600 50  0001 C CNN
+F 3 "" H 9300 2600 50  0001 C CNN
+	1    9300 2550
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	9300 2250 9300 2550
+$Comp
+L 36-5029ct-nd:36-5029CT-ND TP?
+U 1 1 5CE8766F
+P 9600 2250
+F 0 "TP?" H 9650 2303 50  0000 L CNN
+F 1 "36-5029CT-ND" H 9600 2350 50  0001 C CNN
+F 2 "digikey-footprints:PC_Test_Point_Mini_3.8x2.03mm" H 9900 2550 60  0001 L CNN
+F 3 "" H 9600 2350 60  0001 C CNN
+	1    9600 2250
+	1    0    0    -1  
+$EndComp
+$Comp
+L 36-5029ct-nd:StrainRelief SR?
+U 1 1 5CE87675
+P 9600 2550
+F 0 "SR?" H 9678 2458 50  0000 L CNN
+F 1 "StrainRelief" H 9300 2700 50  0001 C CNN
+F 2 "" H 9600 2600 50  0001 C CNN
+F 3 "" H 9600 2600 50  0001 C CNN
+	1    9600 2550
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	9600 2250 9600 2550
+$Comp
+L 36-5029ct-nd:36-5029CT-ND TP?
+U 1 1 5CE8767C
+P 9900 2250
+F 0 "TP?" H 9950 2303 50  0000 L CNN
+F 1 "36-5029CT-ND" H 9900 2350 50  0001 C CNN
+F 2 "digikey-footprints:PC_Test_Point_Mini_3.8x2.03mm" H 10200 2550 60  0001 L CNN
+F 3 "" H 9900 2350 60  0001 C CNN
+	1    9900 2250
+	1    0    0    -1  
+$EndComp
+$Comp
+L 36-5029ct-nd:StrainRelief SR?
+U 1 1 5CE87682
+P 9900 2550
+F 0 "SR?" H 9978 2458 50  0000 L CNN
+F 1 "StrainRelief" H 9600 2700 50  0001 C CNN
+F 2 "" H 9900 2600 50  0001 C CNN
+F 3 "" H 9900 2600 50  0001 C CNN
+	1    9900 2550
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	9900 2250 9900 2550
+$Comp
+L 36-5029ct-nd:36-5029CT-ND TP?
+U 1 1 5CE87689
+P 600 3050
+F 0 "TP?" H 650 3103 50  0000 L CNN
+F 1 "36-5029CT-ND" H 600 3150 50  0001 C CNN
+F 2 "digikey-footprints:PC_Test_Point_Mini_3.8x2.03mm" H 900 3350 60  0001 L CNN
+F 3 "" H 600 3150 60  0001 C CNN
+	1    600  3050
+	1    0    0    -1  
+$EndComp
+$Comp
+L 36-5029ct-nd:StrainRelief SR?
+U 1 1 5CE8768F
+P 600 3350
+F 0 "SR?" H 678 3258 50  0000 L CNN
+F 1 "StrainRelief" H 300 3500 50  0001 C CNN
+F 2 "" H 600 3400 50  0001 C CNN
+F 3 "" H 600 3400 50  0001 C CNN
+	1    600  3350
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	600  3050 600  3350
+$Comp
+L 36-5029ct-nd:36-5029CT-ND TP?
+U 1 1 5CE87696
+P 900 3050
+F 0 "TP?" H 950 3103 50  0000 L CNN
+F 1 "36-5029CT-ND" H 900 3150 50  0001 C CNN
+F 2 "digikey-footprints:PC_Test_Point_Mini_3.8x2.03mm" H 1200 3350 60  0001 L CNN
+F 3 "" H 900 3150 60  0001 C CNN
+	1    900  3050
+	1    0    0    -1  
+$EndComp
+$Comp
+L 36-5029ct-nd:StrainRelief SR?
+U 1 1 5CE8769C
+P 900 3350
+F 0 "SR?" H 978 3258 50  0000 L CNN
+F 1 "StrainRelief" H 600 3500 50  0001 C CNN
+F 2 "" H 900 3400 50  0001 C CNN
+F 3 "" H 900 3400 50  0001 C CNN
+	1    900  3350
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	900  3050 900  3350
+$Comp
+L 36-5029ct-nd:36-5029CT-ND TP?
+U 1 1 5CE876A3
+P 1200 3050
+F 0 "TP?" H 1250 3103 50  0000 L CNN
+F 1 "36-5029CT-ND" H 1200 3150 50  0001 C CNN
+F 2 "digikey-footprints:PC_Test_Point_Mini_3.8x2.03mm" H 1500 3350 60  0001 L CNN
+F 3 "" H 1200 3150 60  0001 C CNN
+	1    1200 3050
+	1    0    0    -1  
+$EndComp
+$Comp
+L 36-5029ct-nd:StrainRelief SR?
+U 1 1 5CE876A9
+P 1200 3350
+F 0 "SR?" H 1278 3258 50  0000 L CNN
+F 1 "StrainRelief" H 900 3500 50  0001 C CNN
+F 2 "" H 1200 3400 50  0001 C CNN
+F 3 "" H 1200 3400 50  0001 C CNN
+	1    1200 3350
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	1200 3050 1200 3350
+$Comp
+L 36-5029ct-nd:36-5029CT-ND TP?
+U 1 1 5CE876B0
+P 1500 3050
+F 0 "TP?" H 1550 3103 50  0000 L CNN
+F 1 "36-5029CT-ND" H 1500 3150 50  0001 C CNN
+F 2 "digikey-footprints:PC_Test_Point_Mini_3.8x2.03mm" H 1800 3350 60  0001 L CNN
+F 3 "" H 1500 3150 60  0001 C CNN
+	1    1500 3050
+	1    0    0    -1  
+$EndComp
+$Comp
+L 36-5029ct-nd:StrainRelief SR?
+U 1 1 5CE876B6
+P 1500 3350
+F 0 "SR?" H 1578 3258 50  0000 L CNN
+F 1 "StrainRelief" H 1200 3500 50  0001 C CNN
+F 2 "" H 1500 3400 50  0001 C CNN
+F 3 "" H 1500 3400 50  0001 C CNN
+	1    1500 3350
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	1500 3050 1500 3350
+$Comp
+L 36-5029ct-nd:36-5029CT-ND TP?
+U 1 1 5CE876BD
+P 1800 3050
+F 0 "TP?" H 1850 3103 50  0000 L CNN
+F 1 "36-5029CT-ND" H 1800 3150 50  0001 C CNN
+F 2 "digikey-footprints:PC_Test_Point_Mini_3.8x2.03mm" H 2100 3350 60  0001 L CNN
+F 3 "" H 1800 3150 60  0001 C CNN
+	1    1800 3050
+	1    0    0    -1  
+$EndComp
+$Comp
+L 36-5029ct-nd:StrainRelief SR?
+U 1 1 5CE876C3
+P 1800 3350
+F 0 "SR?" H 1878 3258 50  0000 L CNN
+F 1 "StrainRelief" H 1500 3500 50  0001 C CNN
+F 2 "" H 1800 3400 50  0001 C CNN
+F 3 "" H 1800 3400 50  0001 C CNN
+	1    1800 3350
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	1800 3050 1800 3350
+$Comp
+L 36-5029ct-nd:36-5029CT-ND TP?
+U 1 1 5CE876CA
+P 2100 3050
+F 0 "TP?" H 2150 3103 50  0000 L CNN
+F 1 "36-5029CT-ND" H 2100 3150 50  0001 C CNN
+F 2 "digikey-footprints:PC_Test_Point_Mini_3.8x2.03mm" H 2400 3350 60  0001 L CNN
+F 3 "" H 2100 3150 60  0001 C CNN
+	1    2100 3050
+	1    0    0    -1  
+$EndComp
+$Comp
+L 36-5029ct-nd:StrainRelief SR?
+U 1 1 5CE876D0
+P 2100 3350
+F 0 "SR?" H 2178 3258 50  0000 L CNN
+F 1 "StrainRelief" H 1800 3500 50  0001 C CNN
+F 2 "" H 2100 3400 50  0001 C CNN
+F 3 "" H 2100 3400 50  0001 C CNN
+	1    2100 3350
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	2100 3050 2100 3350
+$Comp
+L 36-5029ct-nd:36-5029CT-ND TP?
+U 1 1 5CE876D7
+P 2400 3050
+F 0 "TP?" H 2450 3103 50  0000 L CNN
+F 1 "36-5029CT-ND" H 2400 3150 50  0001 C CNN
+F 2 "digikey-footprints:PC_Test_Point_Mini_3.8x2.03mm" H 2700 3350 60  0001 L CNN
+F 3 "" H 2400 3150 60  0001 C CNN
+	1    2400 3050
+	1    0    0    -1  
+$EndComp
+$Comp
+L 36-5029ct-nd:StrainRelief SR?
+U 1 1 5CE876DD
+P 2400 3350
+F 0 "SR?" H 2478 3258 50  0000 L CNN
+F 1 "StrainRelief" H 2100 3500 50  0001 C CNN
+F 2 "" H 2400 3400 50  0001 C CNN
+F 3 "" H 2400 3400 50  0001 C CNN
+	1    2400 3350
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	2400 3050 2400 3350
+$Comp
+L 36-5029ct-nd:36-5029CT-ND TP?
+U 1 1 5CE876E4
+P 2700 3050
+F 0 "TP?" H 2750 3103 50  0000 L CNN
+F 1 "36-5029CT-ND" H 2700 3150 50  0001 C CNN
+F 2 "digikey-footprints:PC_Test_Point_Mini_3.8x2.03mm" H 3000 3350 60  0001 L CNN
+F 3 "" H 2700 3150 60  0001 C CNN
+	1    2700 3050
+	1    0    0    -1  
+$EndComp
+$Comp
+L 36-5029ct-nd:StrainRelief SR?
+U 1 1 5CE876EA
+P 2700 3350
+F 0 "SR?" H 2778 3258 50  0000 L CNN
+F 1 "StrainRelief" H 2400 3500 50  0001 C CNN
+F 2 "" H 2700 3400 50  0001 C CNN
+F 3 "" H 2700 3400 50  0001 C CNN
+	1    2700 3350
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	2700 3050 2700 3350
+$Comp
+L 36-5029ct-nd:36-5029CT-ND TP?
+U 1 1 5CE876F1
+P 3000 3050
+F 0 "TP?" H 3050 3103 50  0000 L CNN
+F 1 "36-5029CT-ND" H 3000 3150 50  0001 C CNN
+F 2 "digikey-footprints:PC_Test_Point_Mini_3.8x2.03mm" H 3300 3350 60  0001 L CNN
+F 3 "" H 3000 3150 60  0001 C CNN
+	1    3000 3050
+	1    0    0    -1  
+$EndComp
+$Comp
+L 36-5029ct-nd:StrainRelief SR?
+U 1 1 5CE876F7
+P 3000 3350
+F 0 "SR?" H 3078 3258 50  0000 L CNN
+F 1 "StrainRelief" H 2700 3500 50  0001 C CNN
+F 2 "" H 3000 3400 50  0001 C CNN
+F 3 "" H 3000 3400 50  0001 C CNN
+	1    3000 3350
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	3000 3050 3000 3350
+$Comp
+L 36-5029ct-nd:36-5029CT-ND TP?
+U 1 1 5CE876FE
+P 3300 3050
+F 0 "TP?" H 3350 3103 50  0000 L CNN
+F 1 "36-5029CT-ND" H 3300 3150 50  0001 C CNN
+F 2 "digikey-footprints:PC_Test_Point_Mini_3.8x2.03mm" H 3600 3350 60  0001 L CNN
+F 3 "" H 3300 3150 60  0001 C CNN
+	1    3300 3050
+	1    0    0    -1  
+$EndComp
+$Comp
+L 36-5029ct-nd:StrainRelief SR?
+U 1 1 5CE87704
+P 3300 3350
+F 0 "SR?" H 3378 3258 50  0000 L CNN
+F 1 "StrainRelief" H 3000 3500 50  0001 C CNN
+F 2 "" H 3300 3400 50  0001 C CNN
+F 3 "" H 3300 3400 50  0001 C CNN
+	1    3300 3350
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	3300 3050 3300 3350
+$Comp
+L 36-5029ct-nd:36-5029CT-ND TP?
+U 1 1 5CE8770B
+P 3600 3050
+F 0 "TP?" H 3650 3103 50  0000 L CNN
+F 1 "36-5029CT-ND" H 3600 3150 50  0001 C CNN
+F 2 "digikey-footprints:PC_Test_Point_Mini_3.8x2.03mm" H 3900 3350 60  0001 L CNN
+F 3 "" H 3600 3150 60  0001 C CNN
+	1    3600 3050
+	1    0    0    -1  
+$EndComp
+$Comp
+L 36-5029ct-nd:StrainRelief SR?
+U 1 1 5CE87711
+P 3600 3350
+F 0 "SR?" H 3678 3258 50  0000 L CNN
+F 1 "StrainRelief" H 3300 3500 50  0001 C CNN
+F 2 "" H 3600 3400 50  0001 C CNN
+F 3 "" H 3600 3400 50  0001 C CNN
+	1    3600 3350
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	3600 3050 3600 3350
+$Comp
+L 36-5029ct-nd:36-5029CT-ND TP?
+U 1 1 5CE87718
+P 3900 3050
+F 0 "TP?" H 3950 3103 50  0000 L CNN
+F 1 "36-5029CT-ND" H 3900 3150 50  0001 C CNN
+F 2 "digikey-footprints:PC_Test_Point_Mini_3.8x2.03mm" H 4200 3350 60  0001 L CNN
+F 3 "" H 3900 3150 60  0001 C CNN
+	1    3900 3050
+	1    0    0    -1  
+$EndComp
+$Comp
+L 36-5029ct-nd:StrainRelief SR?
+U 1 1 5CE8771E
+P 3900 3350
+F 0 "SR?" H 3978 3258 50  0000 L CNN
+F 1 "StrainRelief" H 3600 3500 50  0001 C CNN
+F 2 "" H 3900 3400 50  0001 C CNN
+F 3 "" H 3900 3400 50  0001 C CNN
+	1    3900 3350
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	3900 3050 3900 3350
+$Comp
+L 36-5029ct-nd:36-5029CT-ND TP?
+U 1 1 5CE87725
+P 4200 3050
+F 0 "TP?" H 4250 3103 50  0000 L CNN
+F 1 "36-5029CT-ND" H 4200 3150 50  0001 C CNN
+F 2 "digikey-footprints:PC_Test_Point_Mini_3.8x2.03mm" H 4500 3350 60  0001 L CNN
+F 3 "" H 4200 3150 60  0001 C CNN
+	1    4200 3050
+	1    0    0    -1  
+$EndComp
+$Comp
+L 36-5029ct-nd:StrainRelief SR?
+U 1 1 5CE8772B
+P 4200 3350
+F 0 "SR?" H 4278 3258 50  0000 L CNN
+F 1 "StrainRelief" H 3900 3500 50  0001 C CNN
+F 2 "" H 4200 3400 50  0001 C CNN
+F 3 "" H 4200 3400 50  0001 C CNN
+	1    4200 3350
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	4200 3050 4200 3350
+$Comp
+L 36-5029ct-nd:36-5029CT-ND TP?
+U 1 1 5CE87732
+P 4500 3050
+F 0 "TP?" H 4550 3103 50  0000 L CNN
+F 1 "36-5029CT-ND" H 4500 3150 50  0001 C CNN
+F 2 "digikey-footprints:PC_Test_Point_Mini_3.8x2.03mm" H 4800 3350 60  0001 L CNN
+F 3 "" H 4500 3150 60  0001 C CNN
+	1    4500 3050
+	1    0    0    -1  
+$EndComp
+$Comp
+L 36-5029ct-nd:StrainRelief SR?
+U 1 1 5CE87738
+P 4500 3350
+F 0 "SR?" H 4578 3258 50  0000 L CNN
+F 1 "StrainRelief" H 4200 3500 50  0001 C CNN
+F 2 "" H 4500 3400 50  0001 C CNN
+F 3 "" H 4500 3400 50  0001 C CNN
+	1    4500 3350
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	4500 3050 4500 3350
+$Comp
+L 36-5029ct-nd:36-5029CT-ND TP?
+U 1 1 5CE8773F
+P 4800 3050
+F 0 "TP?" H 4850 3103 50  0000 L CNN
+F 1 "36-5029CT-ND" H 4800 3150 50  0001 C CNN
+F 2 "digikey-footprints:PC_Test_Point_Mini_3.8x2.03mm" H 5100 3350 60  0001 L CNN
+F 3 "" H 4800 3150 60  0001 C CNN
+	1    4800 3050
+	1    0    0    -1  
+$EndComp
+$Comp
+L 36-5029ct-nd:StrainRelief SR?
+U 1 1 5CE87745
+P 4800 3350
+F 0 "SR?" H 4878 3258 50  0000 L CNN
+F 1 "StrainRelief" H 4500 3500 50  0001 C CNN
+F 2 "" H 4800 3400 50  0001 C CNN
+F 3 "" H 4800 3400 50  0001 C CNN
+	1    4800 3350
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	4800 3050 4800 3350
+$Comp
+L 36-5029ct-nd:36-5029CT-ND TP?
+U 1 1 5CE8774C
+P 5100 3050
+F 0 "TP?" H 5150 3103 50  0000 L CNN
+F 1 "36-5029CT-ND" H 5100 3150 50  0001 C CNN
+F 2 "digikey-footprints:PC_Test_Point_Mini_3.8x2.03mm" H 5400 3350 60  0001 L CNN
+F 3 "" H 5100 3150 60  0001 C CNN
+	1    5100 3050
+	1    0    0    -1  
+$EndComp
+$Comp
+L 36-5029ct-nd:StrainRelief SR?
+U 1 1 5CE87752
+P 5100 3350
+F 0 "SR?" H 5178 3258 50  0000 L CNN
+F 1 "StrainRelief" H 4800 3500 50  0001 C CNN
+F 2 "" H 5100 3400 50  0001 C CNN
+F 3 "" H 5100 3400 50  0001 C CNN
+	1    5100 3350
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	5100 3050 5100 3350
+$Comp
+L 36-5029ct-nd:36-5029CT-ND TP?
+U 1 1 5CE87759
+P 5400 3050
+F 0 "TP?" H 5450 3103 50  0000 L CNN
+F 1 "36-5029CT-ND" H 5400 3150 50  0001 C CNN
+F 2 "digikey-footprints:PC_Test_Point_Mini_3.8x2.03mm" H 5700 3350 60  0001 L CNN
+F 3 "" H 5400 3150 60  0001 C CNN
+	1    5400 3050
+	1    0    0    -1  
+$EndComp
+$Comp
+L 36-5029ct-nd:StrainRelief SR?
+U 1 1 5CE8775F
+P 5400 3350
+F 0 "SR?" H 5478 3258 50  0000 L CNN
+F 1 "StrainRelief" H 5100 3500 50  0001 C CNN
+F 2 "" H 5400 3400 50  0001 C CNN
+F 3 "" H 5400 3400 50  0001 C CNN
+	1    5400 3350
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	5400 3050 5400 3350
+$Comp
+L 36-5029ct-nd:36-5029CT-ND TP?
+U 1 1 5CE87766
+P 5700 3050
+F 0 "TP?" H 5750 3103 50  0000 L CNN
+F 1 "36-5029CT-ND" H 5700 3150 50  0001 C CNN
+F 2 "digikey-footprints:PC_Test_Point_Mini_3.8x2.03mm" H 6000 3350 60  0001 L CNN
+F 3 "" H 5700 3150 60  0001 C CNN
+	1    5700 3050
+	1    0    0    -1  
+$EndComp
+$Comp
+L 36-5029ct-nd:StrainRelief SR?
+U 1 1 5CE8776C
+P 5700 3350
+F 0 "SR?" H 5778 3258 50  0000 L CNN
+F 1 "StrainRelief" H 5400 3500 50  0001 C CNN
+F 2 "" H 5700 3400 50  0001 C CNN
+F 3 "" H 5700 3400 50  0001 C CNN
+	1    5700 3350
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	5700 3050 5700 3350
+$Comp
+L 36-5029ct-nd:36-5029CT-ND TP?
+U 1 1 5CE87773
+P 6000 3050
+F 0 "TP?" H 6050 3103 50  0000 L CNN
+F 1 "36-5029CT-ND" H 6000 3150 50  0001 C CNN
+F 2 "digikey-footprints:PC_Test_Point_Mini_3.8x2.03mm" H 6300 3350 60  0001 L CNN
+F 3 "" H 6000 3150 60  0001 C CNN
+	1    6000 3050
+	1    0    0    -1  
+$EndComp
+$Comp
+L 36-5029ct-nd:StrainRelief SR?
+U 1 1 5CE87779
+P 6000 3350
+F 0 "SR?" H 6078 3258 50  0000 L CNN
+F 1 "StrainRelief" H 5700 3500 50  0001 C CNN
+F 2 "" H 6000 3400 50  0001 C CNN
+F 3 "" H 6000 3400 50  0001 C CNN
+	1    6000 3350
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	6000 3050 6000 3350
+$Comp
+L 36-5029ct-nd:36-5029CT-ND TP?
+U 1 1 5CE87780
+P 6300 3050
+F 0 "TP?" H 6350 3103 50  0000 L CNN
+F 1 "36-5029CT-ND" H 6300 3150 50  0001 C CNN
+F 2 "digikey-footprints:PC_Test_Point_Mini_3.8x2.03mm" H 6600 3350 60  0001 L CNN
+F 3 "" H 6300 3150 60  0001 C CNN
+	1    6300 3050
+	1    0    0    -1  
+$EndComp
+$Comp
+L 36-5029ct-nd:StrainRelief SR?
+U 1 1 5CE87786
+P 6300 3350
+F 0 "SR?" H 6378 3258 50  0000 L CNN
+F 1 "StrainRelief" H 6000 3500 50  0001 C CNN
+F 2 "" H 6300 3400 50  0001 C CNN
+F 3 "" H 6300 3400 50  0001 C CNN
+	1    6300 3350
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	6300 3050 6300 3350
+$Comp
+L 36-5029ct-nd:36-5029CT-ND TP?
+U 1 1 5CE8778D
+P 6600 3050
+F 0 "TP?" H 6650 3103 50  0000 L CNN
+F 1 "36-5029CT-ND" H 6600 3150 50  0001 C CNN
+F 2 "digikey-footprints:PC_Test_Point_Mini_3.8x2.03mm" H 6900 3350 60  0001 L CNN
+F 3 "" H 6600 3150 60  0001 C CNN
+	1    6600 3050
+	1    0    0    -1  
+$EndComp
+$Comp
+L 36-5029ct-nd:StrainRelief SR?
+U 1 1 5CE87793
+P 6600 3350
+F 0 "SR?" H 6678 3258 50  0000 L CNN
+F 1 "StrainRelief" H 6300 3500 50  0001 C CNN
+F 2 "" H 6600 3400 50  0001 C CNN
+F 3 "" H 6600 3400 50  0001 C CNN
+	1    6600 3350
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	6600 3050 6600 3350
+$Comp
+L 36-5029ct-nd:36-5029CT-ND TP?
+U 1 1 5CE8779A
+P 6900 3050
+F 0 "TP?" H 6950 3103 50  0000 L CNN
+F 1 "36-5029CT-ND" H 6900 3150 50  0001 C CNN
+F 2 "digikey-footprints:PC_Test_Point_Mini_3.8x2.03mm" H 7200 3350 60  0001 L CNN
+F 3 "" H 6900 3150 60  0001 C CNN
+	1    6900 3050
+	1    0    0    -1  
+$EndComp
+$Comp
+L 36-5029ct-nd:StrainRelief SR?
+U 1 1 5CE877A0
+P 6900 3350
+F 0 "SR?" H 6978 3258 50  0000 L CNN
+F 1 "StrainRelief" H 6600 3500 50  0001 C CNN
+F 2 "" H 6900 3400 50  0001 C CNN
+F 3 "" H 6900 3400 50  0001 C CNN
+	1    6900 3350
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	6900 3050 6900 3350
+$Comp
+L 36-5029ct-nd:36-5029CT-ND TP?
+U 1 1 5CE877A7
+P 7200 3050
+F 0 "TP?" H 7250 3103 50  0000 L CNN
+F 1 "36-5029CT-ND" H 7200 3150 50  0001 C CNN
+F 2 "digikey-footprints:PC_Test_Point_Mini_3.8x2.03mm" H 7500 3350 60  0001 L CNN
+F 3 "" H 7200 3150 60  0001 C CNN
+	1    7200 3050
+	1    0    0    -1  
+$EndComp
+$Comp
+L 36-5029ct-nd:StrainRelief SR?
+U 1 1 5CE877AD
+P 7200 3350
+F 0 "SR?" H 7278 3258 50  0000 L CNN
+F 1 "StrainRelief" H 6900 3500 50  0001 C CNN
+F 2 "" H 7200 3400 50  0001 C CNN
+F 3 "" H 7200 3400 50  0001 C CNN
+	1    7200 3350
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	7200 3050 7200 3350
+$Comp
+L 36-5029ct-nd:36-5029CT-ND TP?
+U 1 1 5CE877B4
+P 7500 3050
+F 0 "TP?" H 7550 3103 50  0000 L CNN
+F 1 "36-5029CT-ND" H 7500 3150 50  0001 C CNN
+F 2 "digikey-footprints:PC_Test_Point_Mini_3.8x2.03mm" H 7800 3350 60  0001 L CNN
+F 3 "" H 7500 3150 60  0001 C CNN
+	1    7500 3050
+	1    0    0    -1  
+$EndComp
+$Comp
+L 36-5029ct-nd:StrainRelief SR?
+U 1 1 5CE877BA
+P 7500 3350
+F 0 "SR?" H 7578 3258 50  0000 L CNN
+F 1 "StrainRelief" H 7200 3500 50  0001 C CNN
+F 2 "" H 7500 3400 50  0001 C CNN
+F 3 "" H 7500 3400 50  0001 C CNN
+	1    7500 3350
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	7500 3050 7500 3350
+$Comp
+L 36-5029ct-nd:36-5029CT-ND TP?
+U 1 1 5CE877C1
+P 7800 3050
+F 0 "TP?" H 7850 3103 50  0000 L CNN
+F 1 "36-5029CT-ND" H 7800 3150 50  0001 C CNN
+F 2 "digikey-footprints:PC_Test_Point_Mini_3.8x2.03mm" H 8100 3350 60  0001 L CNN
+F 3 "" H 7800 3150 60  0001 C CNN
+	1    7800 3050
+	1    0    0    -1  
+$EndComp
+$Comp
+L 36-5029ct-nd:StrainRelief SR?
+U 1 1 5CE877C7
+P 7800 3350
+F 0 "SR?" H 7878 3258 50  0000 L CNN
+F 1 "StrainRelief" H 7500 3500 50  0001 C CNN
+F 2 "" H 7800 3400 50  0001 C CNN
+F 3 "" H 7800 3400 50  0001 C CNN
+	1    7800 3350
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	7800 3050 7800 3350
+$Comp
+L 36-5029ct-nd:36-5029CT-ND TP?
+U 1 1 5CE877CE
+P 8100 3050
+F 0 "TP?" H 8150 3103 50  0000 L CNN
+F 1 "36-5029CT-ND" H 8100 3150 50  0001 C CNN
+F 2 "digikey-footprints:PC_Test_Point_Mini_3.8x2.03mm" H 8400 3350 60  0001 L CNN
+F 3 "" H 8100 3150 60  0001 C CNN
+	1    8100 3050
+	1    0    0    -1  
+$EndComp
+$Comp
+L 36-5029ct-nd:StrainRelief SR?
+U 1 1 5CE877D4
+P 8100 3350
+F 0 "SR?" H 8178 3258 50  0000 L CNN
+F 1 "StrainRelief" H 7800 3500 50  0001 C CNN
+F 2 "" H 8100 3400 50  0001 C CNN
+F 3 "" H 8100 3400 50  0001 C CNN
+	1    8100 3350
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	8100 3050 8100 3350
+$Comp
+L 36-5029ct-nd:36-5029CT-ND TP?
+U 1 1 5CE877DB
+P 8400 3050
+F 0 "TP?" H 8450 3103 50  0000 L CNN
+F 1 "36-5029CT-ND" H 8400 3150 50  0001 C CNN
+F 2 "digikey-footprints:PC_Test_Point_Mini_3.8x2.03mm" H 8700 3350 60  0001 L CNN
+F 3 "" H 8400 3150 60  0001 C CNN
+	1    8400 3050
+	1    0    0    -1  
+$EndComp
+$Comp
+L 36-5029ct-nd:StrainRelief SR?
+U 1 1 5CE877E1
+P 8400 3350
+F 0 "SR?" H 8478 3258 50  0000 L CNN
+F 1 "StrainRelief" H 8100 3500 50  0001 C CNN
+F 2 "" H 8400 3400 50  0001 C CNN
+F 3 "" H 8400 3400 50  0001 C CNN
+	1    8400 3350
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	8400 3050 8400 3350
+$Comp
+L 36-5029ct-nd:36-5029CT-ND TP?
+U 1 1 5CE877E8
+P 8700 3050
+F 0 "TP?" H 8750 3103 50  0000 L CNN
+F 1 "36-5029CT-ND" H 8700 3150 50  0001 C CNN
+F 2 "digikey-footprints:PC_Test_Point_Mini_3.8x2.03mm" H 9000 3350 60  0001 L CNN
+F 3 "" H 8700 3150 60  0001 C CNN
+	1    8700 3050
+	1    0    0    -1  
+$EndComp
+$Comp
+L 36-5029ct-nd:StrainRelief SR?
+U 1 1 5CE877EE
+P 8700 3350
+F 0 "SR?" H 8778 3258 50  0000 L CNN
+F 1 "StrainRelief" H 8400 3500 50  0001 C CNN
+F 2 "" H 8700 3400 50  0001 C CNN
+F 3 "" H 8700 3400 50  0001 C CNN
+	1    8700 3350
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	8700 3050 8700 3350
+$Comp
+L 36-5029ct-nd:36-5029CT-ND TP?
+U 1 1 5CE877F5
+P 9000 3050
+F 0 "TP?" H 9050 3103 50  0000 L CNN
+F 1 "36-5029CT-ND" H 9000 3150 50  0001 C CNN
+F 2 "digikey-footprints:PC_Test_Point_Mini_3.8x2.03mm" H 9300 3350 60  0001 L CNN
+F 3 "" H 9000 3150 60  0001 C CNN
+	1    9000 3050
+	1    0    0    -1  
+$EndComp
+$Comp
+L 36-5029ct-nd:StrainRelief SR?
+U 1 1 5CE877FB
+P 9000 3350
+F 0 "SR?" H 9078 3258 50  0000 L CNN
+F 1 "StrainRelief" H 8700 3500 50  0001 C CNN
+F 2 "" H 9000 3400 50  0001 C CNN
+F 3 "" H 9000 3400 50  0001 C CNN
+	1    9000 3350
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	9000 3050 9000 3350
+$Comp
+L 36-5029ct-nd:36-5029CT-ND TP?
+U 1 1 5CE87802
+P 9300 3050
+F 0 "TP?" H 9350 3103 50  0000 L CNN
+F 1 "36-5029CT-ND" H 9300 3150 50  0001 C CNN
+F 2 "digikey-footprints:PC_Test_Point_Mini_3.8x2.03mm" H 9600 3350 60  0001 L CNN
+F 3 "" H 9300 3150 60  0001 C CNN
+	1    9300 3050
+	1    0    0    -1  
+$EndComp
+$Comp
+L 36-5029ct-nd:StrainRelief SR?
+U 1 1 5CE87808
+P 9300 3350
+F 0 "SR?" H 9378 3258 50  0000 L CNN
+F 1 "StrainRelief" H 9000 3500 50  0001 C CNN
+F 2 "" H 9300 3400 50  0001 C CNN
+F 3 "" H 9300 3400 50  0001 C CNN
+	1    9300 3350
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	9300 3050 9300 3350
+$Comp
+L 36-5029ct-nd:36-5029CT-ND TP?
+U 1 1 5CE8780F
+P 9600 3050
+F 0 "TP?" H 9650 3103 50  0000 L CNN
+F 1 "36-5029CT-ND" H 9600 3150 50  0001 C CNN
+F 2 "digikey-footprints:PC_Test_Point_Mini_3.8x2.03mm" H 9900 3350 60  0001 L CNN
+F 3 "" H 9600 3150 60  0001 C CNN
+	1    9600 3050
+	1    0    0    -1  
+$EndComp
+$Comp
+L 36-5029ct-nd:StrainRelief SR?
+U 1 1 5CE87815
+P 9600 3350
+F 0 "SR?" H 9678 3258 50  0000 L CNN
+F 1 "StrainRelief" H 9300 3500 50  0001 C CNN
+F 2 "" H 9600 3400 50  0001 C CNN
+F 3 "" H 9600 3400 50  0001 C CNN
+	1    9600 3350
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	9600 3050 9600 3350
+$Comp
+L 36-5029ct-nd:36-5029CT-ND TP?
+U 1 1 5CE8781C
+P 9900 3050
+F 0 "TP?" H 9950 3103 50  0000 L CNN
+F 1 "36-5029CT-ND" H 9900 3150 50  0001 C CNN
+F 2 "digikey-footprints:PC_Test_Point_Mini_3.8x2.03mm" H 10200 3350 60  0001 L CNN
+F 3 "" H 9900 3150 60  0001 C CNN
+	1    9900 3050
+	1    0    0    -1  
+$EndComp
+$Comp
+L 36-5029ct-nd:StrainRelief SR?
+U 1 1 5CE87822
+P 9900 3350
+F 0 "SR?" H 9978 3258 50  0000 L CNN
+F 1 "StrainRelief" H 9600 3500 50  0001 C CNN
+F 2 "" H 9900 3400 50  0001 C CNN
+F 3 "" H 9900 3400 50  0001 C CNN
+	1    9900 3350
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	9900 3050 9900 3350
+$Comp
+L 36-5029ct-nd:36-5029CT-ND TP?
+U 1 1 5CED6225
+P 600 3800
+F 0 "TP?" H 650 3853 50  0000 L CNN
+F 1 "36-5029CT-ND" H 600 3900 50  0001 C CNN
+F 2 "digikey-footprints:PC_Test_Point_Mini_3.8x2.03mm" H 900 4100 60  0001 L CNN
+F 3 "" H 600 3900 60  0001 C CNN
+	1    600  3800
+	1    0    0    -1  
+$EndComp
+$Comp
+L 36-5029ct-nd:StrainRelief SR?
+U 1 1 5CED622B
+P 600 4100
+F 0 "SR?" H 678 4008 50  0000 L CNN
+F 1 "StrainRelief" H 300 4250 50  0001 C CNN
+F 2 "" H 600 4150 50  0001 C CNN
+F 3 "" H 600 4150 50  0001 C CNN
+	1    600  4100
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	600  3800 600  4100
+$Comp
+L 36-5029ct-nd:36-5029CT-ND TP?
+U 1 1 5CED6232
+P 900 3800
+F 0 "TP?" H 950 3853 50  0000 L CNN
+F 1 "36-5029CT-ND" H 900 3900 50  0001 C CNN
+F 2 "digikey-footprints:PC_Test_Point_Mini_3.8x2.03mm" H 1200 4100 60  0001 L CNN
+F 3 "" H 900 3900 60  0001 C CNN
+	1    900  3800
+	1    0    0    -1  
+$EndComp
+$Comp
+L 36-5029ct-nd:StrainRelief SR?
+U 1 1 5CED6238
+P 900 4100
+F 0 "SR?" H 978 4008 50  0000 L CNN
+F 1 "StrainRelief" H 600 4250 50  0001 C CNN
+F 2 "" H 900 4150 50  0001 C CNN
+F 3 "" H 900 4150 50  0001 C CNN
+	1    900  4100
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	900  3800 900  4100
+$Comp
+L 36-5029ct-nd:36-5029CT-ND TP?
+U 1 1 5CED623F
+P 1200 3800
+F 0 "TP?" H 1250 3853 50  0000 L CNN
+F 1 "36-5029CT-ND" H 1200 3900 50  0001 C CNN
+F 2 "digikey-footprints:PC_Test_Point_Mini_3.8x2.03mm" H 1500 4100 60  0001 L CNN
+F 3 "" H 1200 3900 60  0001 C CNN
+	1    1200 3800
+	1    0    0    -1  
+$EndComp
+$Comp
+L 36-5029ct-nd:StrainRelief SR?
+U 1 1 5CED6245
+P 1200 4100
+F 0 "SR?" H 1278 4008 50  0000 L CNN
+F 1 "StrainRelief" H 900 4250 50  0001 C CNN
+F 2 "" H 1200 4150 50  0001 C CNN
+F 3 "" H 1200 4150 50  0001 C CNN
+	1    1200 4100
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	1200 3800 1200 4100
+$Comp
+L 36-5029ct-nd:36-5029CT-ND TP?
+U 1 1 5CED624C
+P 1500 3800
+F 0 "TP?" H 1550 3853 50  0000 L CNN
+F 1 "36-5029CT-ND" H 1500 3900 50  0001 C CNN
+F 2 "digikey-footprints:PC_Test_Point_Mini_3.8x2.03mm" H 1800 4100 60  0001 L CNN
+F 3 "" H 1500 3900 60  0001 C CNN
+	1    1500 3800
+	1    0    0    -1  
+$EndComp
+$Comp
+L 36-5029ct-nd:StrainRelief SR?
+U 1 1 5CED6252
+P 1500 4100
+F 0 "SR?" H 1578 4008 50  0000 L CNN
+F 1 "StrainRelief" H 1200 4250 50  0001 C CNN
+F 2 "" H 1500 4150 50  0001 C CNN
+F 3 "" H 1500 4150 50  0001 C CNN
+	1    1500 4100
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	1500 3800 1500 4100
+$Comp
+L 36-5029ct-nd:36-5029CT-ND TP?
+U 1 1 5CED6259
+P 1800 3800
+F 0 "TP?" H 1850 3853 50  0000 L CNN
+F 1 "36-5029CT-ND" H 1800 3900 50  0001 C CNN
+F 2 "digikey-footprints:PC_Test_Point_Mini_3.8x2.03mm" H 2100 4100 60  0001 L CNN
+F 3 "" H 1800 3900 60  0001 C CNN
+	1    1800 3800
+	1    0    0    -1  
+$EndComp
+$Comp
+L 36-5029ct-nd:StrainRelief SR?
+U 1 1 5CED625F
+P 1800 4100
+F 0 "SR?" H 1878 4008 50  0000 L CNN
+F 1 "StrainRelief" H 1500 4250 50  0001 C CNN
+F 2 "" H 1800 4150 50  0001 C CNN
+F 3 "" H 1800 4150 50  0001 C CNN
+	1    1800 4100
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	1800 3800 1800 4100
+$Comp
+L 36-5029ct-nd:36-5029CT-ND TP?
+U 1 1 5CED6266
+P 2100 3800
+F 0 "TP?" H 2150 3853 50  0000 L CNN
+F 1 "36-5029CT-ND" H 2100 3900 50  0001 C CNN
+F 2 "digikey-footprints:PC_Test_Point_Mini_3.8x2.03mm" H 2400 4100 60  0001 L CNN
+F 3 "" H 2100 3900 60  0001 C CNN
+	1    2100 3800
+	1    0    0    -1  
+$EndComp
+$Comp
+L 36-5029ct-nd:StrainRelief SR?
+U 1 1 5CED626C
+P 2100 4100
+F 0 "SR?" H 2178 4008 50  0000 L CNN
+F 1 "StrainRelief" H 1800 4250 50  0001 C CNN
+F 2 "" H 2100 4150 50  0001 C CNN
+F 3 "" H 2100 4150 50  0001 C CNN
+	1    2100 4100
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	2100 3800 2100 4100
+$Comp
+L 36-5029ct-nd:36-5029CT-ND TP?
+U 1 1 5CED6273
+P 2400 3800
+F 0 "TP?" H 2450 3853 50  0000 L CNN
+F 1 "36-5029CT-ND" H 2400 3900 50  0001 C CNN
+F 2 "digikey-footprints:PC_Test_Point_Mini_3.8x2.03mm" H 2700 4100 60  0001 L CNN
+F 3 "" H 2400 3900 60  0001 C CNN
+	1    2400 3800
+	1    0    0    -1  
+$EndComp
+$Comp
+L 36-5029ct-nd:StrainRelief SR?
+U 1 1 5CED6279
+P 2400 4100
+F 0 "SR?" H 2478 4008 50  0000 L CNN
+F 1 "StrainRelief" H 2100 4250 50  0001 C CNN
+F 2 "" H 2400 4150 50  0001 C CNN
+F 3 "" H 2400 4150 50  0001 C CNN
+	1    2400 4100
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	2400 3800 2400 4100
+$Comp
+L 36-5029ct-nd:36-5029CT-ND TP?
+U 1 1 5CED6280
+P 2700 3800
+F 0 "TP?" H 2750 3853 50  0000 L CNN
+F 1 "36-5029CT-ND" H 2700 3900 50  0001 C CNN
+F 2 "digikey-footprints:PC_Test_Point_Mini_3.8x2.03mm" H 3000 4100 60  0001 L CNN
+F 3 "" H 2700 3900 60  0001 C CNN
+	1    2700 3800
+	1    0    0    -1  
+$EndComp
+$Comp
+L 36-5029ct-nd:StrainRelief SR?
+U 1 1 5CED6286
+P 2700 4100
+F 0 "SR?" H 2778 4008 50  0000 L CNN
+F 1 "StrainRelief" H 2400 4250 50  0001 C CNN
+F 2 "" H 2700 4150 50  0001 C CNN
+F 3 "" H 2700 4150 50  0001 C CNN
+	1    2700 4100
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	2700 3800 2700 4100
+$Comp
+L 36-5029ct-nd:36-5029CT-ND TP?
+U 1 1 5CED628D
+P 3000 3800
+F 0 "TP?" H 3050 3853 50  0000 L CNN
+F 1 "36-5029CT-ND" H 3000 3900 50  0001 C CNN
+F 2 "digikey-footprints:PC_Test_Point_Mini_3.8x2.03mm" H 3300 4100 60  0001 L CNN
+F 3 "" H 3000 3900 60  0001 C CNN
+	1    3000 3800
+	1    0    0    -1  
+$EndComp
+$Comp
+L 36-5029ct-nd:StrainRelief SR?
+U 1 1 5CED6293
+P 3000 4100
+F 0 "SR?" H 3078 4008 50  0000 L CNN
+F 1 "StrainRelief" H 2700 4250 50  0001 C CNN
+F 2 "" H 3000 4150 50  0001 C CNN
+F 3 "" H 3000 4150 50  0001 C CNN
+	1    3000 4100
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	3000 3800 3000 4100
+$Comp
+L 36-5029ct-nd:36-5029CT-ND TP?
+U 1 1 5CED629A
+P 3300 3800
+F 0 "TP?" H 3350 3853 50  0000 L CNN
+F 1 "36-5029CT-ND" H 3300 3900 50  0001 C CNN
+F 2 "digikey-footprints:PC_Test_Point_Mini_3.8x2.03mm" H 3600 4100 60  0001 L CNN
+F 3 "" H 3300 3900 60  0001 C CNN
+	1    3300 3800
+	1    0    0    -1  
+$EndComp
+$Comp
+L 36-5029ct-nd:StrainRelief SR?
+U 1 1 5CED62A0
+P 3300 4100
+F 0 "SR?" H 3378 4008 50  0000 L CNN
+F 1 "StrainRelief" H 3000 4250 50  0001 C CNN
+F 2 "" H 3300 4150 50  0001 C CNN
+F 3 "" H 3300 4150 50  0001 C CNN
+	1    3300 4100
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	3300 3800 3300 4100
+$Comp
+L 36-5029ct-nd:36-5029CT-ND TP?
+U 1 1 5CED62A7
+P 3600 3800
+F 0 "TP?" H 3650 3853 50  0000 L CNN
+F 1 "36-5029CT-ND" H 3600 3900 50  0001 C CNN
+F 2 "digikey-footprints:PC_Test_Point_Mini_3.8x2.03mm" H 3900 4100 60  0001 L CNN
+F 3 "" H 3600 3900 60  0001 C CNN
+	1    3600 3800
+	1    0    0    -1  
+$EndComp
+$Comp
+L 36-5029ct-nd:StrainRelief SR?
+U 1 1 5CED62AD
+P 3600 4100
+F 0 "SR?" H 3678 4008 50  0000 L CNN
+F 1 "StrainRelief" H 3300 4250 50  0001 C CNN
+F 2 "" H 3600 4150 50  0001 C CNN
+F 3 "" H 3600 4150 50  0001 C CNN
+	1    3600 4100
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	3600 3800 3600 4100
+$Comp
+L 36-5029ct-nd:36-5029CT-ND TP?
+U 1 1 5CED62B4
+P 3900 3800
+F 0 "TP?" H 3950 3853 50  0000 L CNN
+F 1 "36-5029CT-ND" H 3900 3900 50  0001 C CNN
+F 2 "digikey-footprints:PC_Test_Point_Mini_3.8x2.03mm" H 4200 4100 60  0001 L CNN
+F 3 "" H 3900 3900 60  0001 C CNN
+	1    3900 3800
+	1    0    0    -1  
+$EndComp
+$Comp
+L 36-5029ct-nd:StrainRelief SR?
+U 1 1 5CED62BA
+P 3900 4100
+F 0 "SR?" H 3978 4008 50  0000 L CNN
+F 1 "StrainRelief" H 3600 4250 50  0001 C CNN
+F 2 "" H 3900 4150 50  0001 C CNN
+F 3 "" H 3900 4150 50  0001 C CNN
+	1    3900 4100
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	3900 3800 3900 4100
+$Comp
+L 36-5029ct-nd:36-5029CT-ND TP?
+U 1 1 5CED62C1
+P 4200 3800
+F 0 "TP?" H 4250 3853 50  0000 L CNN
+F 1 "36-5029CT-ND" H 4200 3900 50  0001 C CNN
+F 2 "digikey-footprints:PC_Test_Point_Mini_3.8x2.03mm" H 4500 4100 60  0001 L CNN
+F 3 "" H 4200 3900 60  0001 C CNN
+	1    4200 3800
+	1    0    0    -1  
+$EndComp
+$Comp
+L 36-5029ct-nd:StrainRelief SR?
+U 1 1 5CED62C7
+P 4200 4100
+F 0 "SR?" H 4278 4008 50  0000 L CNN
+F 1 "StrainRelief" H 3900 4250 50  0001 C CNN
+F 2 "" H 4200 4150 50  0001 C CNN
+F 3 "" H 4200 4150 50  0001 C CNN
+	1    4200 4100
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	4200 3800 4200 4100
+$Comp
+L 36-5029ct-nd:36-5029CT-ND TP?
+U 1 1 5CED62CE
+P 4500 3800
+F 0 "TP?" H 4550 3853 50  0000 L CNN
+F 1 "36-5029CT-ND" H 4500 3900 50  0001 C CNN
+F 2 "digikey-footprints:PC_Test_Point_Mini_3.8x2.03mm" H 4800 4100 60  0001 L CNN
+F 3 "" H 4500 3900 60  0001 C CNN
+	1    4500 3800
+	1    0    0    -1  
+$EndComp
+$Comp
+L 36-5029ct-nd:StrainRelief SR?
+U 1 1 5CED62D4
+P 4500 4100
+F 0 "SR?" H 4578 4008 50  0000 L CNN
+F 1 "StrainRelief" H 4200 4250 50  0001 C CNN
+F 2 "" H 4500 4150 50  0001 C CNN
+F 3 "" H 4500 4150 50  0001 C CNN
+	1    4500 4100
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	4500 3800 4500 4100
+$Comp
+L 36-5029ct-nd:36-5029CT-ND TP?
+U 1 1 5CED62DB
+P 4800 3800
+F 0 "TP?" H 4850 3853 50  0000 L CNN
+F 1 "36-5029CT-ND" H 4800 3900 50  0001 C CNN
+F 2 "digikey-footprints:PC_Test_Point_Mini_3.8x2.03mm" H 5100 4100 60  0001 L CNN
+F 3 "" H 4800 3900 60  0001 C CNN
+	1    4800 3800
+	1    0    0    -1  
+$EndComp
+$Comp
+L 36-5029ct-nd:StrainRelief SR?
+U 1 1 5CED62E1
+P 4800 4100
+F 0 "SR?" H 4878 4008 50  0000 L CNN
+F 1 "StrainRelief" H 4500 4250 50  0001 C CNN
+F 2 "" H 4800 4150 50  0001 C CNN
+F 3 "" H 4800 4150 50  0001 C CNN
+	1    4800 4100
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	4800 3800 4800 4100
+$Comp
+L 36-5029ct-nd:36-5029CT-ND TP?
+U 1 1 5CED62E8
+P 5100 3800
+F 0 "TP?" H 5150 3853 50  0000 L CNN
+F 1 "36-5029CT-ND" H 5100 3900 50  0001 C CNN
+F 2 "digikey-footprints:PC_Test_Point_Mini_3.8x2.03mm" H 5400 4100 60  0001 L CNN
+F 3 "" H 5100 3900 60  0001 C CNN
+	1    5100 3800
+	1    0    0    -1  
+$EndComp
+$Comp
+L 36-5029ct-nd:StrainRelief SR?
+U 1 1 5CED62EE
+P 5100 4100
+F 0 "SR?" H 5178 4008 50  0000 L CNN
+F 1 "StrainRelief" H 4800 4250 50  0001 C CNN
+F 2 "" H 5100 4150 50  0001 C CNN
+F 3 "" H 5100 4150 50  0001 C CNN
+	1    5100 4100
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	5100 3800 5100 4100
+$Comp
+L 36-5029ct-nd:36-5029CT-ND TP?
+U 1 1 5CED62F5
+P 5400 3800
+F 0 "TP?" H 5450 3853 50  0000 L CNN
+F 1 "36-5029CT-ND" H 5400 3900 50  0001 C CNN
+F 2 "digikey-footprints:PC_Test_Point_Mini_3.8x2.03mm" H 5700 4100 60  0001 L CNN
+F 3 "" H 5400 3900 60  0001 C CNN
+	1    5400 3800
+	1    0    0    -1  
+$EndComp
+$Comp
+L 36-5029ct-nd:StrainRelief SR?
+U 1 1 5CED62FB
+P 5400 4100
+F 0 "SR?" H 5478 4008 50  0000 L CNN
+F 1 "StrainRelief" H 5100 4250 50  0001 C CNN
+F 2 "" H 5400 4150 50  0001 C CNN
+F 3 "" H 5400 4150 50  0001 C CNN
+	1    5400 4100
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	5400 3800 5400 4100
+$Comp
+L 36-5029ct-nd:36-5029CT-ND TP?
+U 1 1 5CED6302
+P 5700 3800
+F 0 "TP?" H 5750 3853 50  0000 L CNN
+F 1 "36-5029CT-ND" H 5700 3900 50  0001 C CNN
+F 2 "digikey-footprints:PC_Test_Point_Mini_3.8x2.03mm" H 6000 4100 60  0001 L CNN
+F 3 "" H 5700 3900 60  0001 C CNN
+	1    5700 3800
+	1    0    0    -1  
+$EndComp
+$Comp
+L 36-5029ct-nd:StrainRelief SR?
+U 1 1 5CED6308
+P 5700 4100
+F 0 "SR?" H 5778 4008 50  0000 L CNN
+F 1 "StrainRelief" H 5400 4250 50  0001 C CNN
+F 2 "" H 5700 4150 50  0001 C CNN
+F 3 "" H 5700 4150 50  0001 C CNN
+	1    5700 4100
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	5700 3800 5700 4100
+$Comp
+L 36-5029ct-nd:36-5029CT-ND TP?
+U 1 1 5CED630F
+P 6000 3800
+F 0 "TP?" H 6050 3853 50  0000 L CNN
+F 1 "36-5029CT-ND" H 6000 3900 50  0001 C CNN
+F 2 "digikey-footprints:PC_Test_Point_Mini_3.8x2.03mm" H 6300 4100 60  0001 L CNN
+F 3 "" H 6000 3900 60  0001 C CNN
+	1    6000 3800
+	1    0    0    -1  
+$EndComp
+$Comp
+L 36-5029ct-nd:StrainRelief SR?
+U 1 1 5CED6315
+P 6000 4100
+F 0 "SR?" H 6078 4008 50  0000 L CNN
+F 1 "StrainRelief" H 5700 4250 50  0001 C CNN
+F 2 "" H 6000 4150 50  0001 C CNN
+F 3 "" H 6000 4150 50  0001 C CNN
+	1    6000 4100
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	6000 3800 6000 4100
+$Comp
+L 36-5029ct-nd:36-5029CT-ND TP?
+U 1 1 5CED631C
+P 6300 3800
+F 0 "TP?" H 6350 3853 50  0000 L CNN
+F 1 "36-5029CT-ND" H 6300 3900 50  0001 C CNN
+F 2 "digikey-footprints:PC_Test_Point_Mini_3.8x2.03mm" H 6600 4100 60  0001 L CNN
+F 3 "" H 6300 3900 60  0001 C CNN
+	1    6300 3800
+	1    0    0    -1  
+$EndComp
+$Comp
+L 36-5029ct-nd:StrainRelief SR?
+U 1 1 5CED6322
+P 6300 4100
+F 0 "SR?" H 6378 4008 50  0000 L CNN
+F 1 "StrainRelief" H 6000 4250 50  0001 C CNN
+F 2 "" H 6300 4150 50  0001 C CNN
+F 3 "" H 6300 4150 50  0001 C CNN
+	1    6300 4100
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	6300 3800 6300 4100
+$Comp
+L 36-5029ct-nd:36-5029CT-ND TP?
+U 1 1 5CED6329
+P 6600 3800
+F 0 "TP?" H 6650 3853 50  0000 L CNN
+F 1 "36-5029CT-ND" H 6600 3900 50  0001 C CNN
+F 2 "digikey-footprints:PC_Test_Point_Mini_3.8x2.03mm" H 6900 4100 60  0001 L CNN
+F 3 "" H 6600 3900 60  0001 C CNN
+	1    6600 3800
+	1    0    0    -1  
+$EndComp
+$Comp
+L 36-5029ct-nd:StrainRelief SR?
+U 1 1 5CED632F
+P 6600 4100
+F 0 "SR?" H 6678 4008 50  0000 L CNN
+F 1 "StrainRelief" H 6300 4250 50  0001 C CNN
+F 2 "" H 6600 4150 50  0001 C CNN
+F 3 "" H 6600 4150 50  0001 C CNN
+	1    6600 4100
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	6600 3800 6600 4100
+$Comp
+L 36-5029ct-nd:36-5029CT-ND TP?
+U 1 1 5CED6336
+P 6900 3800
+F 0 "TP?" H 6950 3853 50  0000 L CNN
+F 1 "36-5029CT-ND" H 6900 3900 50  0001 C CNN
+F 2 "digikey-footprints:PC_Test_Point_Mini_3.8x2.03mm" H 7200 4100 60  0001 L CNN
+F 3 "" H 6900 3900 60  0001 C CNN
+	1    6900 3800
+	1    0    0    -1  
+$EndComp
+$Comp
+L 36-5029ct-nd:StrainRelief SR?
+U 1 1 5CED633C
+P 6900 4100
+F 0 "SR?" H 6978 4008 50  0000 L CNN
+F 1 "StrainRelief" H 6600 4250 50  0001 C CNN
+F 2 "" H 6900 4150 50  0001 C CNN
+F 3 "" H 6900 4150 50  0001 C CNN
+	1    6900 4100
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	6900 3800 6900 4100
+$Comp
+L 36-5029ct-nd:36-5029CT-ND TP?
+U 1 1 5CED6343
+P 7200 3800
+F 0 "TP?" H 7250 3853 50  0000 L CNN
+F 1 "36-5029CT-ND" H 7200 3900 50  0001 C CNN
+F 2 "digikey-footprints:PC_Test_Point_Mini_3.8x2.03mm" H 7500 4100 60  0001 L CNN
+F 3 "" H 7200 3900 60  0001 C CNN
+	1    7200 3800
+	1    0    0    -1  
+$EndComp
+$Comp
+L 36-5029ct-nd:StrainRelief SR?
+U 1 1 5CED6349
+P 7200 4100
+F 0 "SR?" H 7278 4008 50  0000 L CNN
+F 1 "StrainRelief" H 6900 4250 50  0001 C CNN
+F 2 "" H 7200 4150 50  0001 C CNN
+F 3 "" H 7200 4150 50  0001 C CNN
+	1    7200 4100
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	7200 3800 7200 4100
+$Comp
+L 36-5029ct-nd:36-5029CT-ND TP?
+U 1 1 5CED6350
+P 7500 3800
+F 0 "TP?" H 7550 3853 50  0000 L CNN
+F 1 "36-5029CT-ND" H 7500 3900 50  0001 C CNN
+F 2 "digikey-footprints:PC_Test_Point_Mini_3.8x2.03mm" H 7800 4100 60  0001 L CNN
+F 3 "" H 7500 3900 60  0001 C CNN
+	1    7500 3800
+	1    0    0    -1  
+$EndComp
+$Comp
+L 36-5029ct-nd:StrainRelief SR?
+U 1 1 5CED6356
+P 7500 4100
+F 0 "SR?" H 7578 4008 50  0000 L CNN
+F 1 "StrainRelief" H 7200 4250 50  0001 C CNN
+F 2 "" H 7500 4150 50  0001 C CNN
+F 3 "" H 7500 4150 50  0001 C CNN
+	1    7500 4100
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	7500 3800 7500 4100
+$Comp
+L 36-5029ct-nd:36-5029CT-ND TP?
+U 1 1 5CED635D
+P 7800 3800
+F 0 "TP?" H 7850 3853 50  0000 L CNN
+F 1 "36-5029CT-ND" H 7800 3900 50  0001 C CNN
+F 2 "digikey-footprints:PC_Test_Point_Mini_3.8x2.03mm" H 8100 4100 60  0001 L CNN
+F 3 "" H 7800 3900 60  0001 C CNN
+	1    7800 3800
+	1    0    0    -1  
+$EndComp
+$Comp
+L 36-5029ct-nd:StrainRelief SR?
+U 1 1 5CED6363
+P 7800 4100
+F 0 "SR?" H 7878 4008 50  0000 L CNN
+F 1 "StrainRelief" H 7500 4250 50  0001 C CNN
+F 2 "" H 7800 4150 50  0001 C CNN
+F 3 "" H 7800 4150 50  0001 C CNN
+	1    7800 4100
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	7800 3800 7800 4100
+$Comp
+L 36-5029ct-nd:36-5029CT-ND TP?
+U 1 1 5CED636A
+P 8100 3800
+F 0 "TP?" H 8150 3853 50  0000 L CNN
+F 1 "36-5029CT-ND" H 8100 3900 50  0001 C CNN
+F 2 "digikey-footprints:PC_Test_Point_Mini_3.8x2.03mm" H 8400 4100 60  0001 L CNN
+F 3 "" H 8100 3900 60  0001 C CNN
+	1    8100 3800
+	1    0    0    -1  
+$EndComp
+$Comp
+L 36-5029ct-nd:StrainRelief SR?
+U 1 1 5CED6370
+P 8100 4100
+F 0 "SR?" H 8178 4008 50  0000 L CNN
+F 1 "StrainRelief" H 7800 4250 50  0001 C CNN
+F 2 "" H 8100 4150 50  0001 C CNN
+F 3 "" H 8100 4150 50  0001 C CNN
+	1    8100 4100
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	8100 3800 8100 4100
+$Comp
+L 36-5029ct-nd:36-5029CT-ND TP?
+U 1 1 5CED6377
+P 8400 3800
+F 0 "TP?" H 8450 3853 50  0000 L CNN
+F 1 "36-5029CT-ND" H 8400 3900 50  0001 C CNN
+F 2 "digikey-footprints:PC_Test_Point_Mini_3.8x2.03mm" H 8700 4100 60  0001 L CNN
+F 3 "" H 8400 3900 60  0001 C CNN
+	1    8400 3800
+	1    0    0    -1  
+$EndComp
+$Comp
+L 36-5029ct-nd:StrainRelief SR?
+U 1 1 5CED637D
+P 8400 4100
+F 0 "SR?" H 8478 4008 50  0000 L CNN
+F 1 "StrainRelief" H 8100 4250 50  0001 C CNN
+F 2 "" H 8400 4150 50  0001 C CNN
+F 3 "" H 8400 4150 50  0001 C CNN
+	1    8400 4100
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	8400 3800 8400 4100
+$Comp
+L 36-5029ct-nd:36-5029CT-ND TP?
+U 1 1 5CED6384
+P 8700 3800
+F 0 "TP?" H 8750 3853 50  0000 L CNN
+F 1 "36-5029CT-ND" H 8700 3900 50  0001 C CNN
+F 2 "digikey-footprints:PC_Test_Point_Mini_3.8x2.03mm" H 9000 4100 60  0001 L CNN
+F 3 "" H 8700 3900 60  0001 C CNN
+	1    8700 3800
+	1    0    0    -1  
+$EndComp
+$Comp
+L 36-5029ct-nd:StrainRelief SR?
+U 1 1 5CED638A
+P 8700 4100
+F 0 "SR?" H 8778 4008 50  0000 L CNN
+F 1 "StrainRelief" H 8400 4250 50  0001 C CNN
+F 2 "" H 8700 4150 50  0001 C CNN
+F 3 "" H 8700 4150 50  0001 C CNN
+	1    8700 4100
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	8700 3800 8700 4100
+$Comp
+L 36-5029ct-nd:36-5029CT-ND TP?
+U 1 1 5CED6391
+P 9000 3800
+F 0 "TP?" H 9050 3853 50  0000 L CNN
+F 1 "36-5029CT-ND" H 9000 3900 50  0001 C CNN
+F 2 "digikey-footprints:PC_Test_Point_Mini_3.8x2.03mm" H 9300 4100 60  0001 L CNN
+F 3 "" H 9000 3900 60  0001 C CNN
+	1    9000 3800
+	1    0    0    -1  
+$EndComp
+$Comp
+L 36-5029ct-nd:StrainRelief SR?
+U 1 1 5CED6397
+P 9000 4100
+F 0 "SR?" H 9078 4008 50  0000 L CNN
+F 1 "StrainRelief" H 8700 4250 50  0001 C CNN
+F 2 "" H 9000 4150 50  0001 C CNN
+F 3 "" H 9000 4150 50  0001 C CNN
+	1    9000 4100
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	9000 3800 9000 4100
+$Comp
+L 36-5029ct-nd:36-5029CT-ND TP?
+U 1 1 5CED639E
+P 9300 3800
+F 0 "TP?" H 9350 3853 50  0000 L CNN
+F 1 "36-5029CT-ND" H 9300 3900 50  0001 C CNN
+F 2 "digikey-footprints:PC_Test_Point_Mini_3.8x2.03mm" H 9600 4100 60  0001 L CNN
+F 3 "" H 9300 3900 60  0001 C CNN
+	1    9300 3800
+	1    0    0    -1  
+$EndComp
+$Comp
+L 36-5029ct-nd:StrainRelief SR?
+U 1 1 5CED63A4
+P 9300 4100
+F 0 "SR?" H 9378 4008 50  0000 L CNN
+F 1 "StrainRelief" H 9000 4250 50  0001 C CNN
+F 2 "" H 9300 4150 50  0001 C CNN
+F 3 "" H 9300 4150 50  0001 C CNN
+	1    9300 4100
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	9300 3800 9300 4100
+$Comp
+L 36-5029ct-nd:36-5029CT-ND TP?
+U 1 1 5CED63AB
+P 9600 3800
+F 0 "TP?" H 9650 3853 50  0000 L CNN
+F 1 "36-5029CT-ND" H 9600 3900 50  0001 C CNN
+F 2 "digikey-footprints:PC_Test_Point_Mini_3.8x2.03mm" H 9900 4100 60  0001 L CNN
+F 3 "" H 9600 3900 60  0001 C CNN
+	1    9600 3800
+	1    0    0    -1  
+$EndComp
+$Comp
+L 36-5029ct-nd:StrainRelief SR?
+U 1 1 5CED63B1
+P 9600 4100
+F 0 "SR?" H 9678 4008 50  0000 L CNN
+F 1 "StrainRelief" H 9300 4250 50  0001 C CNN
+F 2 "" H 9600 4150 50  0001 C CNN
+F 3 "" H 9600 4150 50  0001 C CNN
+	1    9600 4100
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	9600 3800 9600 4100
+$Comp
+L 36-5029ct-nd:36-5029CT-ND TP?
+U 1 1 5CED63B8
+P 9900 3800
+F 0 "TP?" H 9950 3853 50  0000 L CNN
+F 1 "36-5029CT-ND" H 9900 3900 50  0001 C CNN
+F 2 "digikey-footprints:PC_Test_Point_Mini_3.8x2.03mm" H 10200 4100 60  0001 L CNN
+F 3 "" H 9900 3900 60  0001 C CNN
+	1    9900 3800
+	1    0    0    -1  
+$EndComp
+$Comp
+L 36-5029ct-nd:StrainRelief SR?
+U 1 1 5CED63BE
+P 9900 4100
+F 0 "SR?" H 9978 4008 50  0000 L CNN
+F 1 "StrainRelief" H 9600 4250 50  0001 C CNN
+F 2 "" H 9900 4150 50  0001 C CNN
+F 3 "" H 9900 4150 50  0001 C CNN
+	1    9900 4100
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	9900 3800 9900 4100
+$Comp
+L 36-5029ct-nd:36-5029CT-ND TP?
+U 1 1 5CED63C5
+P 600 4600
+F 0 "TP?" H 650 4653 50  0000 L CNN
+F 1 "36-5029CT-ND" H 600 4700 50  0001 C CNN
+F 2 "digikey-footprints:PC_Test_Point_Mini_3.8x2.03mm" H 900 4900 60  0001 L CNN
+F 3 "" H 600 4700 60  0001 C CNN
+	1    600  4600
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	600  4600 600  4900
+$Comp
+L 36-5029ct-nd:36-5029CT-ND TP?
+U 1 1 5CED63D2
+P 900 4600
+F 0 "TP?" H 950 4653 50  0000 L CNN
+F 1 "36-5029CT-ND" H 900 4700 50  0001 C CNN
+F 2 "digikey-footprints:PC_Test_Point_Mini_3.8x2.03mm" H 1200 4900 60  0001 L CNN
+F 3 "" H 900 4700 60  0001 C CNN
+	1    900  4600
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	900  4600 900  4900
+$Comp
+L 36-5029ct-nd:36-5029CT-ND TP?
+U 1 1 5CED63DF
+P 1200 4600
+F 0 "TP?" H 1250 4653 50  0000 L CNN
+F 1 "36-5029CT-ND" H 1200 4700 50  0001 C CNN
+F 2 "digikey-footprints:PC_Test_Point_Mini_3.8x2.03mm" H 1500 4900 60  0001 L CNN
+F 3 "" H 1200 4700 60  0001 C CNN
+	1    1200 4600
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	1200 4600 1200 4900
+$Comp
+L 36-5029ct-nd:36-5029CT-ND TP?
+U 1 1 5CED63EC
+P 1500 4600
+F 0 "TP?" H 1550 4653 50  0000 L CNN
+F 1 "36-5029CT-ND" H 1500 4700 50  0001 C CNN
+F 2 "digikey-footprints:PC_Test_Point_Mini_3.8x2.03mm" H 1800 4900 60  0001 L CNN
+F 3 "" H 1500 4700 60  0001 C CNN
+	1    1500 4600
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	1500 4600 1500 4900
+$Comp
+L 36-5029ct-nd:36-5029CT-ND TP?
+U 1 1 5CED63F9
+P 1800 4600
+F 0 "TP?" H 1850 4653 50  0000 L CNN
+F 1 "36-5029CT-ND" H 1800 4700 50  0001 C CNN
+F 2 "digikey-footprints:PC_Test_Point_Mini_3.8x2.03mm" H 2100 4900 60  0001 L CNN
+F 3 "" H 1800 4700 60  0001 C CNN
+	1    1800 4600
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	1800 4600 1800 4900
+$Comp
+L 36-5029ct-nd:36-5029CT-ND TP?
+U 1 1 5CED6406
+P 2100 4600
+F 0 "TP?" H 2150 4653 50  0000 L CNN
+F 1 "36-5029CT-ND" H 2100 4700 50  0001 C CNN
+F 2 "digikey-footprints:PC_Test_Point_Mini_3.8x2.03mm" H 2400 4900 60  0001 L CNN
+F 3 "" H 2100 4700 60  0001 C CNN
+	1    2100 4600
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	2100 4600 2100 4900
+$Comp
+L 36-5029ct-nd:36-5029CT-ND TP?
+U 1 1 5CED6413
+P 2400 4600
+F 0 "TP?" H 2450 4653 50  0000 L CNN
+F 1 "36-5029CT-ND" H 2400 4700 50  0001 C CNN
+F 2 "digikey-footprints:PC_Test_Point_Mini_3.8x2.03mm" H 2700 4900 60  0001 L CNN
+F 3 "" H 2400 4700 60  0001 C CNN
+	1    2400 4600
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	2400 4600 2400 4900
+$Comp
+L 36-5029ct-nd:36-5029CT-ND TP?
+U 1 1 5CED6420
+P 2700 4600
+F 0 "TP?" H 2750 4653 50  0000 L CNN
+F 1 "36-5029CT-ND" H 2700 4700 50  0001 C CNN
+F 2 "digikey-footprints:PC_Test_Point_Mini_3.8x2.03mm" H 3000 4900 60  0001 L CNN
+F 3 "" H 2700 4700 60  0001 C CNN
+	1    2700 4600
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	2700 4600 2700 4900
+$Comp
+L 36-5029ct-nd:36-5029CT-ND TP?
+U 1 1 5CED642D
+P 3000 4600
+F 0 "TP?" H 3050 4653 50  0000 L CNN
+F 1 "36-5029CT-ND" H 3000 4700 50  0001 C CNN
+F 2 "digikey-footprints:PC_Test_Point_Mini_3.8x2.03mm" H 3300 4900 60  0001 L CNN
+F 3 "" H 3000 4700 60  0001 C CNN
+	1    3000 4600
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	3000 4600 3000 4900
+$Comp
+L 36-5029ct-nd:36-5029CT-ND TP?
+U 1 1 5CED643A
+P 3300 4600
+F 0 "TP?" H 3350 4653 50  0000 L CNN
+F 1 "36-5029CT-ND" H 3300 4700 50  0001 C CNN
+F 2 "digikey-footprints:PC_Test_Point_Mini_3.8x2.03mm" H 3600 4900 60  0001 L CNN
+F 3 "" H 3300 4700 60  0001 C CNN
+	1    3300 4600
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	3300 4600 3300 4900
+$Comp
+L 36-5029ct-nd:36-5029CT-ND TP?
+U 1 1 5CED6447
+P 3600 4600
+F 0 "TP?" H 3650 4653 50  0000 L CNN
+F 1 "36-5029CT-ND" H 3600 4700 50  0001 C CNN
+F 2 "digikey-footprints:PC_Test_Point_Mini_3.8x2.03mm" H 3900 4900 60  0001 L CNN
+F 3 "" H 3600 4700 60  0001 C CNN
+	1    3600 4600
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	3600 4600 3600 4900
+$Comp
+L 36-5029ct-nd:36-5029CT-ND TP?
+U 1 1 5CED6454
+P 3900 4600
+F 0 "TP?" H 3950 4653 50  0000 L CNN
+F 1 "36-5029CT-ND" H 3900 4700 50  0001 C CNN
+F 2 "digikey-footprints:PC_Test_Point_Mini_3.8x2.03mm" H 4200 4900 60  0001 L CNN
+F 3 "" H 3900 4700 60  0001 C CNN
+	1    3900 4600
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	3900 4600 3900 4900
+$Comp
+L 36-5029ct-nd:36-5029CT-ND TP?
+U 1 1 5CED6461
+P 4200 4600
+F 0 "TP?" H 4250 4653 50  0000 L CNN
+F 1 "36-5029CT-ND" H 4200 4700 50  0001 C CNN
+F 2 "digikey-footprints:PC_Test_Point_Mini_3.8x2.03mm" H 4500 4900 60  0001 L CNN
+F 3 "" H 4200 4700 60  0001 C CNN
+	1    4200 4600
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	4200 4600 4200 4900
+$Comp
+L 36-5029ct-nd:36-5029CT-ND TP?
+U 1 1 5CED646E
+P 4500 4600
+F 0 "TP?" H 4550 4653 50  0000 L CNN
+F 1 "36-5029CT-ND" H 4500 4700 50  0001 C CNN
+F 2 "digikey-footprints:PC_Test_Point_Mini_3.8x2.03mm" H 4800 4900 60  0001 L CNN
+F 3 "" H 4500 4700 60  0001 C CNN
+	1    4500 4600
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	4500 4600 4500 4900
+$Comp
+L 36-5029ct-nd:36-5029CT-ND TP?
+U 1 1 5CED647B
+P 4800 4600
+F 0 "TP?" H 4850 4653 50  0000 L CNN
+F 1 "36-5029CT-ND" H 4800 4700 50  0001 C CNN
+F 2 "digikey-footprints:PC_Test_Point_Mini_3.8x2.03mm" H 5100 4900 60  0001 L CNN
+F 3 "" H 4800 4700 60  0001 C CNN
+	1    4800 4600
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	4800 4600 4800 4900
+$Comp
+L 36-5029ct-nd:36-5029CT-ND TP?
+U 1 1 5CED6488
+P 5100 4600
+F 0 "TP?" H 5150 4653 50  0000 L CNN
+F 1 "36-5029CT-ND" H 5100 4700 50  0001 C CNN
+F 2 "digikey-footprints:PC_Test_Point_Mini_3.8x2.03mm" H 5400 4900 60  0001 L CNN
+F 3 "" H 5100 4700 60  0001 C CNN
+	1    5100 4600
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	5100 4600 5100 4900
+$Comp
+L 36-5029ct-nd:36-5029CT-ND TP?
+U 1 1 5CED6495
+P 5400 4600
+F 0 "TP?" H 5450 4653 50  0000 L CNN
+F 1 "36-5029CT-ND" H 5400 4700 50  0001 C CNN
+F 2 "digikey-footprints:PC_Test_Point_Mini_3.8x2.03mm" H 5700 4900 60  0001 L CNN
+F 3 "" H 5400 4700 60  0001 C CNN
+	1    5400 4600
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	5400 4600 5400 4900
+$Comp
+L 36-5029ct-nd:36-5029CT-ND TP?
+U 1 1 5CED64A2
+P 5700 4600
+F 0 "TP?" H 5750 4653 50  0000 L CNN
+F 1 "36-5029CT-ND" H 5700 4700 50  0001 C CNN
+F 2 "digikey-footprints:PC_Test_Point_Mini_3.8x2.03mm" H 6000 4900 60  0001 L CNN
+F 3 "" H 5700 4700 60  0001 C CNN
+	1    5700 4600
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	5700 4600 5700 4900
+$Comp
+L 36-5029ct-nd:36-5029CT-ND TP?
+U 1 1 5CED64AF
+P 6000 4600
+F 0 "TP?" H 6050 4653 50  0000 L CNN
+F 1 "36-5029CT-ND" H 6000 4700 50  0001 C CNN
+F 2 "digikey-footprints:PC_Test_Point_Mini_3.8x2.03mm" H 6300 4900 60  0001 L CNN
+F 3 "" H 6000 4700 60  0001 C CNN
+	1    6000 4600
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	6000 4600 6000 4900
+$Comp
+L 36-5029ct-nd:36-5029CT-ND TP?
+U 1 1 5CED64BC
+P 6300 4600
+F 0 "TP?" H 6350 4653 50  0000 L CNN
+F 1 "36-5029CT-ND" H 6300 4700 50  0001 C CNN
+F 2 "digikey-footprints:PC_Test_Point_Mini_3.8x2.03mm" H 6600 4900 60  0001 L CNN
+F 3 "" H 6300 4700 60  0001 C CNN
+	1    6300 4600
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	6300 4600 6300 4900
+$Comp
+L 36-5029ct-nd:36-5029CT-ND TP?
+U 1 1 5CED64C9
+P 6600 4600
+F 0 "TP?" H 6650 4653 50  0000 L CNN
+F 1 "36-5029CT-ND" H 6600 4700 50  0001 C CNN
+F 2 "digikey-footprints:PC_Test_Point_Mini_3.8x2.03mm" H 6900 4900 60  0001 L CNN
+F 3 "" H 6600 4700 60  0001 C CNN
+	1    6600 4600
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	6600 4600 6600 4900
+$Comp
+L 36-5029ct-nd:36-5029CT-ND TP?
+U 1 1 5CED64D6
+P 6900 4600
+F 0 "TP?" H 6950 4653 50  0000 L CNN
+F 1 "36-5029CT-ND" H 6900 4700 50  0001 C CNN
+F 2 "digikey-footprints:PC_Test_Point_Mini_3.8x2.03mm" H 7200 4900 60  0001 L CNN
+F 3 "" H 6900 4700 60  0001 C CNN
+	1    6900 4600
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	6900 4600 6900 4900
+$Comp
+L 36-5029ct-nd:36-5029CT-ND TP?
+U 1 1 5CED64E3
+P 7200 4600
+F 0 "TP?" H 7250 4653 50  0000 L CNN
+F 1 "36-5029CT-ND" H 7200 4700 50  0001 C CNN
+F 2 "digikey-footprints:PC_Test_Point_Mini_3.8x2.03mm" H 7500 4900 60  0001 L CNN
+F 3 "" H 7200 4700 60  0001 C CNN
+	1    7200 4600
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	7200 4600 7200 4900
+$Comp
+L 36-5029ct-nd:36-5029CT-ND TP?
+U 1 1 5CED64F0
+P 7500 4600
+F 0 "TP?" H 7550 4653 50  0000 L CNN
+F 1 "36-5029CT-ND" H 7500 4700 50  0001 C CNN
+F 2 "digikey-footprints:PC_Test_Point_Mini_3.8x2.03mm" H 7800 4900 60  0001 L CNN
+F 3 "" H 7500 4700 60  0001 C CNN
+	1    7500 4600
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	7500 4600 7500 4900
+$Comp
+L 36-5029ct-nd:36-5029CT-ND TP?
+U 1 1 5CED64FD
+P 7800 4600
+F 0 "TP?" H 7850 4653 50  0000 L CNN
+F 1 "36-5029CT-ND" H 7800 4700 50  0001 C CNN
+F 2 "digikey-footprints:PC_Test_Point_Mini_3.8x2.03mm" H 8100 4900 60  0001 L CNN
+F 3 "" H 7800 4700 60  0001 C CNN
+	1    7800 4600
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	7800 4600 7800 4900
+$Comp
+L 36-5029ct-nd:36-5029CT-ND TP?
+U 1 1 5CED650A
+P 8100 4600
+F 0 "TP?" H 8150 4653 50  0000 L CNN
+F 1 "36-5029CT-ND" H 8100 4700 50  0001 C CNN
+F 2 "digikey-footprints:PC_Test_Point_Mini_3.8x2.03mm" H 8400 4900 60  0001 L CNN
+F 3 "" H 8100 4700 60  0001 C CNN
+	1    8100 4600
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	8100 4600 8100 4900
+$Comp
+L 36-5029ct-nd:36-5029CT-ND TP?
+U 1 1 5CED6517
+P 8400 4600
+F 0 "TP?" H 8450 4653 50  0000 L CNN
+F 1 "36-5029CT-ND" H 8400 4700 50  0001 C CNN
+F 2 "digikey-footprints:PC_Test_Point_Mini_3.8x2.03mm" H 8700 4900 60  0001 L CNN
+F 3 "" H 8400 4700 60  0001 C CNN
+	1    8400 4600
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	8400 4600 8400 4900
+$Comp
+L 36-5029ct-nd:36-5029CT-ND TP?
+U 1 1 5CED6524
+P 8700 4600
+F 0 "TP?" H 8750 4653 50  0000 L CNN
+F 1 "36-5029CT-ND" H 8700 4700 50  0001 C CNN
+F 2 "digikey-footprints:PC_Test_Point_Mini_3.8x2.03mm" H 9000 4900 60  0001 L CNN
+F 3 "" H 8700 4700 60  0001 C CNN
+	1    8700 4600
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	8700 4600 8700 4900
+$Comp
+L 36-5029ct-nd:36-5029CT-ND TP?
+U 1 1 5CED6531
+P 9000 4600
+F 0 "TP?" H 9050 4653 50  0000 L CNN
+F 1 "36-5029CT-ND" H 9000 4700 50  0001 C CNN
+F 2 "digikey-footprints:PC_Test_Point_Mini_3.8x2.03mm" H 9300 4900 60  0001 L CNN
+F 3 "" H 9000 4700 60  0001 C CNN
+	1    9000 4600
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	9000 4600 9000 4900
+$Comp
+L 36-5029ct-nd:36-5029CT-ND TP?
+U 1 1 5CED653E
+P 9300 4600
+F 0 "TP?" H 9350 4653 50  0000 L CNN
+F 1 "36-5029CT-ND" H 9300 4700 50  0001 C CNN
+F 2 "digikey-footprints:PC_Test_Point_Mini_3.8x2.03mm" H 9600 4900 60  0001 L CNN
+F 3 "" H 9300 4700 60  0001 C CNN
+	1    9300 4600
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	9300 4600 9300 4900
+$Comp
+L 36-5029ct-nd:36-5029CT-ND TP?
+U 1 1 5CED654B
+P 9600 4600
+F 0 "TP?" H 9650 4653 50  0000 L CNN
+F 1 "36-5029CT-ND" H 9600 4700 50  0001 C CNN
+F 2 "digikey-footprints:PC_Test_Point_Mini_3.8x2.03mm" H 9900 4900 60  0001 L CNN
+F 3 "" H 9600 4700 60  0001 C CNN
+	1    9600 4600
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	9600 4600 9600 4900
+$Comp
+L 36-5029ct-nd:36-5029CT-ND TP?
+U 1 1 5CED6558
+P 9900 4600
+F 0 "TP?" H 9950 4653 50  0000 L CNN
+F 1 "36-5029CT-ND" H 9900 4700 50  0001 C CNN
+F 2 "digikey-footprints:PC_Test_Point_Mini_3.8x2.03mm" H 10200 4900 60  0001 L CNN
+F 3 "" H 9900 4700 60  0001 C CNN
+	1    9900 4600
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	9900 4600 9900 4900
 $EndSCHEMATC

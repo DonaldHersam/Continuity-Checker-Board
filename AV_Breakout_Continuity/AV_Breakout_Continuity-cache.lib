@@ -4,27 +4,26 @@ EESchema-LIBRARY Version 2.4
 # 36-5029ct-nd_36-5029CT-ND
 #
 DEF ~36-5029ct-nd_36-5029CT-ND TP? 0 40 N N 1 F N
-F0 "TP?" -50 50 50 H V R CNN
-F1 "36-5029ct-nd_36-5029CT-ND" 0 -100 50 H I C CNN
+F0 "TP?" -50 -50 50 H V R CNN
+F1 "36-5029ct-nd_36-5029CT-ND" 0 100 50 H I C CNN
 F2 "digikey-footprints:PC_Test_Point_Mini_3.8x2.03mm" 300 300 60 H I L CNN
-F3 "" 0 0 60 H I C CNN
+F3 "" 0 100 60 H I C CNN
 DRAW
-C 0 0 22 0 1 0 N
-X ~ 1 0 100 75 D 50 50 1 1 P
-X ~ ~ 0 0 100 D 50 50 1 1 I N
+C 0 100 22 0 1 0 N
+X ~ ~ 0 0 100 U 50 50 1 1 I
 ENDDRAW
 ENDDEF
 #
 # 36-5029ct-nd_StrainRelief
 #
 DEF ~36-5029ct-nd_StrainRelief SR 0 40 Y Y 1 F N
-F0 "SR" 0 0 50 H V C CNN
-F1 "36-5029ct-nd_StrainRelief" -300 100 50 H I C CNN
-F2 "" 0 0 50 H I C CNN
-F3 "" 0 0 50 H I C CNN
+F0 "SR" 0 50 50 H V C CNN
+F1 "36-5029ct-nd_StrainRelief" -300 150 50 H I C CNN
+F2 "" 0 50 50 H I C CNN
+F3 "" 0 50 50 H I C CNN
 DRAW
-C 0 -100 50 0 1 0 N
-X ~ ~ 0 -50 100 U 50 50 1 1 I N
+C 0 -150 50 0 1 0 N
+X ~ ~ 0 0 100 D 50 50 1 1 O
 ENDDRAW
 ENDDEF
 #
