@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name AV_Breakout_Continuity-rescue)(type Legacy)(uri ${KIPRJMOD}/AV_Breakout_Continuity-rescue.lib)(options "")(descr ""))
+)
