@@ -2,10 +2,10 @@
 
   (general
     (thickness 1.6)
-    (drawings 0)
+    (drawings 2)
     (tracks 0)
     (zones 0)
-    (modules 338)
+    (modules 337)
     (nets 170)
   )
 
@@ -59,7 +59,7 @@
     (pad_drill 0.762)
     (pad_to_mask_clearance 0)
     (aux_axis_origin 0 0)
-    (visible_elements 7FFFFFFF)
+    (visible_elements 7FFFF7FF)
     (pcbplotparams
       (layerselection 0x010fc_ffffffff)
       (usegerberextensions false)
@@ -439,7 +439,7 @@
   )
 
   (module AV_Breakout_Continuity:StrainRelief (layer F.Cu) (tedit 5CC8B865) (tstamp 5CCA8D3C)
-    (at 154.120001 60.740001)
+    (at 27.94 -19.05)
     (path /5CD00C79)
     (fp_text reference SR1 (at 2.5 0 90) (layer F.SilkS)
       (effects (font (size 1 1) (thickness 0.15)))
@@ -464,7 +464,7 @@
   )
 
   (module AV_Breakout_Continuity:StrainRelief (layer F.Cu) (tedit 5CC8B865) (tstamp 5CCA8D4C)
-    (at 67.600001 47.420001)
+    (at 36.83 -19.05)
     (path /5CD01C02)
     (fp_text reference SR2 (at 2.5 0 90) (layer F.SilkS)
       (effects (font (size 1 1) (thickness 0.15)))
@@ -489,7 +489,7 @@
   )
 
   (module AV_Breakout_Continuity:StrainRelief (layer F.Cu) (tedit 5CC8B865) (tstamp 5CCA8D5C)
-    (at 71.720001 34.100001)
+    (at 44.45 -19.05)
     (path /5CD02C30)
     (fp_text reference SR3 (at 2.5 0 90) (layer F.SilkS)
       (effects (font (size 1 1) (thickness 0.15)))
@@ -514,7 +514,7 @@
   )
 
   (module AV_Breakout_Continuity:StrainRelief (layer F.Cu) (tedit 5CC8B865) (tstamp 5CCA8D6C)
-    (at 67.600001 60.740001)
+    (at 52.07 -19.05)
     (path /5CD02C3F)
     (fp_text reference SR4 (at 2.5 0 90) (layer F.SilkS)
       (effects (font (size 1 1) (thickness 0.15)))
@@ -539,7 +539,7 @@
   )
 
   (module AV_Breakout_Continuity:StrainRelief (layer F.Cu) (tedit 5CC8B865) (tstamp 5CCA8D7C)
-    (at 75.840001 34.100001)
+    (at 59.69 -19.05)
     (path /5CD05200)
     (fp_text reference SR5 (at 2.5 0 90) (layer F.SilkS)
       (effects (font (size 1 1) (thickness 0.15)))
@@ -564,7 +564,7 @@
   )
 
   (module AV_Breakout_Continuity:StrainRelief (layer F.Cu) (tedit 5CC8B865) (tstamp 5CCA8D8C)
-    (at 71.720001 47.420001)
+    (at 67.31 -19.05)
     (path /5CD0520F)
     (fp_text reference SR6 (at 2.5 0 90) (layer F.SilkS)
       (effects (font (size 1 1) (thickness 0.15)))
@@ -589,7 +589,7 @@
   )
 
   (module AV_Breakout_Continuity:StrainRelief (layer F.Cu) (tedit 5CC8B865) (tstamp 5CCA8D9C)
-    (at 79.960001 34.100001)
+    (at 74.93 -19.05)
     (path /5CD0521E)
     (fp_text reference SR7 (at 2.5 0 90) (layer F.SilkS)
       (effects (font (size 1 1) (thickness 0.15)))
@@ -614,7 +614,7 @@
   )
 
   (module AV_Breakout_Continuity:StrainRelief (layer F.Cu) (tedit 5CC8B865) (tstamp 5CCA8DAC)
-    (at 84.080001 34.100001)
+    (at 179.07 -24.13)
     (path /5CD0522D)
     (fp_text reference SR8 (at 2.5 0 90) (layer F.SilkS)
       (effects (font (size 1 1) (thickness 0.15)))
@@ -639,7 +639,7 @@
   )
 
   (module AV_Breakout_Continuity:StrainRelief (layer F.Cu) (tedit 5CC8B865) (tstamp 5CCA8DBC)
-    (at 67.600001 74.060001)
+    (at 182.88 -11.43)
     (path /5CD13698)
     (fp_text reference SR9 (at 2.5 0 90) (layer F.SilkS)
       (effects (font (size 1 1) (thickness 0.15)))
@@ -664,7 +664,7 @@
   )
 
   (module AV_Breakout_Continuity:StrainRelief (layer F.Cu) (tedit 5CC8B865) (tstamp 5CCA8DCC)
-    (at 88.200001 34.100001)
+    (at 186.69 -24.13)
     (path /5CD136A7)
     (fp_text reference SR10 (at 2.5 0 90) (layer F.SilkS)
       (effects (font (size 1 1) (thickness 0.15)))
@@ -689,7 +689,7 @@
   )
 
   (module AV_Breakout_Continuity:StrainRelief (layer F.Cu) (tedit 5CC8B865) (tstamp 5CCA8DDC)
-    (at 108.800001 34.100001)
+    (at 190.5 -11.43)
     (path /5CD136B6)
     (fp_text reference SR11 (at 2.5 0 90) (layer F.SilkS)
       (effects (font (size 1 1) (thickness 0.15)))
@@ -714,7 +714,7 @@
   )
 
   (module AV_Breakout_Continuity:StrainRelief (layer F.Cu) (tedit 5CC8B865) (tstamp 5CCA8DEC)
-    (at 67.600001 34.100001)
+    (at 194.31 -24.13)
     (path /5CD136C5)
     (fp_text reference SR12 (at 2.5 0 90) (layer F.SilkS)
       (effects (font (size 1 1) (thickness 0.15)))
@@ -739,7 +739,7 @@
   )
 
   (module AV_Breakout_Continuity:StrainRelief (layer F.Cu) (tedit 5CC8B865) (tstamp 5CCA8DFC)
-    (at 79.960001 47.420001)
+    (at 198.12 -11.43)
     (path /5CD136D4)
     (fp_text reference SR13 (at 2.5 0 90) (layer F.SilkS)
       (effects (font (size 1 1) (thickness 0.15)))
@@ -764,7 +764,7 @@
   )
 
   (module AV_Breakout_Continuity:StrainRelief (layer F.Cu) (tedit 5CC8B865) (tstamp 5CCA8E0C)
-    (at 71.720001 60.740001)
+    (at 201.93 -24.13)
     (path /5CD136E3)
     (fp_text reference SR14 (at 2.5 0 90) (layer F.SilkS)
       (effects (font (size 1 1) (thickness 0.15)))
@@ -789,7 +789,7 @@
   )
 
   (module AV_Breakout_Continuity:StrainRelief (layer F.Cu) (tedit 5CC8B865) (tstamp 5CCA8E1C)
-    (at 84.080001 47.420001)
+    (at 205.74 -11.43)
     (path /5CD136F2)
     (fp_text reference SR15 (at 2.5 0 90) (layer F.SilkS)
       (effects (font (size 1 1) (thickness 0.15)))
@@ -814,7 +814,7 @@
   )
 
   (module AV_Breakout_Continuity:StrainRelief (layer F.Cu) (tedit 5CC8B865) (tstamp 5CCA8E2C)
-    (at 96.440001 34.100001)
+    (at 209.55 -24.13)
     (path /5CD13701)
     (fp_text reference SR16 (at 2.5 0 90) (layer F.SilkS)
       (effects (font (size 1 1) (thickness 0.15)))
@@ -839,7 +839,7 @@
   )
 
   (module AV_Breakout_Continuity:StrainRelief (layer F.Cu) (tedit 5CC8B865) (tstamp 5CCA8E3C)
-    (at 67.600001 87.380001)
+    (at 213.36 -11.43)
     (path /5CD21280)
     (fp_text reference SR17 (at 2.5 0 90) (layer F.SilkS)
       (effects (font (size 1 1) (thickness 0.15)))
@@ -864,7 +864,7 @@
   )
 
   (module AV_Breakout_Continuity:StrainRelief (layer F.Cu) (tedit 5CC8B865) (tstamp 5CCA8E4C)
-    (at 100.560001 34.100001)
+    (at 217.17 -24.13)
     (path /5CD2128F)
     (fp_text reference SR18 (at 2.5 0 90) (layer F.SilkS)
       (effects (font (size 1 1) (thickness 0.15)))
@@ -889,7 +889,7 @@
   )
 
   (module AV_Breakout_Continuity:StrainRelief (layer F.Cu) (tedit 5CC8B865) (tstamp 5CCA8E5C)
-    (at 88.200001 47.420001)
+    (at 220.98 -11.43)
     (path /5CD2129E)
     (fp_text reference SR19 (at 2.5 0 90) (layer F.SilkS)
       (effects (font (size 1 1) (thickness 0.15)))
@@ -914,7 +914,7 @@
   )
 
   (module AV_Breakout_Continuity:StrainRelief (layer F.Cu) (tedit 5CC8B865) (tstamp 5CCA8E6C)
-    (at 104.680001 34.100001)
+    (at 224.79 -24.13)
     (path /5CD212AD)
     (fp_text reference SR20 (at 2.5 0 90) (layer F.SilkS)
       (effects (font (size 1 1) (thickness 0.15)))
@@ -939,7 +939,7 @@
   )
 
   (module AV_Breakout_Continuity:StrainRelief (layer F.Cu) (tedit 5CC8B865) (tstamp 5CCA8E7C)
-    (at 75.840001 60.740001)
+    (at 228.6 -11.43)
     (path /5CD212BC)
     (fp_text reference SR21 (at 2.5 0 90) (layer F.SilkS)
       (effects (font (size 1 1) (thickness 0.15)))
@@ -964,7 +964,7 @@
   )
 
   (module AV_Breakout_Continuity:StrainRelief (layer F.Cu) (tedit 5CC8B865) (tstamp 5CCA8E8C)
-    (at 75.840001 47.420001)
+    (at 232.41 -24.13)
     (path /5CD212CB)
     (fp_text reference SR22 (at 2.5 0 90) (layer F.SilkS)
       (effects (font (size 1 1) (thickness 0.15)))
@@ -989,7 +989,7 @@
   )
 
   (module AV_Breakout_Continuity:StrainRelief (layer F.Cu) (tedit 5CC8B865) (tstamp 5CCA8E9C)
-    (at 92.320001 47.420001)
+    (at 236.22 -11.43)
     (path /5CD212DA)
     (fp_text reference SR23 (at 2.5 0 90) (layer F.SilkS)
       (effects (font (size 1 1) (thickness 0.15)))
@@ -1014,7 +1014,7 @@
   )
 
   (module AV_Breakout_Continuity:StrainRelief (layer F.Cu) (tedit 5CC8B865) (tstamp 5CCA8EAC)
-    (at 71.720001 74.060001)
+    (at 240.03 -24.13)
     (path /5CD212E9)
     (fp_text reference SR24 (at 2.5 0 90) (layer F.SilkS)
       (effects (font (size 1 1) (thickness 0.15)))
@@ -1039,7 +1039,7 @@
   )
 
   (module AV_Breakout_Continuity:StrainRelief (layer F.Cu) (tedit 5CC8B865) (tstamp 5CCA8EBC)
-    (at 96.440001 47.420001)
+    (at 243.84 -11.43)
     (path /5CD212F8)
     (fp_text reference SR25 (at 2.5 0 90) (layer F.SilkS)
       (effects (font (size 1 1) (thickness 0.15)))
@@ -1064,7 +1064,7 @@
   )
 
   (module AV_Breakout_Continuity:StrainRelief (layer F.Cu) (tedit 5CC8B865) (tstamp 5CCA8ECC)
-    (at 84.080001 60.740001)
+    (at 320.04 49.53)
     (path /5CD21307)
     (fp_text reference SR26 (at 2.5 0 90) (layer F.SilkS)
       (effects (font (size 1 1) (thickness 0.15)))
@@ -1089,7 +1089,7 @@
   )
 
   (module AV_Breakout_Continuity:StrainRelief (layer F.Cu) (tedit 5CC8B865) (tstamp 5CCA8EDC)
-    (at 67.600001 100.700001)
+    (at 323.85 62.23)
     (path /5CD21316)
     (fp_text reference SR27 (at 2.5 0 90) (layer F.SilkS)
       (effects (font (size 1 1) (thickness 0.15)))
@@ -1114,7 +1114,7 @@
   )
 
   (module AV_Breakout_Continuity:StrainRelief (layer F.Cu) (tedit 5CC8B865) (tstamp 5CCA8EEC)
-    (at 88.200001 60.740001)
+    (at 327.66 49.53)
     (path /5CD21325)
     (fp_text reference SR28 (at 2.5 0 90) (layer F.SilkS)
       (effects (font (size 1 1) (thickness 0.15)))
@@ -1139,7 +1139,7 @@
   )
 
   (module AV_Breakout_Continuity:StrainRelief (layer F.Cu) (tedit 5CC8B865) (tstamp 5CCA8EFC)
-    (at 75.840001 74.060001)
+    (at 331.47 62.23)
     (path /5CD21334)
     (fp_text reference SR29 (at 2.5 0 90) (layer F.SilkS)
       (effects (font (size 1 1) (thickness 0.15)))
@@ -1164,7 +1164,7 @@
   )
 
   (module AV_Breakout_Continuity:StrainRelief (layer F.Cu) (tedit 5CC8B865) (tstamp 5CCA8F0C)
-    (at 92.320001 60.740001)
+    (at 335.28 49.53)
     (path /5CD21343)
     (fp_text reference SR30 (at 2.5 0 90) (layer F.SilkS)
       (effects (font (size 1 1) (thickness 0.15)))
@@ -4664,13 +4664,13 @@
   )
 
   (module AV_Breakout_Continuity:TestPoint (layer F.Cu) (tedit 5CC8B25A) (tstamp 5CCA97C1)
-    (at 175.7 84.005)
+    (at 25.4 -41.91)
     (path /5CD002E2)
     (attr smd)
     (fp_text reference TP1 (at 0 -3.81) (layer F.SilkS) hide
       (effects (font (size 1 1) (thickness 0.15)))
     )
-    (fp_text value 36-5029CT-ND (at 7.62 2.96 unlocked) (layer F.Fab)
+    (fp_text value " " (at 7.62 2.96 unlocked) (layer F.Fab) hide
       (effects (font (size 1 1) (thickness 0.15)))
     )
     (pad 1 smd rect (at 0.72 0.06) (size 3.8 2.03) (layers F.Cu F.Paste F.Mask)
@@ -4678,13 +4678,13 @@
   )
 
   (module AV_Breakout_Continuity:TestPoint (layer F.Cu) (tedit 5CC8B25A) (tstamp 5CCA97C6)
-    (at 67.22 111.845)
+    (at 33.02 -41.91)
     (path /5CD01BFC)
     (attr smd)
     (fp_text reference TP2 (at 0 -3.81) (layer F.SilkS) hide
       (effects (font (size 1 1) (thickness 0.15)))
     )
-    (fp_text value 36-5029CT-ND (at 7.62 2.96 unlocked) (layer F.Fab)
+    (fp_text value " " (at 7.62 2.96 unlocked) (layer F.Fab)
       (effects (font (size 1 1) (thickness 0.15)))
     )
     (pad 1 smd rect (at 0.72 0.06) (size 3.8 2.03) (layers F.Cu F.Paste F.Mask)
@@ -4692,13 +4692,13 @@
   )
 
   (module AV_Breakout_Continuity:TestPoint (layer F.Cu) (tedit 5CC8B25A) (tstamp 5CCA97CB)
-    (at 67.22 114.875)
+    (at 40.64 -41.91)
     (path /5CD02C2A)
     (attr smd)
     (fp_text reference TP3 (at 0 -3.81) (layer F.SilkS) hide
       (effects (font (size 1 1) (thickness 0.15)))
     )
-    (fp_text value 36-5029CT-ND (at 7.62 2.96 unlocked) (layer F.Fab)
+    (fp_text value " " (at 7.62 2.96 unlocked) (layer F.Fab)
       (effects (font (size 1 1) (thickness 0.15)))
     )
     (pad 1 smd rect (at 0.72 0.06) (size 3.8 2.03) (layers F.Cu F.Paste F.Mask)
@@ -4706,13 +4706,13 @@
   )
 
   (module AV_Breakout_Continuity:TestPoint (layer F.Cu) (tedit 5CC8B25A) (tstamp 5CCA97D0)
-    (at 72.02 108.815)
+    (at 48.26 -41.91)
     (path /5CD02C39)
     (attr smd)
     (fp_text reference TP4 (at 0 -3.81) (layer F.SilkS) hide
       (effects (font (size 1 1) (thickness 0.15)))
     )
-    (fp_text value 36-5029CT-ND (at 7.62 2.96 unlocked) (layer F.Fab)
+    (fp_text value " " (at 7.62 2.96 unlocked) (layer F.Fab)
       (effects (font (size 1 1) (thickness 0.15)))
     )
     (pad 1 smd rect (at 0.72 0.06) (size 3.8 2.03) (layers F.Cu F.Paste F.Mask)
@@ -4720,13 +4720,13 @@
   )
 
   (module AV_Breakout_Continuity:TestPoint (layer F.Cu) (tedit 5CC8B25A) (tstamp 5CCA97D5)
-    (at 72.02 111.845)
+    (at 55.88 -41.91)
     (path /5CD051FA)
     (attr smd)
     (fp_text reference TP5 (at 0 -3.81) (layer F.SilkS) hide
       (effects (font (size 1 1) (thickness 0.15)))
     )
-    (fp_text value 36-5029CT-ND (at 7.62 2.96 unlocked) (layer F.Fab)
+    (fp_text value " " (at 7.62 2.96 unlocked) (layer F.Fab)
       (effects (font (size 1 1) (thickness 0.15)))
     )
     (pad 1 smd rect (at 0.72 0.06) (size 3.8 2.03) (layers F.Cu F.Paste F.Mask)
@@ -4734,13 +4734,13 @@
   )
 
   (module AV_Breakout_Continuity:TestPoint (layer F.Cu) (tedit 5CC8B25A) (tstamp 5CCA97DA)
-    (at 72.02 114.875)
+    (at 63.5 -41.91)
     (path /5CD05209)
     (attr smd)
     (fp_text reference TP6 (at 0 -3.81) (layer F.SilkS) hide
       (effects (font (size 1 1) (thickness 0.15)))
     )
-    (fp_text value 36-5029CT-ND (at 7.62 2.96 unlocked) (layer F.Fab)
+    (fp_text value " " (at 7.62 2.96 unlocked) (layer F.Fab)
       (effects (font (size 1 1) (thickness 0.15)))
     )
     (pad 1 smd rect (at 0.72 0.06) (size 3.8 2.03) (layers F.Cu F.Paste F.Mask)
@@ -4748,13 +4748,13 @@
   )
 
   (module AV_Breakout_Continuity:TestPoint (layer F.Cu) (tedit 5CC8B25A) (tstamp 5CCA97DF)
-    (at 76.82 108.815)
+    (at 71.12 -41.91)
     (path /5CD05218)
     (attr smd)
     (fp_text reference TP7 (at 0 -3.81) (layer F.SilkS) hide
       (effects (font (size 1 1) (thickness 0.15)))
     )
-    (fp_text value 36-5029CT-ND (at 7.62 2.96 unlocked) (layer F.Fab)
+    (fp_text value " " (at 7.62 2.96 unlocked) (layer F.Fab)
       (effects (font (size 1 1) (thickness 0.15)))
     )
     (pad 1 smd rect (at 0.72 0.06) (size 3.8 2.03) (layers F.Cu F.Paste F.Mask)
@@ -4762,13 +4762,13 @@
   )
 
   (module AV_Breakout_Continuity:TestPoint (layer F.Cu) (tedit 5CC8B25A) (tstamp 5CCA97E4)
-    (at 76.82 111.845)
+    (at 165.65 -44.51)
     (path /5CD05227)
     (attr smd)
     (fp_text reference TP8 (at 0 -3.81) (layer F.SilkS) hide
       (effects (font (size 1 1) (thickness 0.15)))
     )
-    (fp_text value 36-5029CT-ND (at 7.62 2.96 unlocked) (layer F.Fab)
+    (fp_text value " " (at 7.62 2.96 unlocked) (layer F.Fab)
       (effects (font (size 1 1) (thickness 0.15)))
     )
     (pad 1 smd rect (at 0.72 0.06) (size 3.8 2.03) (layers F.Cu F.Paste F.Mask)
@@ -4776,13 +4776,13 @@
   )
 
   (module AV_Breakout_Continuity:TestPoint (layer F.Cu) (tedit 5CC8B25A) (tstamp 5CCA97E9)
-    (at 76.82 114.875)
+    (at 170.18 -48.26)
     (path /5CD13692)
     (attr smd)
     (fp_text reference TP9 (at 0 -3.81) (layer F.SilkS) hide
       (effects (font (size 1 1) (thickness 0.15)))
     )
-    (fp_text value 36-5029CT-ND (at 7.62 2.96 unlocked) (layer F.Fab)
+    (fp_text value " " (at 7.62 2.96 unlocked) (layer F.Fab)
       (effects (font (size 1 1) (thickness 0.15)))
     )
     (pad 1 smd rect (at 0.72 0.06) (size 3.8 2.03) (layers F.Cu F.Paste F.Mask)
@@ -4790,13 +4790,13 @@
   )
 
   (module AV_Breakout_Continuity:TestPoint (layer F.Cu) (tedit 5CC8B25A) (tstamp 5CCA97EE)
-    (at 81.62 108.815)
+    (at 175.26 -44.45)
     (path /5CD136A1)
     (attr smd)
     (fp_text reference TP10 (at 0 -3.81) (layer F.SilkS) hide
       (effects (font (size 1 1) (thickness 0.15)))
     )
-    (fp_text value 36-5029CT-ND (at 7.62 2.96 unlocked) (layer F.Fab)
+    (fp_text value " " (at 7.62 2.96 unlocked) (layer F.Fab)
       (effects (font (size 1 1) (thickness 0.15)))
     )
     (pad 1 smd rect (at 0.72 0.06) (size 3.8 2.03) (layers F.Cu F.Paste F.Mask)
@@ -4804,13 +4804,13 @@
   )
 
   (module AV_Breakout_Continuity:TestPoint (layer F.Cu) (tedit 5CC8B25A) (tstamp 5CCA97F3)
-    (at 100.82 111.845)
+    (at 180.34 -48.26)
     (path /5CD136B0)
     (attr smd)
     (fp_text reference TP11 (at 0 -3.81) (layer F.SilkS) hide
       (effects (font (size 1 1) (thickness 0.15)))
     )
-    (fp_text value 36-5029CT-ND (at 7.62 2.96 unlocked) (layer F.Fab)
+    (fp_text value " " (at 7.62 2.96 unlocked) (layer F.Fab)
       (effects (font (size 1 1) (thickness 0.15)))
     )
     (pad 1 smd rect (at 0.72 0.06) (size 3.8 2.03) (layers F.Cu F.Paste F.Mask)
@@ -4818,13 +4818,13 @@
   )
 
   (module AV_Breakout_Continuity:TestPoint (layer F.Cu) (tedit 5CC8B25A) (tstamp 5CCA97F8)
-    (at 67.22 108.815)
+    (at 185.42 -44.45)
     (path /5CD136BF)
     (attr smd)
     (fp_text reference TP12 (at 0 -3.81) (layer F.SilkS) hide
       (effects (font (size 1 1) (thickness 0.15)))
     )
-    (fp_text value 36-5029CT-ND (at 7.62 2.96 unlocked) (layer F.Fab)
+    (fp_text value " " (at 7.62 2.96 unlocked) (layer F.Fab)
       (effects (font (size 1 1) (thickness 0.15)))
     )
     (pad 1 smd rect (at 0.72 0.06) (size 3.8 2.03) (layers F.Cu F.Paste F.Mask)
@@ -4832,13 +4832,13 @@
   )
 
   (module AV_Breakout_Continuity:TestPoint (layer F.Cu) (tedit 5CC8B25A) (tstamp 5CCA97FD)
-    (at 81.62 114.875)
+    (at 190.5 -48.32)
     (path /5CD136CE)
     (attr smd)
     (fp_text reference TP13 (at 0 -3.81) (layer F.SilkS) hide
       (effects (font (size 1 1) (thickness 0.15)))
     )
-    (fp_text value 36-5029CT-ND (at 7.62 2.96 unlocked) (layer F.Fab)
+    (fp_text value " " (at 7.62 2.96 unlocked) (layer F.Fab)
       (effects (font (size 1 1) (thickness 0.15)))
     )
     (pad 1 smd rect (at 0.72 0.06) (size 3.8 2.03) (layers F.Cu F.Paste F.Mask)
@@ -4846,13 +4846,13 @@
   )
 
   (module AV_Breakout_Continuity:TestPoint (layer F.Cu) (tedit 5CC8B25A) (tstamp 5CCA9802)
-    (at 86.42 111.845)
+    (at 195.58 -44.51)
     (path /5CD136DD)
     (attr smd)
     (fp_text reference TP14 (at 0 -3.81) (layer F.SilkS) hide
       (effects (font (size 1 1) (thickness 0.15)))
     )
-    (fp_text value 36-5029CT-ND (at 7.62 2.96 unlocked) (layer F.Fab)
+    (fp_text value " " (at 7.62 2.96 unlocked) (layer F.Fab)
       (effects (font (size 1 1) (thickness 0.15)))
     )
     (pad 1 smd rect (at 0.72 0.06) (size 3.8 2.03) (layers F.Cu F.Paste F.Mask)
@@ -4860,13 +4860,13 @@
   )
 
   (module AV_Breakout_Continuity:TestPoint (layer F.Cu) (tedit 5CC8B25A) (tstamp 5CCA9807)
-    (at 91.22 108.815)
+    (at 200.66 -48.26)
     (path /5CD136EC)
     (attr smd)
     (fp_text reference TP15 (at 0 -3.81) (layer F.SilkS) hide
       (effects (font (size 1 1) (thickness 0.15)))
     )
-    (fp_text value 36-5029CT-ND (at 7.62 2.96 unlocked) (layer F.Fab)
+    (fp_text value " " (at 7.62 2.96 unlocked) (layer F.Fab)
       (effects (font (size 1 1) (thickness 0.15)))
     )
     (pad 1 smd rect (at 0.72 0.06) (size 3.8 2.03) (layers F.Cu F.Paste F.Mask)
@@ -4874,13 +4874,13 @@
   )
 
   (module AV_Breakout_Continuity:TestPoint (layer F.Cu) (tedit 5CC8B25A) (tstamp 5CCA980C)
-    (at 86.42 114.875)
+    (at 205.74 -44.51)
     (path /5CD136FB)
     (attr smd)
     (fp_text reference TP16 (at 0 -3.81) (layer F.SilkS) hide
       (effects (font (size 1 1) (thickness 0.15)))
     )
-    (fp_text value 36-5029CT-ND (at 7.62 2.96 unlocked) (layer F.Fab)
+    (fp_text value " " (at 7.62 2.96 unlocked) (layer F.Fab)
       (effects (font (size 1 1) (thickness 0.15)))
     )
     (pad 1 smd rect (at 0.72 0.06) (size 3.8 2.03) (layers F.Cu F.Paste F.Mask)
@@ -4888,13 +4888,13 @@
   )
 
   (module AV_Breakout_Continuity:TestPoint (layer F.Cu) (tedit 5CC8B25A) (tstamp 5CCA9811)
-    (at 96.02 108.815)
+    (at 210.82 -48.26)
     (path /5CD2127A)
     (attr smd)
     (fp_text reference TP17 (at 0 -3.81) (layer F.SilkS) hide
       (effects (font (size 1 1) (thickness 0.15)))
     )
-    (fp_text value 36-5029CT-ND (at 7.62 2.96 unlocked) (layer F.Fab)
+    (fp_text value " " (at 7.62 2.96 unlocked) (layer F.Fab)
       (effects (font (size 1 1) (thickness 0.15)))
     )
     (pad 1 smd rect (at 0.72 0.06) (size 3.8 2.03) (layers F.Cu F.Paste F.Mask)
@@ -4902,13 +4902,13 @@
   )
 
   (module AV_Breakout_Continuity:TestPoint (layer F.Cu) (tedit 5CC8B25A) (tstamp 5CCA9816)
-    (at 91.22 111.845)
+    (at 215.9 -44.51)
     (path /5CD21289)
     (attr smd)
     (fp_text reference TP18 (at 0 -3.81) (layer F.SilkS) hide
       (effects (font (size 1 1) (thickness 0.15)))
     )
-    (fp_text value 36-5029CT-ND (at 7.62 2.96 unlocked) (layer F.Fab)
+    (fp_text value " " (at 7.62 2.96 unlocked) (layer F.Fab)
       (effects (font (size 1 1) (thickness 0.15)))
     )
     (pad 1 smd rect (at 0.72 0.06) (size 3.8 2.03) (layers F.Cu F.Paste F.Mask)
@@ -4916,13 +4916,13 @@
   )
 
   (module AV_Breakout_Continuity:TestPoint (layer F.Cu) (tedit 5CC8B25A) (tstamp 5CCA981B)
-    (at 91.22 114.875)
+    (at 220.98 -48.26)
     (path /5CD21298)
     (attr smd)
     (fp_text reference TP19 (at 0 -3.81) (layer F.SilkS) hide
       (effects (font (size 1 1) (thickness 0.15)))
     )
-    (fp_text value 36-5029CT-ND (at 7.62 2.96 unlocked) (layer F.Fab)
+    (fp_text value " " (at 7.62 2.96 unlocked) (layer F.Fab)
       (effects (font (size 1 1) (thickness 0.15)))
     )
     (pad 1 smd rect (at 0.72 0.06) (size 3.8 2.03) (layers F.Cu F.Paste F.Mask)
@@ -4930,13 +4930,13 @@
   )
 
   (module AV_Breakout_Continuity:TestPoint (layer F.Cu) (tedit 5CC8B25A) (tstamp 5CCA9820)
-    (at 96.02 111.845)
+    (at 226.06 -44.45)
     (path /5CD212A7)
     (attr smd)
     (fp_text reference TP20 (at 0 -3.81) (layer F.SilkS) hide
       (effects (font (size 1 1) (thickness 0.15)))
     )
-    (fp_text value 36-5029CT-ND (at 7.62 2.96 unlocked) (layer F.Fab)
+    (fp_text value " " (at 7.62 2.96 unlocked) (layer F.Fab)
       (effects (font (size 1 1) (thickness 0.15)))
     )
     (pad 1 smd rect (at 0.72 0.06) (size 3.8 2.03) (layers F.Cu F.Paste F.Mask)
@@ -4944,13 +4944,13 @@
   )
 
   (module AV_Breakout_Continuity:TestPoint (layer F.Cu) (tedit 5CC8B25A) (tstamp 5CCA9825)
-    (at 100.82 108.815)
+    (at 231.69 -48.32)
     (path /5CD212B6)
     (attr smd)
     (fp_text reference TP21 (at 0 -3.81) (layer F.SilkS) hide
       (effects (font (size 1 1) (thickness 0.15)))
     )
-    (fp_text value 36-5029CT-ND (at 7.62 2.96 unlocked) (layer F.Fab)
+    (fp_text value " " (at 7.62 2.96 unlocked) (layer F.Fab)
       (effects (font (size 1 1) (thickness 0.15)))
     )
     (pad 1 smd rect (at 0.72 0.06) (size 3.8 2.03) (layers F.Cu F.Paste F.Mask)
@@ -4958,13 +4958,13 @@
   )
 
   (module AV_Breakout_Continuity:TestPoint (layer F.Cu) (tedit 5CC8B25A) (tstamp 5CCA982A)
-    (at 86.42 108.815)
+    (at 237.49 -44.45)
     (path /5CD212C5)
     (attr smd)
     (fp_text reference TP22 (at 0 -3.81) (layer F.SilkS) hide
       (effects (font (size 1 1) (thickness 0.15)))
     )
-    (fp_text value 36-5029CT-ND (at 7.62 2.96 unlocked) (layer F.Fab)
+    (fp_text value " " (at 7.62 2.96 unlocked) (layer F.Fab)
       (effects (font (size 1 1) (thickness 0.15)))
     )
     (pad 1 smd rect (at 0.72 0.06) (size 3.8 2.03) (layers F.Cu F.Paste F.Mask)
@@ -4972,13 +4972,13 @@
   )
 
   (module AV_Breakout_Continuity:TestPoint (layer F.Cu) (tedit 5CC8B25A) (tstamp 5CCA982F)
-    (at 105.62 108.815)
+    (at 242.57 -48.26)
     (path /5CD212D4)
     (attr smd)
     (fp_text reference TP23 (at 0 -3.81) (layer F.SilkS) hide
       (effects (font (size 1 1) (thickness 0.15)))
     )
-    (fp_text value 36-5029CT-ND (at 7.62 2.96 unlocked) (layer F.Fab)
+    (fp_text value " " (at 7.62 2.96 unlocked) (layer F.Fab)
       (effects (font (size 1 1) (thickness 0.15)))
     )
     (pad 1 smd rect (at 0.72 0.06) (size 3.8 2.03) (layers F.Cu F.Paste F.Mask)
@@ -4986,13 +4986,13 @@
   )
 
   (module AV_Breakout_Continuity:TestPoint (layer F.Cu) (tedit 5CC8B25A) (tstamp 5CCA9834)
-    (at 105.62 111.845)
+    (at 248.2 -44.51)
     (path /5CD212E3)
     (attr smd)
     (fp_text reference TP24 (at 0 -3.81) (layer F.SilkS) hide
       (effects (font (size 1 1) (thickness 0.15)))
     )
-    (fp_text value 36-5029CT-ND (at 7.62 2.96 unlocked) (layer F.Fab)
+    (fp_text value " " (at 7.62 2.96 unlocked) (layer F.Fab)
       (effects (font (size 1 1) (thickness 0.15)))
     )
     (pad 1 smd rect (at 0.72 0.06) (size 3.8 2.03) (layers F.Cu F.Paste F.Mask)
@@ -5000,13 +5000,13 @@
   )
 
   (module AV_Breakout_Continuity:TestPoint (layer F.Cu) (tedit 5CC8B25A) (tstamp 5CCA9839)
-    (at 100.82 114.875)
+    (at 254 -48.26)
     (path /5CD212F2)
     (attr smd)
     (fp_text reference TP25 (at 0 -3.81) (layer F.SilkS) hide
       (effects (font (size 1 1) (thickness 0.15)))
     )
-    (fp_text value 36-5029CT-ND (at 7.62 2.96 unlocked) (layer F.Fab)
+    (fp_text value " " (at 7.62 2.96 unlocked) (layer F.Fab)
       (effects (font (size 1 1) (thickness 0.15)))
     )
     (pad 1 smd rect (at 0.72 0.06) (size 3.8 2.03) (layers F.Cu F.Paste F.Mask)
@@ -5014,7 +5014,7 @@
   )
 
   (module AV_Breakout_Continuity:TestPoint (layer F.Cu) (tedit 5CC8B25A) (tstamp 5CCA983E)
-    (at 110.42 108.815)
+    (at 295.91 22.86)
     (path /5CD21301)
     (attr smd)
     (fp_text reference TP26 (at 0 -3.81) (layer F.SilkS) hide
@@ -5028,7 +5028,7 @@
   )
 
   (module AV_Breakout_Continuity:TestPoint (layer F.Cu) (tedit 5CC8B25A) (tstamp 5CCA9843)
-    (at 105.62 114.875)
+    (at 300.99 26.67)
     (path /5CD21310)
     (attr smd)
     (fp_text reference TP27 (at 0 -3.81) (layer F.SilkS) hide
@@ -5042,7 +5042,7 @@
   )
 
   (module AV_Breakout_Continuity:TestPoint (layer F.Cu) (tedit 5CC8B25A) (tstamp 5CCA9848)
-    (at 110.42 111.845)
+    (at 306.07 22.86)
     (path /5CD2131F)
     (attr smd)
     (fp_text reference TP28 (at 0 -3.81) (layer F.SilkS) hide
@@ -5056,7 +5056,7 @@
   )
 
   (module AV_Breakout_Continuity:TestPoint (layer F.Cu) (tedit 5CC8B25A) (tstamp 5CCA984D)
-    (at 110.42 114.875)
+    (at 311.15 26.67)
     (path /5CD2132E)
     (attr smd)
     (fp_text reference TP29 (at 0 -3.81) (layer F.SilkS) hide
@@ -5070,7 +5070,7 @@
   )
 
   (module AV_Breakout_Continuity:TestPoint (layer F.Cu) (tedit 5CC8B25A) (tstamp 5CCA9852)
-    (at 115.22 108.815)
+    (at 316.23 22.86)
     (path /5CD2133D)
     (attr smd)
     (fp_text reference TP30 (at 0 -3.81) (layer F.SilkS) hide
@@ -5084,7 +5084,7 @@
   )
 
   (module AV_Breakout_Continuity:TestPoint (layer F.Cu) (tedit 5CC8B25A) (tstamp 5CCA9857)
-    (at 115.22 111.845)
+    (at 321.31 26.67)
     (path /5CD2134C)
     (attr smd)
     (fp_text reference TP31 (at 0 -3.81) (layer F.SilkS) hide
@@ -5098,7 +5098,7 @@
   )
 
   (module AV_Breakout_Continuity:TestPoint (layer F.Cu) (tedit 5CC8B25A) (tstamp 5CCA985C)
-    (at 81.62 111.845)
+    (at 326.94 22.8)
     (path /5CD2135B)
     (attr smd)
     (fp_text reference TP32 (at 0 -3.81) (layer F.SilkS) hide
@@ -5112,7 +5112,7 @@
   )
 
   (module AV_Breakout_Continuity:TestPoint (layer F.Cu) (tedit 5CC8B25A) (tstamp 5CCA9861)
-    (at 96.02 114.875)
+    (at 332.02 26.61)
     (path /5CD392F6)
     (attr smd)
     (fp_text reference TP33 (at 0 -3.81) (layer F.SilkS) hide
@@ -5126,7 +5126,7 @@
   )
 
   (module AV_Breakout_Continuity:TestPoint (layer F.Cu) (tedit 5CC8B25A) (tstamp 5CCA9866)
-    (at 120.02 111.845)
+    (at 337.82 22.86)
     (path /5CD39305)
     (attr smd)
     (fp_text reference TP34 (at 0 -3.81) (layer F.SilkS) hide
@@ -5140,7 +5140,7 @@
   )
 
   (module AV_Breakout_Continuity:TestPoint (layer F.Cu) (tedit 5CC8B25A) (tstamp 5CCA986B)
-    (at 120.02 114.875)
+    (at 343.45 26.61)
     (path /5CD39314)
     (attr smd)
     (fp_text reference TP35 (at 0 -3.81) (layer F.SilkS) hide
@@ -5154,7 +5154,7 @@
   )
 
   (module AV_Breakout_Continuity:TestPoint (layer F.Cu) (tedit 5CC8B25A) (tstamp 5CCA9870)
-    (at 124.82 108.815)
+    (at 348.53 22.8)
     (path /5CD39323)
     (attr smd)
     (fp_text reference TP36 (at 0 -3.81) (layer F.SilkS) hide
@@ -5168,7 +5168,7 @@
   )
 
   (module AV_Breakout_Continuity:TestPoint (layer F.Cu) (tedit 5CC8B25A) (tstamp 5CCA9875)
-    (at 124.82 111.845)
+    (at 353.61 26.61)
     (path /5CD39332)
     (attr smd)
     (fp_text reference TP37 (at 0 -3.81) (layer F.SilkS) hide
@@ -5182,7 +5182,7 @@
   )
 
   (module AV_Breakout_Continuity:TestPoint (layer F.Cu) (tedit 5CC8B25A) (tstamp 5CCA987A)
-    (at 124.82 114.875)
+    (at 358.14 22.86)
     (path /5CD39341)
     (attr smd)
     (fp_text reference TP38 (at 0 -3.81) (layer F.SilkS) hide
@@ -5196,7 +5196,7 @@
   )
 
   (module AV_Breakout_Continuity:TestPoint (layer F.Cu) (tedit 5CC8B25A) (tstamp 5CCA987F)
-    (at 129.62 108.815)
+    (at 363.22 26.67)
     (path /5CD39350)
     (attr smd)
     (fp_text reference TP39 (at 0 -3.81) (layer F.SilkS) hide
@@ -5210,7 +5210,7 @@
   )
 
   (module AV_Breakout_Continuity:TestPoint (layer F.Cu) (tedit 5CC8B25A) (tstamp 5CCA9884)
-    (at 129.62 111.845)
+    (at 368.3 22.86)
     (path /5CD3935F)
     (attr smd)
     (fp_text reference TP40 (at 0 -3.81) (layer F.SilkS) hide
@@ -5224,7 +5224,7 @@
   )
 
   (module AV_Breakout_Continuity:TestPoint (layer F.Cu) (tedit 5CC8B25A) (tstamp 5CCA9889)
-    (at 134.42 108.815)
+    (at 373.93 26.61)
     (path /5CD3936E)
     (attr smd)
     (fp_text reference TP41 (at 0 -3.81) (layer F.SilkS) hide
@@ -5238,7 +5238,7 @@
   )
 
   (module AV_Breakout_Continuity:TestPoint (layer F.Cu) (tedit 5CC8B25A) (tstamp 5CCA988E)
-    (at 129.62 114.875)
+    (at 379.73 22.86)
     (path /5CD3937D)
     (attr smd)
     (fp_text reference TP42 (at 0 -3.81) (layer F.SilkS) hide
@@ -5252,7 +5252,7 @@
   )
 
   (module AV_Breakout_Continuity:TestPoint (layer F.Cu) (tedit 5CC8B25A) (tstamp 5CCA9893)
-    (at 154.42 98.525)
+    (at 384.81 26.67)
     (path /5CD3938C)
     (attr smd)
     (fp_text reference TP43 (at 0 -3.81) (layer F.SilkS) hide
@@ -7001,20 +7001,6 @@
       (net 167 "Net-(SR167-Pad1)"))
   )
 
-  (module AV_Breakout_Continuity:TestPoint (layer F.Cu) (tedit 5CC8B25A) (tstamp 5CCA9B04)
-    (at 158.42 113.675)
-    (path /5CDA260B)
-    (attr smd)
-    (fp_text reference TP168 (at 0 -3.81) (layer F.SilkS) hide
-      (effects (font (size 1 1) (thickness 0.15)))
-    )
-    (fp_text value 36-5029CT-ND (at 7.62 2.96 unlocked) (layer F.Fab)
-      (effects (font (size 1 1) (thickness 0.15)))
-    )
-    (pad 1 smd rect (at 0.72 0.06) (size 3.8 2.03) (layers F.Cu F.Paste F.Mask)
-      (net 168 "Net-(SR168-Pad1)"))
-  )
-
   (module AV_Breakout_Continuity:TestPoint (layer F.Cu) (tedit 5CC8B25A) (tstamp 5CCA9B09)
     (at 168.82 103.385)
     (path /5CDA261A)
@@ -7027,6 +7013,13 @@
     )
     (pad 1 smd rect (at 0.72 0.06) (size 3.8 2.03) (layers F.Cu F.Paste F.Mask)
       (net 169 "Net-(SR169-Pad1)"))
+  )
+
+  (gr_text "Left wing" (at 210.82 -58.42) (layer F.Cu)
+    (effects (font (size 1.5 1.5) (thickness 0.3)))
+  )
+  (gr_text "Flight Board Programming" (at 45.72 -57.15) (layer F.Cu)
+    (effects (font (size 1.5 1.5) (thickness 0.3)))
   )
 
 )
