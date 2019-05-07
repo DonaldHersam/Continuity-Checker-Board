@@ -20,7 +20,7 @@ U 1 1 5CD002E2
 P 450 -750
 F 0 "TP1" H 500 -697 50  0000 L CNN
 F 1 "36-5029CT-ND" H 450 -650 50  0001 C CNN
-F 2 "AV_Breakout_Continuity:TestPoint" H 750 -450 60  0001 L CNN
+F 2 "AV_Breakout_Continuity:TP_Through" H 750 -450 60  0001 L CNN
 F 3 "" H 450 -650 60  0001 C CNN
 	1    450  -750
 	1    0    0    -1  
@@ -46,7 +46,7 @@ U 1 1 5CD01BFC
 P 900 -750
 F 0 "TP2" H 950 -697 50  0000 L CNN
 F 1 "36-5029CT-ND" H 900 -650 50  0001 C CNN
-F 2 "AV_Breakout_Continuity:TestPoint" H 1200 -450 60  0001 L CNN
+F 2 "AV_Breakout_Continuity:TP_Through" H 1200 -450 60  0001 L CNN
 F 3 "" H 900 -650 60  0001 C CNN
 	1    900  -750
 	1    0    0    -1  
@@ -72,7 +72,7 @@ U 1 1 5CD02C2A
 P 1350 -750
 F 0 "TP3" H 1400 -697 50  0000 L CNN
 F 1 "36-5029CT-ND" H 1350 -650 50  0001 C CNN
-F 2 "AV_Breakout_Continuity:TestPoint" H 1650 -450 60  0001 L CNN
+F 2 "AV_Breakout_Continuity:TP_Through" H 1650 -450 60  0001 L CNN
 F 3 "" H 1350 -650 60  0001 C CNN
 	1    1350 -750
 	1    0    0    -1  
@@ -98,7 +98,7 @@ U 1 1 5CD02C39
 P 1800 -750
 F 0 "TP4" H 1850 -697 50  0000 L CNN
 F 1 "36-5029CT-ND" H 1800 -650 50  0001 C CNN
-F 2 "AV_Breakout_Continuity:TestPoint" H 2100 -450 60  0001 L CNN
+F 2 "AV_Breakout_Continuity:TP_Through" H 2100 -450 60  0001 L CNN
 F 3 "" H 1800 -650 60  0001 C CNN
 	1    1800 -750
 	1    0    0    -1  
@@ -124,7 +124,7 @@ U 1 1 5CD051FA
 P 2250 -750
 F 0 "TP5" H 2300 -697 50  0000 L CNN
 F 1 "36-5029CT-ND" H 2250 -650 50  0001 C CNN
-F 2 "AV_Breakout_Continuity:TestPoint" H 2550 -450 60  0001 L CNN
+F 2 "AV_Breakout_Continuity:TP_Through" H 2550 -450 60  0001 L CNN
 F 3 "" H 2250 -650 60  0001 C CNN
 	1    2250 -750
 	1    0    0    -1  
@@ -150,7 +150,7 @@ U 1 1 5CD05209
 P 2700 -750
 F 0 "TP6" H 2750 -697 50  0000 L CNN
 F 1 "36-5029CT-ND" H 2700 -650 50  0001 C CNN
-F 2 "AV_Breakout_Continuity:TestPoint" H 3000 -450 60  0001 L CNN
+F 2 "AV_Breakout_Continuity:TP_Through" H 3000 -450 60  0001 L CNN
 F 3 "" H 2700 -650 60  0001 C CNN
 	1    2700 -750
 	1    0    0    -1  
@@ -176,7 +176,7 @@ U 1 1 5CD05218
 P 3150 -750
 F 0 "TP7" H 3200 -697 50  0000 L CNN
 F 1 "36-5029CT-ND" H 3150 -650 50  0001 C CNN
-F 2 "AV_Breakout_Continuity:TestPoint" H 3450 -450 60  0001 L CNN
+F 2 "AV_Breakout_Continuity:TP_Through" H 3450 -450 60  0001 L CNN
 F 3 "" H 3150 -650 60  0001 C CNN
 	1    3150 -750
 	1    0    0    -1  
@@ -202,7 +202,7 @@ U 1 1 5CD05227
 P 350 -2100
 F 0 "TP8" H 400 -2047 50  0000 L CNN
 F 1 "36-5029CT-ND" H 350 -2000 50  0001 C CNN
-F 2 "AV_Breakout_Continuity:TestPoint" H 650 -1800 60  0001 L CNN
+F 2 "AV_Breakout_Continuity:TP_Through" H 650 -1800 60  0001 L CNN
 F 3 "" H 350 -2000 60  0001 C CNN
 	1    350  -2100
 	1    0    0    -1  
@@ -228,7 +228,7 @@ U 1 1 5CD13692
 P 800 -2100
 F 0 "TP9" H 850 -2047 50  0000 L CNN
 F 1 "36-5029CT-ND" H 800 -2000 50  0001 C CNN
-F 2 "AV_Breakout_Continuity:TestPoint" H 1100 -1800 60  0001 L CNN
+F 2 "AV_Breakout_Continuity:TP_Through" H 1100 -1800 60  0001 L CNN
 F 3 "" H 800 -2000 60  0001 C CNN
 	1    800  -2100
 	1    0    0    -1  
@@ -254,7 +254,7 @@ U 1 1 5CD136A1
 P 1250 -2100
 F 0 "TP10" H 1300 -2047 50  0000 L CNN
 F 1 "36-5029CT-ND" H 1250 -2000 50  0001 C CNN
-F 2 "AV_Breakout_Continuity:TestPoint" H 1550 -1800 60  0001 L CNN
+F 2 "AV_Breakout_Continuity:TP_Through" H 1550 -1800 60  0001 L CNN
 F 3 "" H 1250 -2000 60  0001 C CNN
 	1    1250 -2100
 	1    0    0    -1  
@@ -280,7 +280,7 @@ U 1 1 5CD136B0
 P 1700 -2100
 F 0 "TP11" H 1750 -2047 50  0000 L CNN
 F 1 "36-5029CT-ND" H 1700 -2000 50  0001 C CNN
-F 2 "AV_Breakout_Continuity:TestPoint" H 2000 -1800 60  0001 L CNN
+F 2 "AV_Breakout_Continuity:TP_Through" H 2000 -1800 60  0001 L CNN
 F 3 "" H 1700 -2000 60  0001 C CNN
 	1    1700 -2100
 	1    0    0    -1  
@@ -306,7 +306,7 @@ U 1 1 5CD136BF
 P 2150 -2100
 F 0 "TP12" H 2200 -2047 50  0000 L CNN
 F 1 "36-5029CT-ND" H 2150 -2000 50  0001 C CNN
-F 2 "AV_Breakout_Continuity:TestPoint" H 2450 -1800 60  0001 L CNN
+F 2 "AV_Breakout_Continuity:TP_Through" H 2450 -1800 60  0001 L CNN
 F 3 "" H 2150 -2000 60  0001 C CNN
 	1    2150 -2100
 	1    0    0    -1  
@@ -332,7 +332,7 @@ U 1 1 5CD136CE
 P 2600 -2100
 F 0 "TP13" H 2650 -2047 50  0000 L CNN
 F 1 "36-5029CT-ND" H 2600 -2000 50  0001 C CNN
-F 2 "AV_Breakout_Continuity:TestPoint" H 2900 -1800 60  0001 L CNN
+F 2 "AV_Breakout_Continuity:TP_Through" H 2900 -1800 60  0001 L CNN
 F 3 "" H 2600 -2000 60  0001 C CNN
 	1    2600 -2100
 	1    0    0    -1  
@@ -358,7 +358,7 @@ U 1 1 5CD136DD
 P 3050 -2100
 F 0 "TP14" H 3100 -2047 50  0000 L CNN
 F 1 "36-5029CT-ND" H 3050 -2000 50  0001 C CNN
-F 2 "AV_Breakout_Continuity:TestPoint" H 3350 -1800 60  0001 L CNN
+F 2 "AV_Breakout_Continuity:TP_Through" H 3350 -1800 60  0001 L CNN
 F 3 "" H 3050 -2000 60  0001 C CNN
 	1    3050 -2100
 	1    0    0    -1  
@@ -384,7 +384,7 @@ U 1 1 5CD136EC
 P 3500 -2100
 F 0 "TP15" H 3550 -2047 50  0000 L CNN
 F 1 "36-5029CT-ND" H 3500 -2000 50  0001 C CNN
-F 2 "AV_Breakout_Continuity:TestPoint" H 3800 -1800 60  0001 L CNN
+F 2 "AV_Breakout_Continuity:TP_Through" H 3800 -1800 60  0001 L CNN
 F 3 "" H 3500 -2000 60  0001 C CNN
 	1    3500 -2100
 	1    0    0    -1  
@@ -410,7 +410,7 @@ U 1 1 5CD136FB
 P 3950 -2100
 F 0 "TP16" H 4000 -2047 50  0000 L CNN
 F 1 "36-5029CT-ND" H 3950 -2000 50  0001 C CNN
-F 2 "AV_Breakout_Continuity:TestPoint" H 4250 -1800 60  0001 L CNN
+F 2 "AV_Breakout_Continuity:TP_Through" H 4250 -1800 60  0001 L CNN
 F 3 "" H 3950 -2000 60  0001 C CNN
 	1    3950 -2100
 	1    0    0    -1  
@@ -436,7 +436,7 @@ U 1 1 5CD2127A
 P 4400 -2100
 F 0 "TP17" H 4450 -2047 50  0000 L CNN
 F 1 "36-5029CT-ND" H 4400 -2000 50  0001 C CNN
-F 2 "AV_Breakout_Continuity:TestPoint" H 4700 -1800 60  0001 L CNN
+F 2 "AV_Breakout_Continuity:TP_Through" H 4700 -1800 60  0001 L CNN
 F 3 "" H 4400 -2000 60  0001 C CNN
 	1    4400 -2100
 	1    0    0    -1  
@@ -462,7 +462,7 @@ U 1 1 5CD21289
 P 4850 -2100
 F 0 "TP18" H 4900 -2047 50  0000 L CNN
 F 1 "36-5029CT-ND" H 4850 -2000 50  0001 C CNN
-F 2 "AV_Breakout_Continuity:TestPoint" H 5150 -1800 60  0001 L CNN
+F 2 "AV_Breakout_Continuity:TP_Through" H 5150 -1800 60  0001 L CNN
 F 3 "" H 4850 -2000 60  0001 C CNN
 	1    4850 -2100
 	1    0    0    -1  
@@ -488,7 +488,7 @@ U 1 1 5CD21298
 P 5300 -2100
 F 0 "TP19" H 5350 -2047 50  0000 L CNN
 F 1 "36-5029CT-ND" H 5300 -2000 50  0001 C CNN
-F 2 "AV_Breakout_Continuity:TestPoint" H 5600 -1800 60  0001 L CNN
+F 2 "AV_Breakout_Continuity:TP_Through" H 5600 -1800 60  0001 L CNN
 F 3 "" H 5300 -2000 60  0001 C CNN
 	1    5300 -2100
 	1    0    0    -1  
@@ -514,7 +514,7 @@ U 1 1 5CD212A7
 P 5750 -2100
 F 0 "TP20" H 5800 -2047 50  0000 L CNN
 F 1 "36-5029CT-ND" H 5750 -2000 50  0001 C CNN
-F 2 "AV_Breakout_Continuity:TestPoint" H 6050 -1800 60  0001 L CNN
+F 2 "AV_Breakout_Continuity:TP_Through" H 6050 -1800 60  0001 L CNN
 F 3 "" H 5750 -2000 60  0001 C CNN
 	1    5750 -2100
 	1    0    0    -1  
@@ -540,7 +540,7 @@ U 1 1 5CD212B6
 P 6200 -2100
 F 0 "TP21" H 6250 -2047 50  0000 L CNN
 F 1 "36-5029CT-ND" H 6200 -2000 50  0001 C CNN
-F 2 "AV_Breakout_Continuity:TestPoint" H 6500 -1800 60  0001 L CNN
+F 2 "AV_Breakout_Continuity:TP_Through" H 6500 -1800 60  0001 L CNN
 F 3 "" H 6200 -2000 60  0001 C CNN
 	1    6200 -2100
 	1    0    0    -1  
@@ -566,7 +566,7 @@ U 1 1 5CD212C5
 P 6650 -2100
 F 0 "TP22" H 6700 -2047 50  0000 L CNN
 F 1 "36-5029CT-ND" H 6650 -2000 50  0001 C CNN
-F 2 "AV_Breakout_Continuity:TestPoint" H 6950 -1800 60  0001 L CNN
+F 2 "AV_Breakout_Continuity:TP_Through" H 6950 -1800 60  0001 L CNN
 F 3 "" H 6650 -2000 60  0001 C CNN
 	1    6650 -2100
 	1    0    0    -1  
@@ -592,7 +592,7 @@ U 1 1 5CD212D4
 P 7100 -2100
 F 0 "TP23" H 7150 -2047 50  0000 L CNN
 F 1 "36-5029CT-ND" H 7100 -2000 50  0001 C CNN
-F 2 "AV_Breakout_Continuity:TestPoint" H 7400 -1800 60  0001 L CNN
+F 2 "AV_Breakout_Continuity:TP_Through" H 7400 -1800 60  0001 L CNN
 F 3 "" H 7100 -2000 60  0001 C CNN
 	1    7100 -2100
 	1    0    0    -1  
@@ -618,7 +618,7 @@ U 1 1 5CD212E3
 P 7550 -2100
 F 0 "TP24" H 7600 -2047 50  0000 L CNN
 F 1 "36-5029CT-ND" H 7550 -2000 50  0001 C CNN
-F 2 "AV_Breakout_Continuity:TestPoint" H 7850 -1800 60  0001 L CNN
+F 2 "AV_Breakout_Continuity:TP_Through" H 7850 -1800 60  0001 L CNN
 F 3 "" H 7550 -2000 60  0001 C CNN
 	1    7550 -2100
 	1    0    0    -1  
@@ -644,7 +644,7 @@ U 1 1 5CD212F2
 P 8000 -2100
 F 0 "TP25" H 8050 -2047 50  0000 L CNN
 F 1 "36-5029CT-ND" H 8000 -2000 50  0001 C CNN
-F 2 "AV_Breakout_Continuity:TestPoint" H 8300 -1800 60  0001 L CNN
+F 2 "AV_Breakout_Continuity:TP_Through" H 8300 -1800 60  0001 L CNN
 F 3 "" H 8000 -2000 60  0001 C CNN
 	1    8000 -2100
 	1    0    0    -1  
@@ -670,7 +670,7 @@ U 1 1 5CD21301
 P 400 -3100
 F 0 "TP26" H 450 -3047 50  0000 L CNN
 F 1 "36-5029CT-ND" H 400 -3000 50  0001 C CNN
-F 2 "AV_Breakout_Continuity:TestPoint" H 700 -2800 60  0001 L CNN
+F 2 "AV_Breakout_Continuity:TP_Through" H 700 -2800 60  0001 L CNN
 F 3 "" H 400 -3000 60  0001 C CNN
 	1    400  -3100
 	1    0    0    -1  
@@ -696,7 +696,7 @@ U 1 1 5CD21310
 P 850 -3100
 F 0 "TP27" H 900 -3047 50  0000 L CNN
 F 1 "36-5029CT-ND" H 850 -3000 50  0001 C CNN
-F 2 "AV_Breakout_Continuity:TestPoint" H 1150 -2800 60  0001 L CNN
+F 2 "AV_Breakout_Continuity:TP_Through" H 1150 -2800 60  0001 L CNN
 F 3 "" H 850 -3000 60  0001 C CNN
 	1    850  -3100
 	1    0    0    -1  
@@ -722,7 +722,7 @@ U 1 1 5CD2131F
 P 1300 -3100
 F 0 "TP28" H 1350 -3047 50  0000 L CNN
 F 1 "36-5029CT-ND" H 1300 -3000 50  0001 C CNN
-F 2 "AV_Breakout_Continuity:TestPoint" H 1600 -2800 60  0001 L CNN
+F 2 "AV_Breakout_Continuity:TP_Through" H 1600 -2800 60  0001 L CNN
 F 3 "" H 1300 -3000 60  0001 C CNN
 	1    1300 -3100
 	1    0    0    -1  
@@ -748,7 +748,7 @@ U 1 1 5CD2132E
 P 1750 -3100
 F 0 "TP29" H 1800 -3047 50  0000 L CNN
 F 1 "36-5029CT-ND" H 1750 -3000 50  0001 C CNN
-F 2 "AV_Breakout_Continuity:TestPoint" H 2050 -2800 60  0001 L CNN
+F 2 "AV_Breakout_Continuity:TP_Through" H 2050 -2800 60  0001 L CNN
 F 3 "" H 1750 -3000 60  0001 C CNN
 	1    1750 -3100
 	1    0    0    -1  
@@ -774,7 +774,7 @@ U 1 1 5CD2133D
 P 2200 -3100
 F 0 "TP30" H 2250 -3047 50  0000 L CNN
 F 1 "36-5029CT-ND" H 2200 -3000 50  0001 C CNN
-F 2 "AV_Breakout_Continuity:TestPoint" H 2500 -2800 60  0001 L CNN
+F 2 "AV_Breakout_Continuity:TP_Through" H 2500 -2800 60  0001 L CNN
 F 3 "" H 2200 -3000 60  0001 C CNN
 	1    2200 -3100
 	1    0    0    -1  
@@ -800,7 +800,7 @@ U 1 1 5CD2134C
 P 2650 -3100
 F 0 "TP31" H 2700 -3047 50  0000 L CNN
 F 1 "36-5029CT-ND" H 2650 -3000 50  0001 C CNN
-F 2 "AV_Breakout_Continuity:TestPoint" H 2950 -2800 60  0001 L CNN
+F 2 "AV_Breakout_Continuity:TP_Through" H 2950 -2800 60  0001 L CNN
 F 3 "" H 2650 -3000 60  0001 C CNN
 	1    2650 -3100
 	1    0    0    -1  
@@ -826,7 +826,7 @@ U 1 1 5CD2135B
 P 3100 -3100
 F 0 "TP32" H 3150 -3047 50  0000 L CNN
 F 1 "36-5029CT-ND" H 3100 -3000 50  0001 C CNN
-F 2 "AV_Breakout_Continuity:TestPoint" H 3400 -2800 60  0001 L CNN
+F 2 "AV_Breakout_Continuity:TP_Through" H 3400 -2800 60  0001 L CNN
 F 3 "" H 3100 -3000 60  0001 C CNN
 	1    3100 -3100
 	1    0    0    -1  
@@ -852,7 +852,7 @@ U 1 1 5CD392F6
 P 3550 -3100
 F 0 "TP33" H 3600 -3047 50  0000 L CNN
 F 1 "36-5029CT-ND" H 3550 -3000 50  0001 C CNN
-F 2 "AV_Breakout_Continuity:TestPoint" H 3850 -2800 60  0001 L CNN
+F 2 "AV_Breakout_Continuity:TP_Through" H 3850 -2800 60  0001 L CNN
 F 3 "" H 3550 -3000 60  0001 C CNN
 	1    3550 -3100
 	1    0    0    -1  
@@ -878,7 +878,7 @@ U 1 1 5CD39305
 P 4000 -3100
 F 0 "TP34" H 4050 -3047 50  0000 L CNN
 F 1 "36-5029CT-ND" H 4000 -3000 50  0001 C CNN
-F 2 "AV_Breakout_Continuity:TestPoint" H 4300 -2800 60  0001 L CNN
+F 2 "AV_Breakout_Continuity:TP_Through" H 4300 -2800 60  0001 L CNN
 F 3 "" H 4000 -3000 60  0001 C CNN
 	1    4000 -3100
 	1    0    0    -1  
@@ -904,7 +904,7 @@ U 1 1 5CD39314
 P 4450 -3100
 F 0 "TP35" H 4500 -3047 50  0000 L CNN
 F 1 "36-5029CT-ND" H 4450 -3000 50  0001 C CNN
-F 2 "AV_Breakout_Continuity:TestPoint" H 4750 -2800 60  0001 L CNN
+F 2 "AV_Breakout_Continuity:TP_Through" H 4750 -2800 60  0001 L CNN
 F 3 "" H 4450 -3000 60  0001 C CNN
 	1    4450 -3100
 	1    0    0    -1  
@@ -930,7 +930,7 @@ U 1 1 5CD39323
 P 4900 -3100
 F 0 "TP36" H 4950 -3047 50  0000 L CNN
 F 1 "36-5029CT-ND" H 4900 -3000 50  0001 C CNN
-F 2 "AV_Breakout_Continuity:TestPoint" H 5200 -2800 60  0001 L CNN
+F 2 "AV_Breakout_Continuity:TP_Through" H 5200 -2800 60  0001 L CNN
 F 3 "" H 4900 -3000 60  0001 C CNN
 	1    4900 -3100
 	1    0    0    -1  
@@ -956,7 +956,7 @@ U 1 1 5CD39332
 P 5350 -3100
 F 0 "TP37" H 5400 -3047 50  0000 L CNN
 F 1 "36-5029CT-ND" H 5350 -3000 50  0001 C CNN
-F 2 "AV_Breakout_Continuity:TestPoint" H 5650 -2800 60  0001 L CNN
+F 2 "AV_Breakout_Continuity:TP_Through" H 5650 -2800 60  0001 L CNN
 F 3 "" H 5350 -3000 60  0001 C CNN
 	1    5350 -3100
 	1    0    0    -1  
@@ -982,7 +982,7 @@ U 1 1 5CD39341
 P 5800 -3100
 F 0 "TP38" H 5850 -3047 50  0000 L CNN
 F 1 "36-5029CT-ND" H 5800 -3000 50  0001 C CNN
-F 2 "AV_Breakout_Continuity:TestPoint" H 6100 -2800 60  0001 L CNN
+F 2 "AV_Breakout_Continuity:TP_Through" H 6100 -2800 60  0001 L CNN
 F 3 "" H 5800 -3000 60  0001 C CNN
 	1    5800 -3100
 	1    0    0    -1  
@@ -1008,7 +1008,7 @@ U 1 1 5CD39350
 P 6250 -3100
 F 0 "TP39" H 6300 -3047 50  0000 L CNN
 F 1 "36-5029CT-ND" H 6250 -3000 50  0001 C CNN
-F 2 "AV_Breakout_Continuity:TestPoint" H 6550 -2800 60  0001 L CNN
+F 2 "AV_Breakout_Continuity:TP_Through" H 6550 -2800 60  0001 L CNN
 F 3 "" H 6250 -3000 60  0001 C CNN
 	1    6250 -3100
 	1    0    0    -1  
@@ -1034,7 +1034,7 @@ U 1 1 5CD3935F
 P 6700 -3100
 F 0 "TP40" H 6750 -3047 50  0000 L CNN
 F 1 "36-5029CT-ND" H 6700 -3000 50  0001 C CNN
-F 2 "AV_Breakout_Continuity:TestPoint" H 7000 -2800 60  0001 L CNN
+F 2 "AV_Breakout_Continuity:TP_Through" H 7000 -2800 60  0001 L CNN
 F 3 "" H 6700 -3000 60  0001 C CNN
 	1    6700 -3100
 	1    0    0    -1  
@@ -1060,7 +1060,7 @@ U 1 1 5CD3936E
 P 7150 -3100
 F 0 "TP41" H 7200 -3047 50  0000 L CNN
 F 1 "36-5029CT-ND" H 7150 -3000 50  0001 C CNN
-F 2 "AV_Breakout_Continuity:TestPoint" H 7450 -2800 60  0001 L CNN
+F 2 "AV_Breakout_Continuity:TP_Through" H 7450 -2800 60  0001 L CNN
 F 3 "" H 7150 -3000 60  0001 C CNN
 	1    7150 -3100
 	1    0    0    -1  
@@ -1086,7 +1086,7 @@ U 1 1 5CD3937D
 P 7600 -3100
 F 0 "TP42" H 7650 -3047 50  0000 L CNN
 F 1 "36-5029CT-ND" H 7600 -3000 50  0001 C CNN
-F 2 "AV_Breakout_Continuity:TestPoint" H 7900 -2800 60  0001 L CNN
+F 2 "AV_Breakout_Continuity:TP_Through" H 7900 -2800 60  0001 L CNN
 F 3 "" H 7600 -3000 60  0001 C CNN
 	1    7600 -3100
 	1    0    0    -1  
@@ -1112,7 +1112,7 @@ U 1 1 5CD3938C
 P 8050 -3100
 F 0 "TP43" H 8100 -3047 50  0000 L CNN
 F 1 "36-5029CT-ND" H 8050 -3000 50  0001 C CNN
-F 2 "AV_Breakout_Continuity:TestPoint" H 8350 -2800 60  0001 L CNN
+F 2 "AV_Breakout_Continuity:TP_Through" H 8350 -2800 60  0001 L CNN
 F 3 "" H 8050 -3000 60  0001 C CNN
 	1    8050 -3100
 	1    0    0    -1  
@@ -1138,7 +1138,7 @@ U 1 1 5CD3939B
 P 400 -4350
 F 0 "TP44" H 450 -4297 50  0000 L CNN
 F 1 "36-5029CT-ND" H 400 -4250 50  0001 C CNN
-F 2 "AV_Breakout_Continuity:TestPoint" H 700 -4050 60  0001 L CNN
+F 2 "AV_Breakout_Continuity:TP_Through" H 700 -4050 60  0001 L CNN
 F 3 "" H 400 -4250 60  0001 C CNN
 	1    400  -4350
 	1    0    0    -1  
@@ -1164,7 +1164,7 @@ U 1 1 5CD393AA
 P 850 -4350
 F 0 "TP45" H 900 -4297 50  0000 L CNN
 F 1 "36-5029CT-ND" H 850 -4250 50  0001 C CNN
-F 2 "AV_Breakout_Continuity:TestPoint" H 1150 -4050 60  0001 L CNN
+F 2 "AV_Breakout_Continuity:TP_Through" H 1150 -4050 60  0001 L CNN
 F 3 "" H 850 -4250 60  0001 C CNN
 	1    850  -4350
 	1    0    0    -1  
@@ -1190,7 +1190,7 @@ U 1 1 5CD393B9
 P 1300 -4350
 F 0 "TP46" H 1350 -4297 50  0000 L CNN
 F 1 "36-5029CT-ND" H 1300 -4250 50  0001 C CNN
-F 2 "AV_Breakout_Continuity:TestPoint" H 1600 -4050 60  0001 L CNN
+F 2 "AV_Breakout_Continuity:TP_Through" H 1600 -4050 60  0001 L CNN
 F 3 "" H 1300 -4250 60  0001 C CNN
 	1    1300 -4350
 	1    0    0    -1  
@@ -1216,7 +1216,7 @@ U 1 1 5CD393C8
 P 1750 -4350
 F 0 "TP47" H 1800 -4297 50  0000 L CNN
 F 1 "36-5029CT-ND" H 1750 -4250 50  0001 C CNN
-F 2 "AV_Breakout_Continuity:TestPoint" H 2050 -4050 60  0001 L CNN
+F 2 "AV_Breakout_Continuity:TP_Through" H 2050 -4050 60  0001 L CNN
 F 3 "" H 1750 -4250 60  0001 C CNN
 	1    1750 -4350
 	1    0    0    -1  
@@ -1242,7 +1242,7 @@ U 1 1 5CD393D7
 P 2200 -4350
 F 0 "TP48" H 2250 -4297 50  0000 L CNN
 F 1 "36-5029CT-ND" H 2200 -4250 50  0001 C CNN
-F 2 "AV_Breakout_Continuity:TestPoint" H 2500 -4050 60  0001 L CNN
+F 2 "AV_Breakout_Continuity:TP_Through" H 2500 -4050 60  0001 L CNN
 F 3 "" H 2200 -4250 60  0001 C CNN
 	1    2200 -4350
 	1    0    0    -1  
@@ -1268,7 +1268,7 @@ U 1 1 5CD393E6
 P 2650 -4350
 F 0 "TP49" H 2700 -4297 50  0000 L CNN
 F 1 "36-5029CT-ND" H 2650 -4250 50  0001 C CNN
-F 2 "AV_Breakout_Continuity:TestPoint" H 2950 -4050 60  0001 L CNN
+F 2 "AV_Breakout_Continuity:TP_Through" H 2950 -4050 60  0001 L CNN
 F 3 "" H 2650 -4250 60  0001 C CNN
 	1    2650 -4350
 	1    0    0    -1  
@@ -1294,7 +1294,7 @@ U 1 1 5CD393F5
 P 3100 -4350
 F 0 "TP50" H 3150 -4297 50  0000 L CNN
 F 1 "36-5029CT-ND" H 3100 -4250 50  0001 C CNN
-F 2 "AV_Breakout_Continuity:TestPoint" H 3400 -4050 60  0001 L CNN
+F 2 "AV_Breakout_Continuity:TP_Through" H 3400 -4050 60  0001 L CNN
 F 3 "" H 3100 -4250 60  0001 C CNN
 	1    3100 -4350
 	1    0    0    -1  
@@ -1320,7 +1320,7 @@ U 1 1 5CD39404
 P 3550 -4350
 F 0 "TP51" H 3600 -4297 50  0000 L CNN
 F 1 "36-5029CT-ND" H 3550 -4250 50  0001 C CNN
-F 2 "AV_Breakout_Continuity:TestPoint" H 3850 -4050 60  0001 L CNN
+F 2 "AV_Breakout_Continuity:TP_Through" H 3850 -4050 60  0001 L CNN
 F 3 "" H 3550 -4250 60  0001 C CNN
 	1    3550 -4350
 	1    0    0    -1  
@@ -1346,7 +1346,7 @@ U 1 1 5CD39413
 P 4000 -4350
 F 0 "TP52" H 4050 -4297 50  0000 L CNN
 F 1 "36-5029CT-ND" H 4000 -4250 50  0001 C CNN
-F 2 "AV_Breakout_Continuity:TestPoint" H 4300 -4050 60  0001 L CNN
+F 2 "AV_Breakout_Continuity:TP_Through" H 4300 -4050 60  0001 L CNN
 F 3 "" H 4000 -4250 60  0001 C CNN
 	1    4000 -4350
 	1    0    0    -1  
@@ -1372,7 +1372,7 @@ U 1 1 5CD39422
 P 4450 -4350
 F 0 "TP53" H 4500 -4297 50  0000 L CNN
 F 1 "36-5029CT-ND" H 4450 -4250 50  0001 C CNN
-F 2 "AV_Breakout_Continuity:TestPoint" H 4750 -4050 60  0001 L CNN
+F 2 "AV_Breakout_Continuity:TP_Through" H 4750 -4050 60  0001 L CNN
 F 3 "" H 4450 -4250 60  0001 C CNN
 	1    4450 -4350
 	1    0    0    -1  
@@ -1398,7 +1398,7 @@ U 1 1 5CD39431
 P 4900 -4350
 F 0 "TP54" H 4950 -4297 50  0000 L CNN
 F 1 "36-5029CT-ND" H 4900 -4250 50  0001 C CNN
-F 2 "AV_Breakout_Continuity:TestPoint" H 5200 -4050 60  0001 L CNN
+F 2 "AV_Breakout_Continuity:TP_Through" H 5200 -4050 60  0001 L CNN
 F 3 "" H 4900 -4250 60  0001 C CNN
 	1    4900 -4350
 	1    0    0    -1  
@@ -1424,7 +1424,7 @@ U 1 1 5CD39440
 P 850 750
 F 0 "TP55" H 900 803 50  0000 L CNN
 F 1 "36-5029CT-ND" H 850 850 50  0001 C CNN
-F 2 "AV_Breakout_Continuity:TestPoint" H 1150 1050 60  0001 L CNN
+F 2 "AV_Breakout_Continuity:TP_Through" H 1150 1050 60  0001 L CNN
 F 3 "" H 850 850 60  0001 C CNN
 	1    850  750 
 	1    0    0    -1  
@@ -1450,7 +1450,7 @@ U 1 1 5CD3944F
 P 1300 750
 F 0 "TP56" H 1350 803 50  0000 L CNN
 F 1 "36-5029CT-ND" H 1300 850 50  0001 C CNN
-F 2 "AV_Breakout_Continuity:TestPoint" H 1600 1050 60  0001 L CNN
+F 2 "AV_Breakout_Continuity:TP_Through" H 1600 1050 60  0001 L CNN
 F 3 "" H 1300 850 60  0001 C CNN
 	1    1300 750 
 	1    0    0    -1  
@@ -1476,7 +1476,7 @@ U 1 1 5CD3945E
 P 1750 750
 F 0 "TP57" H 1800 803 50  0000 L CNN
 F 1 "36-5029CT-ND" H 1750 850 50  0001 C CNN
-F 2 "AV_Breakout_Continuity:TestPoint" H 2050 1050 60  0001 L CNN
+F 2 "AV_Breakout_Continuity:TP_Through" H 2050 1050 60  0001 L CNN
 F 3 "" H 1750 850 60  0001 C CNN
 	1    1750 750 
 	1    0    0    -1  
@@ -1502,7 +1502,7 @@ U 1 1 5CD3946D
 P 2200 750
 F 0 "TP58" H 2250 803 50  0000 L CNN
 F 1 "36-5029CT-ND" H 2200 850 50  0001 C CNN
-F 2 "AV_Breakout_Continuity:TestPoint" H 2500 1050 60  0001 L CNN
+F 2 "AV_Breakout_Continuity:TP_Through" H 2500 1050 60  0001 L CNN
 F 3 "" H 2200 850 60  0001 C CNN
 	1    2200 750 
 	1    0    0    -1  
@@ -1528,7 +1528,7 @@ U 1 1 5CD3947C
 P 2650 750
 F 0 "TP59" H 2700 803 50  0000 L CNN
 F 1 "36-5029CT-ND" H 2650 850 50  0001 C CNN
-F 2 "AV_Breakout_Continuity:TestPoint" H 2950 1050 60  0001 L CNN
+F 2 "AV_Breakout_Continuity:TP_Through" H 2950 1050 60  0001 L CNN
 F 3 "" H 2650 850 60  0001 C CNN
 	1    2650 750 
 	1    0    0    -1  
@@ -1554,7 +1554,7 @@ U 1 1 5CD3948B
 P 3100 750
 F 0 "TP60" H 3150 803 50  0000 L CNN
 F 1 "36-5029CT-ND" H 3100 850 50  0001 C CNN
-F 2 "AV_Breakout_Continuity:TestPoint" H 3400 1050 60  0001 L CNN
+F 2 "AV_Breakout_Continuity:TP_Through" H 3400 1050 60  0001 L CNN
 F 3 "" H 3100 850 60  0001 C CNN
 	1    3100 750 
 	1    0    0    -1  
@@ -1580,7 +1580,7 @@ U 1 1 5CD3949A
 P 3550 750
 F 0 "TP61" H 3600 803 50  0000 L CNN
 F 1 "36-5029CT-ND" H 3550 850 50  0001 C CNN
-F 2 "AV_Breakout_Continuity:TestPoint" H 3850 1050 60  0001 L CNN
+F 2 "AV_Breakout_Continuity:TP_Through" H 3850 1050 60  0001 L CNN
 F 3 "" H 3550 850 60  0001 C CNN
 	1    3550 750 
 	1    0    0    -1  
@@ -1606,7 +1606,7 @@ U 1 1 5CD394A9
 P 750 1500
 F 0 "TP62" H 800 1553 50  0000 L CNN
 F 1 "36-5029CT-ND" H 750 1600 50  0001 C CNN
-F 2 "AV_Breakout_Continuity:TestPoint" H 1050 1800 60  0001 L CNN
+F 2 "AV_Breakout_Continuity:TP_Through" H 1050 1800 60  0001 L CNN
 F 3 "" H 750 1600 60  0001 C CNN
 	1    750  1500
 	1    0    0    -1  
@@ -1632,7 +1632,7 @@ U 1 1 5CD394B8
 P 1200 1500
 F 0 "TP63" H 1250 1553 50  0000 L CNN
 F 1 "36-5029CT-ND" H 1200 1600 50  0001 C CNN
-F 2 "AV_Breakout_Continuity:TestPoint" H 1500 1800 60  0001 L CNN
+F 2 "AV_Breakout_Continuity:TP_Through" H 1500 1800 60  0001 L CNN
 F 3 "" H 1200 1600 60  0001 C CNN
 	1    1200 1500
 	1    0    0    -1  
@@ -1658,7 +1658,7 @@ U 1 1 5CD394C7
 P 1650 1500
 F 0 "TP64" H 1700 1553 50  0000 L CNN
 F 1 "36-5029CT-ND" H 1650 1600 50  0001 C CNN
-F 2 "AV_Breakout_Continuity:TestPoint" H 1950 1800 60  0001 L CNN
+F 2 "AV_Breakout_Continuity:TP_Through" H 1950 1800 60  0001 L CNN
 F 3 "" H 1650 1600 60  0001 C CNN
 	1    1650 1500
 	1    0    0    -1  
@@ -1684,7 +1684,7 @@ U 1 1 5CD77948
 P 2100 1500
 F 0 "TP65" H 2150 1553 50  0000 L CNN
 F 1 "36-5029CT-ND" H 2100 1600 50  0001 C CNN
-F 2 "AV_Breakout_Continuity:TestPoint" H 2400 1800 60  0001 L CNN
+F 2 "AV_Breakout_Continuity:TP_Through" H 2400 1800 60  0001 L CNN
 F 3 "" H 2100 1600 60  0001 C CNN
 	1    2100 1500
 	1    0    0    -1  
@@ -1710,7 +1710,7 @@ U 1 1 5CD77957
 P 2550 1500
 F 0 "TP66" H 2600 1553 50  0000 L CNN
 F 1 "36-5029CT-ND" H 2550 1600 50  0001 C CNN
-F 2 "AV_Breakout_Continuity:TestPoint" H 2850 1800 60  0001 L CNN
+F 2 "AV_Breakout_Continuity:TP_Through" H 2850 1800 60  0001 L CNN
 F 3 "" H 2550 1600 60  0001 C CNN
 	1    2550 1500
 	1    0    0    -1  
@@ -1736,7 +1736,7 @@ U 1 1 5CD77966
 P 3000 1500
 F 0 "TP67" H 3050 1553 50  0000 L CNN
 F 1 "36-5029CT-ND" H 3000 1600 50  0001 C CNN
-F 2 "AV_Breakout_Continuity:TestPoint" H 3300 1800 60  0001 L CNN
+F 2 "AV_Breakout_Continuity:TP_Through" H 3300 1800 60  0001 L CNN
 F 3 "" H 3000 1600 60  0001 C CNN
 	1    3000 1500
 	1    0    0    -1  
@@ -1762,7 +1762,7 @@ U 1 1 5CD77975
 P 3450 1500
 F 0 "TP68" H 3500 1553 50  0000 L CNN
 F 1 "36-5029CT-ND" H 3450 1600 50  0001 C CNN
-F 2 "AV_Breakout_Continuity:TestPoint" H 3750 1800 60  0001 L CNN
+F 2 "AV_Breakout_Continuity:TP_Through" H 3750 1800 60  0001 L CNN
 F 3 "" H 3450 1600 60  0001 C CNN
 	1    3450 1500
 	1    0    0    -1  
@@ -1788,7 +1788,7 @@ U 1 1 5CD77984
 P 3900 1500
 F 0 "TP69" H 3950 1553 50  0000 L CNN
 F 1 "36-5029CT-ND" H 3900 1600 50  0001 C CNN
-F 2 "AV_Breakout_Continuity:TestPoint" H 4200 1800 60  0001 L CNN
+F 2 "AV_Breakout_Continuity:TP_Through" H 4200 1800 60  0001 L CNN
 F 3 "" H 3900 1600 60  0001 C CNN
 	1    3900 1500
 	1    0    0    -1  
@@ -1814,7 +1814,7 @@ U 1 1 5CD77993
 P 750 2200
 F 0 "TP70" H 800 2253 50  0000 L CNN
 F 1 "36-5029CT-ND" H 750 2300 50  0001 C CNN
-F 2 "AV_Breakout_Continuity:TestPoint" H 1050 2500 60  0001 L CNN
+F 2 "AV_Breakout_Continuity:TP_Through" H 1050 2500 60  0001 L CNN
 F 3 "" H 750 2300 60  0001 C CNN
 	1    750  2200
 	1    0    0    -1  
@@ -1840,7 +1840,7 @@ U 1 1 5CD779A2
 P 1200 2200
 F 0 "TP71" H 1250 2253 50  0000 L CNN
 F 1 "36-5029CT-ND" H 1200 2300 50  0001 C CNN
-F 2 "AV_Breakout_Continuity:TestPoint" H 1500 2500 60  0001 L CNN
+F 2 "AV_Breakout_Continuity:TP_Through" H 1500 2500 60  0001 L CNN
 F 3 "" H 1200 2300 60  0001 C CNN
 	1    1200 2200
 	1    0    0    -1  
@@ -1866,7 +1866,7 @@ U 1 1 5CD779B1
 P 1650 2200
 F 0 "TP72" H 1700 2253 50  0000 L CNN
 F 1 "36-5029CT-ND" H 1650 2300 50  0001 C CNN
-F 2 "AV_Breakout_Continuity:TestPoint" H 1950 2500 60  0001 L CNN
+F 2 "AV_Breakout_Continuity:TP_Through" H 1950 2500 60  0001 L CNN
 F 3 "" H 1650 2300 60  0001 C CNN
 	1    1650 2200
 	1    0    0    -1  
@@ -1892,7 +1892,7 @@ U 1 1 5CD779C0
 P 2100 2200
 F 0 "TP73" H 2150 2253 50  0000 L CNN
 F 1 "36-5029CT-ND" H 2100 2300 50  0001 C CNN
-F 2 "AV_Breakout_Continuity:TestPoint" H 2400 2500 60  0001 L CNN
+F 2 "AV_Breakout_Continuity:TP_Through" H 2400 2500 60  0001 L CNN
 F 3 "" H 2100 2300 60  0001 C CNN
 	1    2100 2200
 	1    0    0    -1  
@@ -1918,7 +1918,7 @@ U 1 1 5CD779CF
 P 2550 2200
 F 0 "TP74" H 2600 2253 50  0000 L CNN
 F 1 "36-5029CT-ND" H 2550 2300 50  0001 C CNN
-F 2 "AV_Breakout_Continuity:TestPoint" H 2850 2500 60  0001 L CNN
+F 2 "AV_Breakout_Continuity:TP_Through" H 2850 2500 60  0001 L CNN
 F 3 "" H 2550 2300 60  0001 C CNN
 	1    2550 2200
 	1    0    0    -1  
@@ -1944,7 +1944,7 @@ U 1 1 5CD779DE
 P 3000 2200
 F 0 "TP75" H 3050 2253 50  0000 L CNN
 F 1 "36-5029CT-ND" H 3000 2300 50  0001 C CNN
-F 2 "AV_Breakout_Continuity:TestPoint" H 3300 2500 60  0001 L CNN
+F 2 "AV_Breakout_Continuity:TP_Through" H 3300 2500 60  0001 L CNN
 F 3 "" H 3000 2300 60  0001 C CNN
 	1    3000 2200
 	1    0    0    -1  
@@ -1970,7 +1970,7 @@ U 1 1 5CD779ED
 P 3450 2200
 F 0 "TP76" H 3500 2253 50  0000 L CNN
 F 1 "36-5029CT-ND" H 3450 2300 50  0001 C CNN
-F 2 "AV_Breakout_Continuity:TestPoint" H 3750 2500 60  0001 L CNN
+F 2 "AV_Breakout_Continuity:TP_Through" H 3750 2500 60  0001 L CNN
 F 3 "" H 3450 2300 60  0001 C CNN
 	1    3450 2200
 	1    0    0    -1  
@@ -1996,7 +1996,7 @@ U 1 1 5CD779FC
 P 3900 2200
 F 0 "TP77" H 3950 2253 50  0000 L CNN
 F 1 "36-5029CT-ND" H 3900 2300 50  0001 C CNN
-F 2 "AV_Breakout_Continuity:TestPoint" H 4200 2500 60  0001 L CNN
+F 2 "AV_Breakout_Continuity:TP_Through" H 4200 2500 60  0001 L CNN
 F 3 "" H 3900 2300 60  0001 C CNN
 	1    3900 2200
 	1    0    0    -1  
@@ -2022,7 +2022,7 @@ U 1 1 5CD77A0B
 P 700 2850
 F 0 "TP78" H 750 2903 50  0000 L CNN
 F 1 "36-5029CT-ND" H 700 2950 50  0001 C CNN
-F 2 "AV_Breakout_Continuity:TestPoint" H 1000 3150 60  0001 L CNN
+F 2 "AV_Breakout_Continuity:TP_Through" H 1000 3150 60  0001 L CNN
 F 3 "" H 700 2950 60  0001 C CNN
 	1    700  2850
 	1    0    0    -1  
@@ -2048,7 +2048,7 @@ U 1 1 5CD77A1A
 P 1150 2850
 F 0 "TP79" H 1200 2903 50  0000 L CNN
 F 1 "36-5029CT-ND" H 1150 2950 50  0001 C CNN
-F 2 "AV_Breakout_Continuity:TestPoint" H 1450 3150 60  0001 L CNN
+F 2 "AV_Breakout_Continuity:TP_Through" H 1450 3150 60  0001 L CNN
 F 3 "" H 1150 2950 60  0001 C CNN
 	1    1150 2850
 	1    0    0    -1  
@@ -2074,7 +2074,7 @@ U 1 1 5CD77A29
 P 1600 2850
 F 0 "TP80" H 1650 2903 50  0000 L CNN
 F 1 "36-5029CT-ND" H 1600 2950 50  0001 C CNN
-F 2 "AV_Breakout_Continuity:TestPoint" H 1900 3150 60  0001 L CNN
+F 2 "AV_Breakout_Continuity:TP_Through" H 1900 3150 60  0001 L CNN
 F 3 "" H 1600 2950 60  0001 C CNN
 	1    1600 2850
 	1    0    0    -1  
@@ -2100,7 +2100,7 @@ U 1 1 5CD77A38
 P 7000 750
 F 0 "TP90" H 7050 803 50  0000 L CNN
 F 1 "36-5029CT-ND" H 7000 850 50  0001 C CNN
-F 2 "AV_Breakout_Continuity:TestPoint" H 7300 1050 60  0001 L CNN
+F 2 "AV_Breakout_Continuity:TP_Through" H 7300 1050 60  0001 L CNN
 F 3 "" H 7000 850 60  0001 C CNN
 	1    7000 750 
 	1    0    0    -1  
@@ -2126,7 +2126,7 @@ U 1 1 5CD77A47
 P 7450 750
 F 0 "TP91" H 7500 803 50  0000 L CNN
 F 1 "36-5029CT-ND" H 7450 850 50  0001 C CNN
-F 2 "AV_Breakout_Continuity:TestPoint" H 7750 1050 60  0001 L CNN
+F 2 "AV_Breakout_Continuity:TP_Through" H 7750 1050 60  0001 L CNN
 F 3 "" H 7450 850 60  0001 C CNN
 	1    7450 750 
 	1    0    0    -1  
@@ -2152,7 +2152,7 @@ U 1 1 5CD77A56
 P 7900 750
 F 0 "TP92" H 7950 803 50  0000 L CNN
 F 1 "36-5029CT-ND" H 7900 850 50  0001 C CNN
-F 2 "AV_Breakout_Continuity:TestPoint" H 8200 1050 60  0001 L CNN
+F 2 "AV_Breakout_Continuity:TP_Through" H 8200 1050 60  0001 L CNN
 F 3 "" H 7900 850 60  0001 C CNN
 	1    7900 750 
 	1    0    0    -1  
@@ -2178,7 +2178,7 @@ U 1 1 5CD77A65
 P 8350 750
 F 0 "TP93" H 8400 803 50  0000 L CNN
 F 1 "36-5029CT-ND" H 8350 850 50  0001 C CNN
-F 2 "AV_Breakout_Continuity:TestPoint" H 8650 1050 60  0001 L CNN
+F 2 "AV_Breakout_Continuity:TP_Through" H 8650 1050 60  0001 L CNN
 F 3 "" H 8350 850 60  0001 C CNN
 	1    8350 750 
 	1    0    0    -1  
@@ -2204,7 +2204,7 @@ U 1 1 5CD77A74
 P 5200 1600
 F 0 "TP94" H 5250 1653 50  0000 L CNN
 F 1 "36-5029CT-ND" H 5200 1700 50  0001 C CNN
-F 2 "AV_Breakout_Continuity:TestPoint" H 5500 1900 60  0001 L CNN
+F 2 "AV_Breakout_Continuity:TP_Through" H 5500 1900 60  0001 L CNN
 F 3 "" H 5200 1700 60  0001 C CNN
 	1    5200 1600
 	1    0    0    -1  
@@ -2230,7 +2230,7 @@ U 1 1 5CD77A83
 P 5650 1600
 F 0 "TP95" H 5700 1653 50  0000 L CNN
 F 1 "36-5029CT-ND" H 5650 1700 50  0001 C CNN
-F 2 "AV_Breakout_Continuity:TestPoint" H 5950 1900 60  0001 L CNN
+F 2 "AV_Breakout_Continuity:TP_Through" H 5950 1900 60  0001 L CNN
 F 3 "" H 5650 1700 60  0001 C CNN
 	1    5650 1600
 	1    0    0    -1  
@@ -2256,7 +2256,7 @@ U 1 1 5CD77A92
 P 6100 1600
 F 0 "TP96" H 6150 1653 50  0000 L CNN
 F 1 "36-5029CT-ND" H 6100 1700 50  0001 C CNN
-F 2 "AV_Breakout_Continuity:TestPoint" H 6400 1900 60  0001 L CNN
+F 2 "AV_Breakout_Continuity:TP_Through" H 6400 1900 60  0001 L CNN
 F 3 "" H 6100 1700 60  0001 C CNN
 	1    6100 1600
 	1    0    0    -1  
@@ -2282,7 +2282,7 @@ U 1 1 5CD77AA1
 P 6550 1600
 F 0 "TP97" H 6600 1653 50  0000 L CNN
 F 1 "36-5029CT-ND" H 6550 1700 50  0001 C CNN
-F 2 "AV_Breakout_Continuity:TestPoint" H 6850 1900 60  0001 L CNN
+F 2 "AV_Breakout_Continuity:TP_Through" H 6850 1900 60  0001 L CNN
 F 3 "" H 6550 1700 60  0001 C CNN
 	1    6550 1600
 	1    0    0    -1  
@@ -2308,7 +2308,7 @@ U 1 1 5CD77AB0
 P 7000 1600
 F 0 "TP98" H 7050 1653 50  0000 L CNN
 F 1 "36-5029CT-ND" H 7000 1700 50  0001 C CNN
-F 2 "AV_Breakout_Continuity:TestPoint" H 7300 1900 60  0001 L CNN
+F 2 "AV_Breakout_Continuity:TP_Through" H 7300 1900 60  0001 L CNN
 F 3 "" H 7000 1700 60  0001 C CNN
 	1    7000 1600
 	1    0    0    -1  
@@ -2334,7 +2334,7 @@ U 1 1 5CD77ABF
 P 7450 1600
 F 0 "TP99" H 7500 1653 50  0000 L CNN
 F 1 "36-5029CT-ND" H 7450 1700 50  0001 C CNN
-F 2 "AV_Breakout_Continuity:TestPoint" H 7750 1900 60  0001 L CNN
+F 2 "AV_Breakout_Continuity:TP_Through" H 7750 1900 60  0001 L CNN
 F 3 "" H 7450 1700 60  0001 C CNN
 	1    7450 1600
 	1    0    0    -1  
@@ -2360,7 +2360,7 @@ U 1 1 5CD77ACE
 P 7900 1600
 F 0 "TP100" H 7950 1653 50  0000 L CNN
 F 1 "36-5029CT-ND" H 7900 1700 50  0001 C CNN
-F 2 "AV_Breakout_Continuity:TestPoint" H 8200 1900 60  0001 L CNN
+F 2 "AV_Breakout_Continuity:TP_Through" H 8200 1900 60  0001 L CNN
 F 3 "" H 7900 1700 60  0001 C CNN
 	1    7900 1600
 	1    0    0    -1  
@@ -2386,7 +2386,7 @@ U 1 1 5CD77ADD
 P 5200 2400
 F 0 "TP101" H 5250 2453 50  0000 L CNN
 F 1 "36-5029CT-ND" H 5200 2500 50  0001 C CNN
-F 2 "AV_Breakout_Continuity:TestPoint" H 5500 2700 60  0001 L CNN
+F 2 "AV_Breakout_Continuity:TP_Through" H 5500 2700 60  0001 L CNN
 F 3 "" H 5200 2500 60  0001 C CNN
 	1    5200 2400
 	1    0    0    -1  
@@ -2412,7 +2412,7 @@ U 1 1 5CD77AEC
 P 5650 2400
 F 0 "TP102" H 5700 2453 50  0000 L CNN
 F 1 "36-5029CT-ND" H 5650 2500 50  0001 C CNN
-F 2 "AV_Breakout_Continuity:TestPoint" H 5950 2700 60  0001 L CNN
+F 2 "AV_Breakout_Continuity:TP_Through" H 5950 2700 60  0001 L CNN
 F 3 "" H 5650 2500 60  0001 C CNN
 	1    5650 2400
 	1    0    0    -1  
@@ -2438,7 +2438,7 @@ U 1 1 5CD77AFB
 P 6100 2400
 F 0 "TP103" H 6150 2453 50  0000 L CNN
 F 1 "36-5029CT-ND" H 6100 2500 50  0001 C CNN
-F 2 "AV_Breakout_Continuity:TestPoint" H 6400 2700 60  0001 L CNN
+F 2 "AV_Breakout_Continuity:TP_Through" H 6400 2700 60  0001 L CNN
 F 3 "" H 6100 2500 60  0001 C CNN
 	1    6100 2400
 	1    0    0    -1  
@@ -2464,7 +2464,7 @@ U 1 1 5CD77B0A
 P 6550 2400
 F 0 "TP104" H 6600 2453 50  0000 L CNN
 F 1 "36-5029CT-ND" H 6550 2500 50  0001 C CNN
-F 2 "AV_Breakout_Continuity:TestPoint" H 6850 2700 60  0001 L CNN
+F 2 "AV_Breakout_Continuity:TP_Through" H 6850 2700 60  0001 L CNN
 F 3 "" H 6550 2500 60  0001 C CNN
 	1    6550 2400
 	1    0    0    -1  
@@ -2490,7 +2490,7 @@ U 1 1 5CD77B19
 P 7000 2400
 F 0 "TP105" H 7050 2453 50  0000 L CNN
 F 1 "36-5029CT-ND" H 7000 2500 50  0001 C CNN
-F 2 "AV_Breakout_Continuity:TestPoint" H 7300 2700 60  0001 L CNN
+F 2 "AV_Breakout_Continuity:TP_Through" H 7300 2700 60  0001 L CNN
 F 3 "" H 7000 2500 60  0001 C CNN
 	1    7000 2400
 	1    0    0    -1  
@@ -2516,7 +2516,7 @@ U 1 1 5CD77B28
 P 7450 2400
 F 0 "TP106" H 7500 2453 50  0000 L CNN
 F 1 "36-5029CT-ND" H 7450 2500 50  0001 C CNN
-F 2 "AV_Breakout_Continuity:TestPoint" H 7750 2700 60  0001 L CNN
+F 2 "AV_Breakout_Continuity:TP_Through" H 7750 2700 60  0001 L CNN
 F 3 "" H 7450 2500 60  0001 C CNN
 	1    7450 2400
 	1    0    0    -1  
@@ -2542,7 +2542,7 @@ U 1 1 5CD77B37
 P 5150 3150
 F 0 "TP107" H 5200 3203 50  0000 L CNN
 F 1 "36-5029CT-ND" H 5150 3250 50  0001 C CNN
-F 2 "AV_Breakout_Continuity:TestPoint" H 5450 3450 60  0001 L CNN
+F 2 "AV_Breakout_Continuity:TP_Through" H 5450 3450 60  0001 L CNN
 F 3 "" H 5150 3250 60  0001 C CNN
 	1    5150 3150
 	1    0    0    -1  
@@ -2568,7 +2568,7 @@ U 1 1 5CD77B46
 P 5600 3150
 F 0 "TP108" H 5650 3203 50  0000 L CNN
 F 1 "36-5029CT-ND" H 5600 3250 50  0001 C CNN
-F 2 "AV_Breakout_Continuity:TestPoint" H 5900 3450 60  0001 L CNN
+F 2 "AV_Breakout_Continuity:TP_Through" H 5900 3450 60  0001 L CNN
 F 3 "" H 5600 3250 60  0001 C CNN
 	1    5600 3150
 	1    0    0    -1  
@@ -2594,7 +2594,7 @@ U 1 1 5CD77B55
 P 6050 3150
 F 0 "TP109" H 6100 3203 50  0000 L CNN
 F 1 "36-5029CT-ND" H 6050 3250 50  0001 C CNN
-F 2 "AV_Breakout_Continuity:TestPoint" H 6350 3450 60  0001 L CNN
+F 2 "AV_Breakout_Continuity:TP_Through" H 6350 3450 60  0001 L CNN
 F 3 "" H 6050 3250 60  0001 C CNN
 	1    6050 3150
 	1    0    0    -1  
@@ -2620,7 +2620,7 @@ U 1 1 5CD77B64
 P 6500 3150
 F 0 "TP110" H 6550 3203 50  0000 L CNN
 F 1 "36-5029CT-ND" H 6500 3250 50  0001 C CNN
-F 2 "AV_Breakout_Continuity:TestPoint" H 6800 3450 60  0001 L CNN
+F 2 "AV_Breakout_Continuity:TP_Through" H 6800 3450 60  0001 L CNN
 F 3 "" H 6500 3250 60  0001 C CNN
 	1    6500 3150
 	1    0    0    -1  
@@ -2646,7 +2646,7 @@ U 1 1 5CD77B73
 P 6950 3150
 F 0 "TP111" H 7000 3203 50  0000 L CNN
 F 1 "36-5029CT-ND" H 6950 3250 50  0001 C CNN
-F 2 "AV_Breakout_Continuity:TestPoint" H 7250 3450 60  0001 L CNN
+F 2 "AV_Breakout_Continuity:TP_Through" H 7250 3450 60  0001 L CNN
 F 3 "" H 6950 3250 60  0001 C CNN
 	1    6950 3150
 	1    0    0    -1  
@@ -2672,7 +2672,7 @@ U 1 1 5CD77B82
 P 7400 3150
 F 0 "TP112" H 7450 3203 50  0000 L CNN
 F 1 "36-5029CT-ND" H 7400 3250 50  0001 C CNN
-F 2 "AV_Breakout_Continuity:TestPoint" H 7700 3450 60  0001 L CNN
+F 2 "AV_Breakout_Continuity:TP_Through" H 7700 3450 60  0001 L CNN
 F 3 "" H 7400 3250 60  0001 C CNN
 	1    7400 3150
 	1    0    0    -1  
@@ -2698,7 +2698,7 @@ U 1 1 5CD77B91
 P 5100 3900
 F 0 "TP113" H 5150 3953 50  0000 L CNN
 F 1 "36-5029CT-ND" H 5100 4000 50  0001 C CNN
-F 2 "AV_Breakout_Continuity:TestPoint" H 5400 4200 60  0001 L CNN
+F 2 "AV_Breakout_Continuity:TP_Through" H 5400 4200 60  0001 L CNN
 F 3 "" H 5100 4000 60  0001 C CNN
 	1    5100 3900
 	1    0    0    -1  
@@ -2724,7 +2724,7 @@ U 1 1 5CD77BA0
 P 5550 3900
 F 0 "TP114" H 5600 3953 50  0000 L CNN
 F 1 "36-5029CT-ND" H 5550 4000 50  0001 C CNN
-F 2 "AV_Breakout_Continuity:TestPoint" H 5850 4200 60  0001 L CNN
+F 2 "AV_Breakout_Continuity:TP_Through" H 5850 4200 60  0001 L CNN
 F 3 "" H 5550 4000 60  0001 C CNN
 	1    5550 3900
 	1    0    0    -1  
@@ -2750,7 +2750,7 @@ U 1 1 5CD77BAF
 P 6000 3900
 F 0 "TP115" H 6050 3953 50  0000 L CNN
 F 1 "36-5029CT-ND" H 6000 4000 50  0001 C CNN
-F 2 "AV_Breakout_Continuity:TestPoint" H 6300 4200 60  0001 L CNN
+F 2 "AV_Breakout_Continuity:TP_Through" H 6300 4200 60  0001 L CNN
 F 3 "" H 6000 4000 60  0001 C CNN
 	1    6000 3900
 	1    0    0    -1  
@@ -2776,7 +2776,7 @@ U 1 1 5CD77BBE
 P 6450 3900
 F 0 "TP116" H 6500 3953 50  0000 L CNN
 F 1 "36-5029CT-ND" H 6450 4000 50  0001 C CNN
-F 2 "AV_Breakout_Continuity:TestPoint" H 6750 4200 60  0001 L CNN
+F 2 "AV_Breakout_Continuity:TP_Through" H 6750 4200 60  0001 L CNN
 F 3 "" H 6450 4000 60  0001 C CNN
 	1    6450 3900
 	1    0    0    -1  
@@ -2802,7 +2802,7 @@ U 1 1 5CD77BCD
 P 6900 3900
 F 0 "TP117" H 6950 3953 50  0000 L CNN
 F 1 "36-5029CT-ND" H 6900 4000 50  0001 C CNN
-F 2 "AV_Breakout_Continuity:TestPoint" H 7200 4200 60  0001 L CNN
+F 2 "AV_Breakout_Continuity:TP_Through" H 7200 4200 60  0001 L CNN
 F 3 "" H 6900 4000 60  0001 C CNN
 	1    6900 3900
 	1    0    0    -1  
@@ -2828,7 +2828,7 @@ U 1 1 5CD77BDC
 P 700 3600
 F 0 "TP118" H 750 3653 50  0000 L CNN
 F 1 "36-5029CT-ND" H 700 3700 50  0001 C CNN
-F 2 "AV_Breakout_Continuity:TestPoint" H 1000 3900 60  0001 L CNN
+F 2 "AV_Breakout_Continuity:TP_Through" H 1000 3900 60  0001 L CNN
 F 3 "" H 700 3700 60  0001 C CNN
 	1    700  3600
 	1    0    0    -1  
@@ -2854,7 +2854,7 @@ U 1 1 5CD77BEB
 P 1150 3600
 F 0 "TP119" H 1200 3653 50  0000 L CNN
 F 1 "36-5029CT-ND" H 1150 3700 50  0001 C CNN
-F 2 "AV_Breakout_Continuity:TestPoint" H 1450 3900 60  0001 L CNN
+F 2 "AV_Breakout_Continuity:TP_Through" H 1450 3900 60  0001 L CNN
 F 3 "" H 1150 3700 60  0001 C CNN
 	1    1150 3600
 	1    0    0    -1  
@@ -2880,7 +2880,7 @@ U 1 1 5CD77BFA
 P 1600 3600
 F 0 "TP120" H 1650 3653 50  0000 L CNN
 F 1 "36-5029CT-ND" H 1600 3700 50  0001 C CNN
-F 2 "AV_Breakout_Continuity:TestPoint" H 1900 3900 60  0001 L CNN
+F 2 "AV_Breakout_Continuity:TP_Through" H 1900 3900 60  0001 L CNN
 F 3 "" H 1600 3700 60  0001 C CNN
 	1    1600 3600
 	1    0    0    -1  
@@ -2906,7 +2906,7 @@ U 1 1 5CD77C09
 P 2050 3600
 F 0 "TP121" H 2100 3653 50  0000 L CNN
 F 1 "36-5029CT-ND" H 2050 3700 50  0001 C CNN
-F 2 "AV_Breakout_Continuity:TestPoint" H 2350 3900 60  0001 L CNN
+F 2 "AV_Breakout_Continuity:TP_Through" H 2350 3900 60  0001 L CNN
 F 3 "" H 2050 3700 60  0001 C CNN
 	1    2050 3600
 	1    0    0    -1  
@@ -2932,7 +2932,7 @@ U 1 1 5CD77C18
 P 700 4250
 F 0 "TP122" H 750 4303 50  0000 L CNN
 F 1 "36-5029CT-ND" H 700 4350 50  0001 C CNN
-F 2 "AV_Breakout_Continuity:TestPoint" H 1000 4550 60  0001 L CNN
+F 2 "AV_Breakout_Continuity:TP_Through" H 1000 4550 60  0001 L CNN
 F 3 "" H 700 4350 60  0001 C CNN
 	1    700  4250
 	1    0    0    -1  
@@ -2958,7 +2958,7 @@ U 1 1 5CD77C27
 P 1150 4250
 F 0 "TP123" H 1200 4303 50  0000 L CNN
 F 1 "36-5029CT-ND" H 1150 4350 50  0001 C CNN
-F 2 "AV_Breakout_Continuity:TestPoint" H 1450 4550 60  0001 L CNN
+F 2 "AV_Breakout_Continuity:TP_Through" H 1450 4550 60  0001 L CNN
 F 3 "" H 1150 4350 60  0001 C CNN
 	1    1150 4250
 	1    0    0    -1  
@@ -2984,7 +2984,7 @@ U 1 1 5CD77C36
 P 1600 4250
 F 0 "TP124" H 1650 4303 50  0000 L CNN
 F 1 "36-5029CT-ND" H 1600 4350 50  0001 C CNN
-F 2 "AV_Breakout_Continuity:TestPoint" H 1900 4550 60  0001 L CNN
+F 2 "AV_Breakout_Continuity:TP_Through" H 1900 4550 60  0001 L CNN
 F 3 "" H 1600 4350 60  0001 C CNN
 	1    1600 4250
 	1    0    0    -1  
@@ -3010,7 +3010,7 @@ U 1 1 5CD77C45
 P 2050 4250
 F 0 "TP125" H 2100 4303 50  0000 L CNN
 F 1 "36-5029CT-ND" H 2050 4350 50  0001 C CNN
-F 2 "AV_Breakout_Continuity:TestPoint" H 2350 4550 60  0001 L CNN
+F 2 "AV_Breakout_Continuity:TP_Through" H 2350 4550 60  0001 L CNN
 F 3 "" H 2050 4350 60  0001 C CNN
 	1    2050 4250
 	1    0    0    -1  
@@ -3036,7 +3036,7 @@ U 1 1 5CD77C54
 P 700 4900
 F 0 "TP126" H 750 4953 50  0000 L CNN
 F 1 "36-5029CT-ND" H 700 5000 50  0001 C CNN
-F 2 "AV_Breakout_Continuity:TestPoint" H 1000 5200 60  0001 L CNN
+F 2 "AV_Breakout_Continuity:TP_Through" H 1000 5200 60  0001 L CNN
 F 3 "" H 700 5000 60  0001 C CNN
 	1    700  4900
 	1    0    0    -1  
@@ -3062,7 +3062,7 @@ U 1 1 5CD77C63
 P 1150 4900
 F 0 "TP127" H 1200 4953 50  0000 L CNN
 F 1 "36-5029CT-ND" H 1150 5000 50  0001 C CNN
-F 2 "AV_Breakout_Continuity:TestPoint" H 1450 5200 60  0001 L CNN
+F 2 "AV_Breakout_Continuity:TP_Through" H 1450 5200 60  0001 L CNN
 F 3 "" H 1150 5000 60  0001 C CNN
 	1    1150 4900
 	1    0    0    -1  
@@ -3088,7 +3088,7 @@ U 1 1 5CD77C72
 P 1600 4900
 F 0 "TP128" H 1650 4953 50  0000 L CNN
 F 1 "36-5029CT-ND" H 1600 5000 50  0001 C CNN
-F 2 "AV_Breakout_Continuity:TestPoint" H 1900 5200 60  0001 L CNN
+F 2 "AV_Breakout_Continuity:TP_Through" H 1900 5200 60  0001 L CNN
 F 3 "" H 1600 5000 60  0001 C CNN
 	1    1600 4900
 	1    0    0    -1  
@@ -3114,7 +3114,7 @@ U 1 1 5CD77C81
 P 2050 4900
 F 0 "TP129" H 2100 4953 50  0000 L CNN
 F 1 "36-5029CT-ND" H 2050 5000 50  0001 C CNN
-F 2 "AV_Breakout_Continuity:TestPoint" H 2350 5200 60  0001 L CNN
+F 2 "AV_Breakout_Continuity:TP_Through" H 2350 5200 60  0001 L CNN
 F 3 "" H 2050 5000 60  0001 C CNN
 	1    2050 4900
 	1    0    0    -1  
@@ -3140,7 +3140,7 @@ U 1 1 5CD77C90
 P 5100 4650
 F 0 "TP130" H 5150 4703 50  0000 L CNN
 F 1 "36-5029CT-ND" H 5100 4750 50  0001 C CNN
-F 2 "AV_Breakout_Continuity:TestPoint" H 5400 4950 60  0001 L CNN
+F 2 "AV_Breakout_Continuity:TP_Through" H 5400 4950 60  0001 L CNN
 F 3 "" H 5100 4750 60  0001 C CNN
 	1    5100 4650
 	1    0    0    -1  
@@ -3166,7 +3166,7 @@ U 1 1 5CD77C9F
 P 5550 4650
 F 0 "TP131" H 5600 4703 50  0000 L CNN
 F 1 "36-5029CT-ND" H 5550 4750 50  0001 C CNN
-F 2 "AV_Breakout_Continuity:TestPoint" H 5850 4950 60  0001 L CNN
+F 2 "AV_Breakout_Continuity:TP_Through" H 5850 4950 60  0001 L CNN
 F 3 "" H 5550 4750 60  0001 C CNN
 	1    5550 4650
 	1    0    0    -1  
@@ -3192,7 +3192,7 @@ U 1 1 5CD77CAE
 P 6000 4650
 F 0 "TP132" H 6050 4703 50  0000 L CNN
 F 1 "36-5029CT-ND" H 6000 4750 50  0001 C CNN
-F 2 "AV_Breakout_Continuity:TestPoint" H 6300 4950 60  0001 L CNN
+F 2 "AV_Breakout_Continuity:TP_Through" H 6300 4950 60  0001 L CNN
 F 3 "" H 6000 4750 60  0001 C CNN
 	1    6000 4650
 	1    0    0    -1  
@@ -3218,7 +3218,7 @@ U 1 1 5CD77CBD
 P 6450 4650
 F 0 "TP133" H 6500 4703 50  0000 L CNN
 F 1 "36-5029CT-ND" H 6450 4750 50  0001 C CNN
-F 2 "AV_Breakout_Continuity:TestPoint" H 6750 4950 60  0001 L CNN
+F 2 "AV_Breakout_Continuity:TP_Through" H 6750 4950 60  0001 L CNN
 F 3 "" H 6450 4750 60  0001 C CNN
 	1    6450 4650
 	1    0    0    -1  
@@ -3241,634 +3241,634 @@ NoConn ~ 6300 4950
 $Comp
 L 36-5029ct-nd:36-5029CT-ND TP134
 U 1 1 5CD77CCC
-P 9250 1600
-F 0 "TP134" H 9300 1653 50  0000 L CNN
-F 1 "36-5029CT-ND" H 9250 1700 50  0001 C CNN
-F 2 "AV_Breakout_Continuity:TestPoint" H 9550 1900 60  0001 L CNN
-F 3 "" H 9250 1700 60  0001 C CNN
-	1    9250 1600
+P 100 9050
+F 0 "TP134" H 150 9103 50  0000 L CNN
+F 1 "36-5029CT-ND" H 100 9150 50  0001 C CNN
+F 2 "AV_Breakout_Continuity:TP_Through" H 400 9350 60  0001 L CNN
+F 3 "" H 100 9150 60  0001 C CNN
+	1    100  9050
 	1    0    0    -1  
 $EndComp
 $Comp
 L 36-5029ct-nd:StrainRelief SR134
 U 1 1 5CD77CD2
-P 9250 1750
-F 0 "SR134" H 9250 1477 50  0000 C CNN
-F 1 "StrainRelief" H 8950 1900 50  0001 C CNN
-F 2 "AV_Breakout_Continuity:StrainRelief" H 9250 1800 50  0001 C CNN
-F 3 "" H 9250 1800 50  0001 C CNN
-	1    9250 1750
+P 100 9200
+F 0 "SR134" H 100 8927 50  0000 C CNN
+F 1 "StrainRelief" H -200 9350 50  0001 C CNN
+F 2 "AV_Breakout_Continuity:StrainRelief" H 100 9250 50  0001 C CNN
+F 3 "" H 100 9250 50  0001 C CNN
+	1    100  9200
 	1    0    0    -1  
 $EndComp
 Wire Wire Line
-	9250 1750 9250 1600
-NoConn ~ 9400 1900
-NoConn ~ 9100 1900
+	100  9200 100  9050
+NoConn ~ 250  9350
+NoConn ~ -50  9350
 $Comp
 L 36-5029ct-nd:36-5029CT-ND TP135
 U 1 1 5CD77CDB
-P 9700 1600
-F 0 "TP135" H 9750 1653 50  0000 L CNN
-F 1 "36-5029CT-ND" H 9700 1700 50  0001 C CNN
-F 2 "AV_Breakout_Continuity:TestPoint" H 10000 1900 60  0001 L CNN
-F 3 "" H 9700 1700 60  0001 C CNN
-	1    9700 1600
+P 550 9050
+F 0 "TP135" H 600 9103 50  0000 L CNN
+F 1 "36-5029CT-ND" H 550 9150 50  0001 C CNN
+F 2 "AV_Breakout_Continuity:TP_Through" H 850 9350 60  0001 L CNN
+F 3 "" H 550 9150 60  0001 C CNN
+	1    550  9050
 	1    0    0    -1  
 $EndComp
 $Comp
 L 36-5029ct-nd:StrainRelief SR135
 U 1 1 5CD77CE1
-P 9700 1750
-F 0 "SR135" H 9700 1477 50  0000 C CNN
-F 1 "StrainRelief" H 9400 1900 50  0001 C CNN
-F 2 "AV_Breakout_Continuity:StrainRelief" H 9700 1800 50  0001 C CNN
-F 3 "" H 9700 1800 50  0001 C CNN
-	1    9700 1750
+P 550 9200
+F 0 "SR135" H 550 8927 50  0000 C CNN
+F 1 "StrainRelief" H 250 9350 50  0001 C CNN
+F 2 "AV_Breakout_Continuity:StrainRelief" H 550 9250 50  0001 C CNN
+F 3 "" H 550 9250 50  0001 C CNN
+	1    550  9200
 	1    0    0    -1  
 $EndComp
 Wire Wire Line
-	9700 1750 9700 1600
-NoConn ~ 9850 1900
-NoConn ~ 9550 1900
+	550  9200 550  9050
+NoConn ~ 700  9350
+NoConn ~ 400  9350
 $Comp
 L 36-5029ct-nd:36-5029CT-ND TP136
 U 1 1 5CD77CEA
-P 10150 1600
-F 0 "TP136" H 10200 1653 50  0000 L CNN
-F 1 "36-5029CT-ND" H 10150 1700 50  0001 C CNN
-F 2 "AV_Breakout_Continuity:TestPoint" H 10450 1900 60  0001 L CNN
-F 3 "" H 10150 1700 60  0001 C CNN
-	1    10150 1600
+P 1000 9050
+F 0 "TP136" H 1050 9103 50  0000 L CNN
+F 1 "36-5029CT-ND" H 1000 9150 50  0001 C CNN
+F 2 "AV_Breakout_Continuity:TP_Through" H 1300 9350 60  0001 L CNN
+F 3 "" H 1000 9150 60  0001 C CNN
+	1    1000 9050
 	1    0    0    -1  
 $EndComp
 $Comp
 L 36-5029ct-nd:StrainRelief SR136
 U 1 1 5CD77CF0
-P 10150 1750
-F 0 "SR136" H 10150 1477 50  0000 C CNN
-F 1 "StrainRelief" H 9850 1900 50  0001 C CNN
-F 2 "AV_Breakout_Continuity:StrainRelief" H 10150 1800 50  0001 C CNN
-F 3 "" H 10150 1800 50  0001 C CNN
-	1    10150 1750
+P 1000 9200
+F 0 "SR136" H 1000 8927 50  0000 C CNN
+F 1 "StrainRelief" H 700 9350 50  0001 C CNN
+F 2 "AV_Breakout_Continuity:StrainRelief" H 1000 9250 50  0001 C CNN
+F 3 "" H 1000 9250 50  0001 C CNN
+	1    1000 9200
 	1    0    0    -1  
 $EndComp
 Wire Wire Line
-	10150 1750 10150 1600
-NoConn ~ 10300 1900
-NoConn ~ 10000 1900
+	1000 9200 1000 9050
+NoConn ~ 1150 9350
+NoConn ~ 850  9350
 $Comp
 L 36-5029ct-nd:36-5029CT-ND TP137
 U 1 1 5CD77CF9
-P 10600 1600
-F 0 "TP137" H 10650 1653 50  0000 L CNN
-F 1 "36-5029CT-ND" H 10600 1700 50  0001 C CNN
-F 2 "AV_Breakout_Continuity:TestPoint" H 10900 1900 60  0001 L CNN
-F 3 "" H 10600 1700 60  0001 C CNN
-	1    10600 1600
+P 1450 9050
+F 0 "TP137" H 1500 9103 50  0000 L CNN
+F 1 "36-5029CT-ND" H 1450 9150 50  0001 C CNN
+F 2 "AV_Breakout_Continuity:TP_Through" H 1750 9350 60  0001 L CNN
+F 3 "" H 1450 9150 60  0001 C CNN
+	1    1450 9050
 	1    0    0    -1  
 $EndComp
 $Comp
 L 36-5029ct-nd:StrainRelief SR137
 U 1 1 5CD77CFF
-P 10600 1750
-F 0 "SR137" H 10600 1477 50  0000 C CNN
-F 1 "StrainRelief" H 10300 1900 50  0001 C CNN
-F 2 "AV_Breakout_Continuity:StrainRelief" H 10600 1800 50  0001 C CNN
-F 3 "" H 10600 1800 50  0001 C CNN
-	1    10600 1750
+P 1450 9200
+F 0 "SR137" H 1450 8927 50  0000 C CNN
+F 1 "StrainRelief" H 1150 9350 50  0001 C CNN
+F 2 "AV_Breakout_Continuity:StrainRelief" H 1450 9250 50  0001 C CNN
+F 3 "" H 1450 9250 50  0001 C CNN
+	1    1450 9200
 	1    0    0    -1  
 $EndComp
 Wire Wire Line
-	10600 1750 10600 1600
-NoConn ~ 10750 1900
-NoConn ~ 10450 1900
+	1450 9200 1450 9050
+NoConn ~ 1600 9350
+NoConn ~ 1300 9350
 $Comp
 L 36-5029ct-nd:36-5029CT-ND TP138
 U 1 1 5CDA2449
-P 9200 2350
-F 0 "TP138" H 9250 2403 50  0000 L CNN
-F 1 "36-5029CT-ND" H 9200 2450 50  0001 C CNN
-F 2 "AV_Breakout_Continuity:TestPoint" H 9500 2650 60  0001 L CNN
-F 3 "" H 9200 2450 60  0001 C CNN
-	1    9200 2350
+P 50 9800
+F 0 "TP138" H 100 9853 50  0000 L CNN
+F 1 "36-5029CT-ND" H 50  9900 50  0001 C CNN
+F 2 "AV_Breakout_Continuity:TP_Through" H 350 10100 60  0001 L CNN
+F 3 "" H 50  9900 60  0001 C CNN
+	1    50   9800
 	1    0    0    -1  
 $EndComp
 $Comp
 L 36-5029ct-nd:StrainRelief SR138
 U 1 1 5CDA244F
-P 9200 2500
-F 0 "SR138" H 9200 2227 50  0000 C CNN
-F 1 "StrainRelief" H 8900 2650 50  0001 C CNN
-F 2 "AV_Breakout_Continuity:StrainRelief" H 9200 2550 50  0001 C CNN
-F 3 "" H 9200 2550 50  0001 C CNN
-	1    9200 2500
+P 50 9950
+F 0 "SR138" H 50  9677 50  0000 C CNN
+F 1 "StrainRelief" H -250 10100 50  0001 C CNN
+F 2 "AV_Breakout_Continuity:StrainRelief" H 50  10000 50  0001 C CNN
+F 3 "" H 50  10000 50  0001 C CNN
+	1    50   9950
 	1    0    0    -1  
 $EndComp
 Wire Wire Line
-	9200 2500 9200 2350
-NoConn ~ 9350 2650
-NoConn ~ 9050 2650
+	50   9950 50   9800
+NoConn ~ 200  10100
+NoConn ~ -100 10100
 $Comp
 L 36-5029ct-nd:36-5029CT-ND TP139
 U 1 1 5CDA2458
-P 9650 2350
-F 0 "TP139" H 9700 2403 50  0000 L CNN
-F 1 "36-5029CT-ND" H 9650 2450 50  0001 C CNN
-F 2 "AV_Breakout_Continuity:TestPoint" H 9950 2650 60  0001 L CNN
-F 3 "" H 9650 2450 60  0001 C CNN
-	1    9650 2350
+P 500 9800
+F 0 "TP139" H 550 9853 50  0000 L CNN
+F 1 "36-5029CT-ND" H 500 9900 50  0001 C CNN
+F 2 "AV_Breakout_Continuity:TP_Through" H 800 10100 60  0001 L CNN
+F 3 "" H 500 9900 60  0001 C CNN
+	1    500  9800
 	1    0    0    -1  
 $EndComp
 $Comp
 L 36-5029ct-nd:StrainRelief SR139
 U 1 1 5CDA245E
-P 9650 2500
-F 0 "SR139" H 9650 2227 50  0000 C CNN
-F 1 "StrainRelief" H 9350 2650 50  0001 C CNN
-F 2 "AV_Breakout_Continuity:StrainRelief" H 9650 2550 50  0001 C CNN
-F 3 "" H 9650 2550 50  0001 C CNN
-	1    9650 2500
+P 500 9950
+F 0 "SR139" H 500 9677 50  0000 C CNN
+F 1 "StrainRelief" H 200 10100 50  0001 C CNN
+F 2 "AV_Breakout_Continuity:StrainRelief" H 500 10000 50  0001 C CNN
+F 3 "" H 500 10000 50  0001 C CNN
+	1    500  9950
 	1    0    0    -1  
 $EndComp
 Wire Wire Line
-	9650 2500 9650 2350
-NoConn ~ 9800 2650
-NoConn ~ 9500 2650
+	500  9950 500  9800
+NoConn ~ 650  10100
+NoConn ~ 350  10100
 $Comp
 L 36-5029ct-nd:36-5029CT-ND TP140
 U 1 1 5CDA2467
-P 10100 2350
-F 0 "TP140" H 10150 2403 50  0000 L CNN
-F 1 "36-5029CT-ND" H 10100 2450 50  0001 C CNN
-F 2 "AV_Breakout_Continuity:TestPoint" H 10400 2650 60  0001 L CNN
-F 3 "" H 10100 2450 60  0001 C CNN
-	1    10100 2350
+P 950 9800
+F 0 "TP140" H 1000 9853 50  0000 L CNN
+F 1 "36-5029CT-ND" H 950 9900 50  0001 C CNN
+F 2 "AV_Breakout_Continuity:TP_Through" H 1250 10100 60  0001 L CNN
+F 3 "" H 950 9900 60  0001 C CNN
+	1    950  9800
 	1    0    0    -1  
 $EndComp
 $Comp
 L 36-5029ct-nd:StrainRelief SR140
 U 1 1 5CDA246D
-P 10100 2500
-F 0 "SR140" H 10100 2227 50  0000 C CNN
-F 1 "StrainRelief" H 9800 2650 50  0001 C CNN
-F 2 "AV_Breakout_Continuity:StrainRelief" H 10100 2550 50  0001 C CNN
-F 3 "" H 10100 2550 50  0001 C CNN
-	1    10100 2500
+P 950 9950
+F 0 "SR140" H 950 9677 50  0000 C CNN
+F 1 "StrainRelief" H 650 10100 50  0001 C CNN
+F 2 "AV_Breakout_Continuity:StrainRelief" H 950 10000 50  0001 C CNN
+F 3 "" H 950 10000 50  0001 C CNN
+	1    950  9950
 	1    0    0    -1  
 $EndComp
 Wire Wire Line
-	10100 2500 10100 2350
-NoConn ~ 10250 2650
-NoConn ~ 9950 2650
+	950  9950 950  9800
+NoConn ~ 1100 10100
+NoConn ~ 800  10100
 $Comp
 L 36-5029ct-nd:36-5029CT-ND TP141
 U 1 1 5CDA2476
-P 10550 2350
-F 0 "TP141" H 10600 2403 50  0000 L CNN
-F 1 "36-5029CT-ND" H 10550 2450 50  0001 C CNN
-F 2 "AV_Breakout_Continuity:TestPoint" H 10850 2650 60  0001 L CNN
-F 3 "" H 10550 2450 60  0001 C CNN
-	1    10550 2350
+P 1400 9800
+F 0 "TP141" H 1450 9853 50  0000 L CNN
+F 1 "36-5029CT-ND" H 1400 9900 50  0001 C CNN
+F 2 "AV_Breakout_Continuity:TP_Through" H 1700 10100 60  0001 L CNN
+F 3 "" H 1400 9900 60  0001 C CNN
+	1    1400 9800
 	1    0    0    -1  
 $EndComp
 $Comp
 L 36-5029ct-nd:StrainRelief SR141
 U 1 1 5CDA247C
-P 10550 2500
-F 0 "SR141" H 10550 2227 50  0000 C CNN
-F 1 "StrainRelief" H 10250 2650 50  0001 C CNN
-F 2 "AV_Breakout_Continuity:StrainRelief" H 10550 2550 50  0001 C CNN
-F 3 "" H 10550 2550 50  0001 C CNN
-	1    10550 2500
+P 1400 9950
+F 0 "SR141" H 1400 9677 50  0000 C CNN
+F 1 "StrainRelief" H 1100 10100 50  0001 C CNN
+F 2 "AV_Breakout_Continuity:StrainRelief" H 1400 10000 50  0001 C CNN
+F 3 "" H 1400 10000 50  0001 C CNN
+	1    1400 9950
 	1    0    0    -1  
 $EndComp
 Wire Wire Line
-	10550 2500 10550 2350
-NoConn ~ 10700 2650
-NoConn ~ 10400 2650
+	1400 9950 1400 9800
+NoConn ~ 1550 10100
+NoConn ~ 1250 10100
 $Comp
 L 36-5029ct-nd:36-5029CT-ND TP142
 U 1 1 5CDA2485
-P 9150 3100
-F 0 "TP142" H 9200 3153 50  0000 L CNN
-F 1 "36-5029CT-ND" H 9150 3200 50  0001 C CNN
-F 2 "AV_Breakout_Continuity:TestPoint" H 9450 3400 60  0001 L CNN
-F 3 "" H 9150 3200 60  0001 C CNN
-	1    9150 3100
+P 0 10550
+F 0 "TP142" H 50  10603 50  0000 L CNN
+F 1 "36-5029CT-ND" H 0   10650 50  0001 C CNN
+F 2 "AV_Breakout_Continuity:TP_Through" H 300 10850 60  0001 L CNN
+F 3 "" H 0   10650 60  0001 C CNN
+	1    0    10550
 	1    0    0    -1  
 $EndComp
 $Comp
 L 36-5029ct-nd:StrainRelief SR142
 U 1 1 5CDA248B
-P 9150 3250
-F 0 "SR142" H 9150 2977 50  0000 C CNN
-F 1 "StrainRelief" H 8850 3400 50  0001 C CNN
-F 2 "AV_Breakout_Continuity:StrainRelief" H 9150 3300 50  0001 C CNN
-F 3 "" H 9150 3300 50  0001 C CNN
-	1    9150 3250
+P 0 10700
+F 0 "SR142" H 0   10427 50  0000 C CNN
+F 1 "StrainRelief" H -300 10850 50  0001 C CNN
+F 2 "AV_Breakout_Continuity:StrainRelief" H 0   10750 50  0001 C CNN
+F 3 "" H 0   10750 50  0001 C CNN
+	1    0    10700
 	1    0    0    -1  
 $EndComp
 Wire Wire Line
-	9150 3250 9150 3100
-NoConn ~ 9300 3400
-NoConn ~ 9000 3400
+	0    10700 0    10550
+NoConn ~ 150  10850
+NoConn ~ -150 10850
 $Comp
 L 36-5029ct-nd:36-5029CT-ND TP143
 U 1 1 5CDA2494
-P 9600 3100
-F 0 "TP143" H 9650 3153 50  0000 L CNN
-F 1 "36-5029CT-ND" H 9600 3200 50  0001 C CNN
-F 2 "AV_Breakout_Continuity:TestPoint" H 9900 3400 60  0001 L CNN
-F 3 "" H 9600 3200 60  0001 C CNN
-	1    9600 3100
+P 450 10550
+F 0 "TP143" H 500 10603 50  0000 L CNN
+F 1 "36-5029CT-ND" H 450 10650 50  0001 C CNN
+F 2 "AV_Breakout_Continuity:TP_Through" H 750 10850 60  0001 L CNN
+F 3 "" H 450 10650 60  0001 C CNN
+	1    450  10550
 	1    0    0    -1  
 $EndComp
 $Comp
 L 36-5029ct-nd:StrainRelief SR143
 U 1 1 5CDA249A
-P 9600 3250
-F 0 "SR143" H 9600 2977 50  0000 C CNN
-F 1 "StrainRelief" H 9300 3400 50  0001 C CNN
-F 2 "AV_Breakout_Continuity:StrainRelief" H 9600 3300 50  0001 C CNN
-F 3 "" H 9600 3300 50  0001 C CNN
-	1    9600 3250
+P 450 10700
+F 0 "SR143" H 450 10427 50  0000 C CNN
+F 1 "StrainRelief" H 150 10850 50  0001 C CNN
+F 2 "AV_Breakout_Continuity:StrainRelief" H 450 10750 50  0001 C CNN
+F 3 "" H 450 10750 50  0001 C CNN
+	1    450  10700
 	1    0    0    -1  
 $EndComp
 Wire Wire Line
-	9600 3250 9600 3100
-NoConn ~ 9750 3400
-NoConn ~ 9450 3400
+	450  10700 450  10550
+NoConn ~ 600  10850
+NoConn ~ 300  10850
 $Comp
 L 36-5029ct-nd:36-5029CT-ND TP144
 U 1 1 5CDA24A3
-P 10050 3100
-F 0 "TP144" H 10100 3153 50  0000 L CNN
-F 1 "36-5029CT-ND" H 10050 3200 50  0001 C CNN
-F 2 "AV_Breakout_Continuity:TestPoint" H 10350 3400 60  0001 L CNN
-F 3 "" H 10050 3200 60  0001 C CNN
-	1    10050 3100
+P 900 10550
+F 0 "TP144" H 950 10603 50  0000 L CNN
+F 1 "36-5029CT-ND" H 900 10650 50  0001 C CNN
+F 2 "AV_Breakout_Continuity:TP_Through" H 1200 10850 60  0001 L CNN
+F 3 "" H 900 10650 60  0001 C CNN
+	1    900  10550
 	1    0    0    -1  
 $EndComp
 $Comp
 L 36-5029ct-nd:StrainRelief SR144
 U 1 1 5CDA24A9
-P 10050 3250
-F 0 "SR144" H 10050 2977 50  0000 C CNN
-F 1 "StrainRelief" H 9750 3400 50  0001 C CNN
-F 2 "AV_Breakout_Continuity:StrainRelief" H 10050 3300 50  0001 C CNN
-F 3 "" H 10050 3300 50  0001 C CNN
-	1    10050 3250
+P 900 10700
+F 0 "SR144" H 900 10427 50  0000 C CNN
+F 1 "StrainRelief" H 600 10850 50  0001 C CNN
+F 2 "AV_Breakout_Continuity:StrainRelief" H 900 10750 50  0001 C CNN
+F 3 "" H 900 10750 50  0001 C CNN
+	1    900  10700
 	1    0    0    -1  
 $EndComp
 Wire Wire Line
-	10050 3250 10050 3100
-NoConn ~ 10200 3400
-NoConn ~ 9900 3400
+	900  10700 900  10550
+NoConn ~ 1050 10850
+NoConn ~ 750  10850
 $Comp
 L 36-5029ct-nd:36-5029CT-ND TP145
 U 1 1 5CDA24B2
-P 10500 3100
-F 0 "TP145" H 10550 3153 50  0000 L CNN
-F 1 "36-5029CT-ND" H 10500 3200 50  0001 C CNN
-F 2 "AV_Breakout_Continuity:TestPoint" H 10800 3400 60  0001 L CNN
-F 3 "" H 10500 3200 60  0001 C CNN
-	1    10500 3100
+P 1350 10550
+F 0 "TP145" H 1400 10603 50  0000 L CNN
+F 1 "36-5029CT-ND" H 1350 10650 50  0001 C CNN
+F 2 "AV_Breakout_Continuity:TP_Through" H 1650 10850 60  0001 L CNN
+F 3 "" H 1350 10650 60  0001 C CNN
+	1    1350 10550
 	1    0    0    -1  
 $EndComp
 $Comp
 L 36-5029ct-nd:StrainRelief SR145
 U 1 1 5CDA24B8
-P 10500 3250
-F 0 "SR145" H 10500 2977 50  0000 C CNN
-F 1 "StrainRelief" H 10200 3400 50  0001 C CNN
-F 2 "AV_Breakout_Continuity:StrainRelief" H 10500 3300 50  0001 C CNN
-F 3 "" H 10500 3300 50  0001 C CNN
-	1    10500 3250
+P 1350 10700
+F 0 "SR145" H 1350 10427 50  0000 C CNN
+F 1 "StrainRelief" H 1050 10850 50  0001 C CNN
+F 2 "AV_Breakout_Continuity:StrainRelief" H 1350 10750 50  0001 C CNN
+F 3 "" H 1350 10750 50  0001 C CNN
+	1    1350 10700
 	1    0    0    -1  
 $EndComp
 Wire Wire Line
-	10500 3250 10500 3100
-NoConn ~ 10650 3400
-NoConn ~ 10350 3400
+	1350 10700 1350 10550
+NoConn ~ 1500 10850
+NoConn ~ 1200 10850
 $Comp
 L 36-5029ct-nd:36-5029CT-ND TP146
 U 1 1 5CDA24C1
-P 9100 3850
-F 0 "TP146" H 9150 3903 50  0000 L CNN
-F 1 "36-5029CT-ND" H 9100 3950 50  0001 C CNN
-F 2 "AV_Breakout_Continuity:TestPoint" H 9400 4150 60  0001 L CNN
-F 3 "" H 9100 3950 60  0001 C CNN
-	1    9100 3850
+P -50 11300
+F 0 "TP146" H 0   11353 50  0000 L CNN
+F 1 "36-5029CT-ND" H -50 11400 50  0001 C CNN
+F 2 "AV_Breakout_Continuity:TP_Through" H 250 11600 60  0001 L CNN
+F 3 "" H -50 11400 60  0001 C CNN
+	1    -50  11300
 	1    0    0    -1  
 $EndComp
 $Comp
 L 36-5029ct-nd:StrainRelief SR146
 U 1 1 5CDA24C7
-P 9100 4000
-F 0 "SR146" H 9100 3727 50  0000 C CNN
-F 1 "StrainRelief" H 8800 4150 50  0001 C CNN
-F 2 "AV_Breakout_Continuity:StrainRelief" H 9100 4050 50  0001 C CNN
-F 3 "" H 9100 4050 50  0001 C CNN
-	1    9100 4000
+P -50 11450
+F 0 "SR146" H -50 11177 50  0000 C CNN
+F 1 "StrainRelief" H -350 11600 50  0001 C CNN
+F 2 "AV_Breakout_Continuity:StrainRelief" H -50 11500 50  0001 C CNN
+F 3 "" H -50 11500 50  0001 C CNN
+	1    -50  11450
 	1    0    0    -1  
 $EndComp
 Wire Wire Line
-	9100 4000 9100 3850
-NoConn ~ 9250 4150
-NoConn ~ 8950 4150
+	-50  11450 -50  11300
+NoConn ~ 100  11600
+NoConn ~ -200 11600
 $Comp
 L 36-5029ct-nd:36-5029CT-ND TP147
 U 1 1 5CDA24D0
-P 9550 3850
-F 0 "TP147" H 9600 3903 50  0000 L CNN
-F 1 "36-5029CT-ND" H 9550 3950 50  0001 C CNN
-F 2 "AV_Breakout_Continuity:TestPoint" H 9850 4150 60  0001 L CNN
-F 3 "" H 9550 3950 60  0001 C CNN
-	1    9550 3850
+P 400 11300
+F 0 "TP147" H 450 11353 50  0000 L CNN
+F 1 "36-5029CT-ND" H 400 11400 50  0001 C CNN
+F 2 "AV_Breakout_Continuity:TP_Through" H 700 11600 60  0001 L CNN
+F 3 "" H 400 11400 60  0001 C CNN
+	1    400  11300
 	1    0    0    -1  
 $EndComp
 $Comp
 L 36-5029ct-nd:StrainRelief SR147
 U 1 1 5CDA24D6
-P 9550 4000
-F 0 "SR147" H 9550 3727 50  0000 C CNN
-F 1 "StrainRelief" H 9250 4150 50  0001 C CNN
-F 2 "AV_Breakout_Continuity:StrainRelief" H 9550 4050 50  0001 C CNN
-F 3 "" H 9550 4050 50  0001 C CNN
-	1    9550 4000
+P 400 11450
+F 0 "SR147" H 400 11177 50  0000 C CNN
+F 1 "StrainRelief" H 100 11600 50  0001 C CNN
+F 2 "AV_Breakout_Continuity:StrainRelief" H 400 11500 50  0001 C CNN
+F 3 "" H 400 11500 50  0001 C CNN
+	1    400  11450
 	1    0    0    -1  
 $EndComp
 Wire Wire Line
-	9550 4000 9550 3850
-NoConn ~ 9700 4150
-NoConn ~ 9400 4150
+	400  11450 400  11300
+NoConn ~ 550  11600
+NoConn ~ 250  11600
 $Comp
 L 36-5029ct-nd:36-5029CT-ND TP148
 U 1 1 5CDA24DF
-P 10000 3850
-F 0 "TP148" H 10050 3903 50  0000 L CNN
-F 1 "36-5029CT-ND" H 10000 3950 50  0001 C CNN
-F 2 "AV_Breakout_Continuity:TestPoint" H 10300 4150 60  0001 L CNN
-F 3 "" H 10000 3950 60  0001 C CNN
-	1    10000 3850
+P 850 11300
+F 0 "TP148" H 900 11353 50  0000 L CNN
+F 1 "36-5029CT-ND" H 850 11400 50  0001 C CNN
+F 2 "AV_Breakout_Continuity:TP_Through" H 1150 11600 60  0001 L CNN
+F 3 "" H 850 11400 60  0001 C CNN
+	1    850  11300
 	1    0    0    -1  
 $EndComp
 $Comp
 L 36-5029ct-nd:StrainRelief SR148
 U 1 1 5CDA24E5
-P 10000 4000
-F 0 "SR148" H 10000 3727 50  0000 C CNN
-F 1 "StrainRelief" H 9700 4150 50  0001 C CNN
-F 2 "AV_Breakout_Continuity:StrainRelief" H 10000 4050 50  0001 C CNN
-F 3 "" H 10000 4050 50  0001 C CNN
-	1    10000 4000
+P 850 11450
+F 0 "SR148" H 850 11177 50  0000 C CNN
+F 1 "StrainRelief" H 550 11600 50  0001 C CNN
+F 2 "AV_Breakout_Continuity:StrainRelief" H 850 11500 50  0001 C CNN
+F 3 "" H 850 11500 50  0001 C CNN
+	1    850  11450
 	1    0    0    -1  
 $EndComp
 Wire Wire Line
-	10000 4000 10000 3850
-NoConn ~ 10150 4150
-NoConn ~ 9850 4150
+	850  11450 850  11300
+NoConn ~ 1000 11600
+NoConn ~ 700  11600
 $Comp
 L 36-5029ct-nd:36-5029CT-ND TP149
 U 1 1 5CDA24EE
-P 10450 3850
-F 0 "TP149" H 10500 3903 50  0000 L CNN
-F 1 "36-5029CT-ND" H 10450 3950 50  0001 C CNN
-F 2 "AV_Breakout_Continuity:TestPoint" H 10750 4150 60  0001 L CNN
-F 3 "" H 10450 3950 60  0001 C CNN
-	1    10450 3850
+P 1300 11300
+F 0 "TP149" H 1350 11353 50  0000 L CNN
+F 1 "36-5029CT-ND" H 1300 11400 50  0001 C CNN
+F 2 "AV_Breakout_Continuity:TP_Through" H 1600 11600 60  0001 L CNN
+F 3 "" H 1300 11400 60  0001 C CNN
+	1    1300 11300
 	1    0    0    -1  
 $EndComp
 $Comp
 L 36-5029ct-nd:StrainRelief SR149
 U 1 1 5CDA24F4
-P 10450 4000
-F 0 "SR149" H 10450 3727 50  0000 C CNN
-F 1 "StrainRelief" H 10150 4150 50  0001 C CNN
-F 2 "AV_Breakout_Continuity:StrainRelief" H 10450 4050 50  0001 C CNN
-F 3 "" H 10450 4050 50  0001 C CNN
-	1    10450 4000
+P 1300 11450
+F 0 "SR149" H 1300 11177 50  0000 C CNN
+F 1 "StrainRelief" H 1000 11600 50  0001 C CNN
+F 2 "AV_Breakout_Continuity:StrainRelief" H 1300 11500 50  0001 C CNN
+F 3 "" H 1300 11500 50  0001 C CNN
+	1    1300 11450
 	1    0    0    -1  
 $EndComp
 Wire Wire Line
-	10450 4000 10450 3850
-NoConn ~ 10600 4150
-NoConn ~ 10300 4150
+	1300 11450 1300 11300
+NoConn ~ 1450 11600
+NoConn ~ 1150 11600
 $Comp
 L 36-5029ct-nd:36-5029CT-ND TP150
 U 1 1 5CDA24FD
-P 9050 4550
-F 0 "TP150" H 9100 4603 50  0000 L CNN
-F 1 "36-5029CT-ND" H 9050 4650 50  0001 C CNN
-F 2 "AV_Breakout_Continuity:TestPoint" H 9350 4850 60  0001 L CNN
-F 3 "" H 9050 4650 60  0001 C CNN
-	1    9050 4550
+P -100 12000
+F 0 "TP150" H -50 12053 50  0000 L CNN
+F 1 "36-5029CT-ND" H -100 12100 50  0001 C CNN
+F 2 "AV_Breakout_Continuity:TP_Through" H 200 12300 60  0001 L CNN
+F 3 "" H -100 12100 60  0001 C CNN
+	1    -100 12000
 	1    0    0    -1  
 $EndComp
 $Comp
 L 36-5029ct-nd:StrainRelief SR150
 U 1 1 5CDA2503
-P 9050 4700
-F 0 "SR150" H 9050 4427 50  0000 C CNN
-F 1 "StrainRelief" H 8750 4850 50  0001 C CNN
-F 2 "AV_Breakout_Continuity:StrainRelief" H 9050 4750 50  0001 C CNN
-F 3 "" H 9050 4750 50  0001 C CNN
-	1    9050 4700
+P -100 12150
+F 0 "SR150" H -100 11877 50  0000 C CNN
+F 1 "StrainRelief" H -400 12300 50  0001 C CNN
+F 2 "AV_Breakout_Continuity:StrainRelief" H -100 12200 50  0001 C CNN
+F 3 "" H -100 12200 50  0001 C CNN
+	1    -100 12150
 	1    0    0    -1  
 $EndComp
 Wire Wire Line
-	9050 4700 9050 4550
-NoConn ~ 9200 4850
-NoConn ~ 8900 4850
+	-100 12150 -100 12000
+NoConn ~ 50   12300
+NoConn ~ -250 12300
 $Comp
 L 36-5029ct-nd:36-5029CT-ND TP151
 U 1 1 5CDA250C
-P 9500 4550
-F 0 "TP151" H 9550 4603 50  0000 L CNN
-F 1 "36-5029CT-ND" H 9500 4650 50  0001 C CNN
-F 2 "AV_Breakout_Continuity:TestPoint" H 9800 4850 60  0001 L CNN
-F 3 "" H 9500 4650 60  0001 C CNN
-	1    9500 4550
+P 350 12000
+F 0 "TP151" H 400 12053 50  0000 L CNN
+F 1 "36-5029CT-ND" H 350 12100 50  0001 C CNN
+F 2 "AV_Breakout_Continuity:TP_Through" H 650 12300 60  0001 L CNN
+F 3 "" H 350 12100 60  0001 C CNN
+	1    350  12000
 	1    0    0    -1  
 $EndComp
 $Comp
 L 36-5029ct-nd:StrainRelief SR151
 U 1 1 5CDA2512
-P 9500 4700
-F 0 "SR151" H 9500 4427 50  0000 C CNN
-F 1 "StrainRelief" H 9200 4850 50  0001 C CNN
-F 2 "AV_Breakout_Continuity:StrainRelief" H 9500 4750 50  0001 C CNN
-F 3 "" H 9500 4750 50  0001 C CNN
-	1    9500 4700
+P 350 12150
+F 0 "SR151" H 350 11877 50  0000 C CNN
+F 1 "StrainRelief" H 50  12300 50  0001 C CNN
+F 2 "AV_Breakout_Continuity:StrainRelief" H 350 12200 50  0001 C CNN
+F 3 "" H 350 12200 50  0001 C CNN
+	1    350  12150
 	1    0    0    -1  
 $EndComp
 Wire Wire Line
-	9500 4700 9500 4550
-NoConn ~ 9650 4850
-NoConn ~ 9350 4850
+	350  12150 350  12000
+NoConn ~ 500  12300
+NoConn ~ 200  12300
 $Comp
 L 36-5029ct-nd:36-5029CT-ND TP152
 U 1 1 5CDA251B
-P 9950 4550
-F 0 "TP152" H 10000 4603 50  0000 L CNN
-F 1 "36-5029CT-ND" H 9950 4650 50  0001 C CNN
-F 2 "AV_Breakout_Continuity:TestPoint" H 10250 4850 60  0001 L CNN
-F 3 "" H 9950 4650 60  0001 C CNN
-	1    9950 4550
+P 800 12000
+F 0 "TP152" H 850 12053 50  0000 L CNN
+F 1 "36-5029CT-ND" H 800 12100 50  0001 C CNN
+F 2 "AV_Breakout_Continuity:TP_Through" H 1100 12300 60  0001 L CNN
+F 3 "" H 800 12100 60  0001 C CNN
+	1    800  12000
 	1    0    0    -1  
 $EndComp
 $Comp
 L 36-5029ct-nd:StrainRelief SR152
 U 1 1 5CDA2521
-P 9950 4700
-F 0 "SR152" H 9950 4427 50  0000 C CNN
-F 1 "StrainRelief" H 9650 4850 50  0001 C CNN
-F 2 "AV_Breakout_Continuity:StrainRelief" H 9950 4750 50  0001 C CNN
-F 3 "" H 9950 4750 50  0001 C CNN
-	1    9950 4700
+P 800 12150
+F 0 "SR152" H 800 11877 50  0000 C CNN
+F 1 "StrainRelief" H 500 12300 50  0001 C CNN
+F 2 "AV_Breakout_Continuity:StrainRelief" H 800 12200 50  0001 C CNN
+F 3 "" H 800 12200 50  0001 C CNN
+	1    800  12150
 	1    0    0    -1  
 $EndComp
 Wire Wire Line
-	9950 4700 9950 4550
-NoConn ~ 10100 4850
-NoConn ~ 9800 4850
+	800  12150 800  12000
+NoConn ~ 950  12300
+NoConn ~ 650  12300
 $Comp
 L 36-5029ct-nd:36-5029CT-ND TP153
 U 1 1 5CDA252A
-P 10400 4550
-F 0 "TP153" H 10450 4603 50  0000 L CNN
-F 1 "36-5029CT-ND" H 10400 4650 50  0001 C CNN
-F 2 "AV_Breakout_Continuity:TestPoint" H 10700 4850 60  0001 L CNN
-F 3 "" H 10400 4650 60  0001 C CNN
-	1    10400 4550
+P 1250 12000
+F 0 "TP153" H 1300 12053 50  0000 L CNN
+F 1 "36-5029CT-ND" H 1250 12100 50  0001 C CNN
+F 2 "AV_Breakout_Continuity:TP_Through" H 1550 12300 60  0001 L CNN
+F 3 "" H 1250 12100 60  0001 C CNN
+	1    1250 12000
 	1    0    0    -1  
 $EndComp
 $Comp
 L 36-5029ct-nd:StrainRelief SR153
 U 1 1 5CDA2530
-P 10400 4700
-F 0 "SR153" H 10400 4427 50  0000 C CNN
-F 1 "StrainRelief" H 10100 4850 50  0001 C CNN
-F 2 "AV_Breakout_Continuity:StrainRelief" H 10400 4750 50  0001 C CNN
-F 3 "" H 10400 4750 50  0001 C CNN
-	1    10400 4700
+P 1250 12150
+F 0 "SR153" H 1250 11877 50  0000 C CNN
+F 1 "StrainRelief" H 950 12300 50  0001 C CNN
+F 2 "AV_Breakout_Continuity:StrainRelief" H 1250 12200 50  0001 C CNN
+F 3 "" H 1250 12200 50  0001 C CNN
+	1    1250 12150
 	1    0    0    -1  
 $EndComp
 Wire Wire Line
-	10400 4700 10400 4550
-NoConn ~ 10550 4850
-NoConn ~ 10250 4850
+	1250 12150 1250 12000
+NoConn ~ 1400 12300
+NoConn ~ 1100 12300
 $Comp
 L 36-5029ct-nd:36-5029CT-ND TP154
 U 1 1 5CDA2539
-P 9050 5250
-F 0 "TP154" H 9100 5303 50  0000 L CNN
-F 1 "36-5029CT-ND" H 9050 5350 50  0001 C CNN
-F 2 "AV_Breakout_Continuity:TestPoint" H 9350 5550 60  0001 L CNN
-F 3 "" H 9050 5350 60  0001 C CNN
-	1    9050 5250
+P -100 12700
+F 0 "TP154" H -50 12753 50  0000 L CNN
+F 1 "36-5029CT-ND" H -100 12800 50  0001 C CNN
+F 2 "AV_Breakout_Continuity:TP_Through" H 200 13000 60  0001 L CNN
+F 3 "" H -100 12800 60  0001 C CNN
+	1    -100 12700
 	1    0    0    -1  
 $EndComp
 $Comp
 L 36-5029ct-nd:StrainRelief SR154
 U 1 1 5CDA253F
-P 9050 5400
-F 0 "SR154" H 9050 5127 50  0000 C CNN
-F 1 "StrainRelief" H 8750 5550 50  0001 C CNN
-F 2 "AV_Breakout_Continuity:StrainRelief" H 9050 5450 50  0001 C CNN
-F 3 "" H 9050 5450 50  0001 C CNN
-	1    9050 5400
+P -100 12850
+F 0 "SR154" H -100 12577 50  0000 C CNN
+F 1 "StrainRelief" H -400 13000 50  0001 C CNN
+F 2 "AV_Breakout_Continuity:StrainRelief" H -100 12900 50  0001 C CNN
+F 3 "" H -100 12900 50  0001 C CNN
+	1    -100 12850
 	1    0    0    -1  
 $EndComp
 Wire Wire Line
-	9050 5400 9050 5250
-NoConn ~ 9200 5550
-NoConn ~ 8900 5550
+	-100 12850 -100 12700
+NoConn ~ 50   13000
+NoConn ~ -250 13000
 $Comp
 L 36-5029ct-nd:36-5029CT-ND TP155
 U 1 1 5CDA2548
-P 9500 5250
-F 0 "TP155" H 9550 5303 50  0000 L CNN
-F 1 "36-5029CT-ND" H 9500 5350 50  0001 C CNN
-F 2 "AV_Breakout_Continuity:TestPoint" H 9800 5550 60  0001 L CNN
-F 3 "" H 9500 5350 60  0001 C CNN
-	1    9500 5250
+P 350 12700
+F 0 "TP155" H 400 12753 50  0000 L CNN
+F 1 "36-5029CT-ND" H 350 12800 50  0001 C CNN
+F 2 "AV_Breakout_Continuity:TP_Through" H 650 13000 60  0001 L CNN
+F 3 "" H 350 12800 60  0001 C CNN
+	1    350  12700
 	1    0    0    -1  
 $EndComp
 $Comp
 L 36-5029ct-nd:StrainRelief SR155
 U 1 1 5CDA254E
-P 9500 5400
-F 0 "SR155" H 9500 5127 50  0000 C CNN
-F 1 "StrainRelief" H 9200 5550 50  0001 C CNN
-F 2 "AV_Breakout_Continuity:StrainRelief" H 9500 5450 50  0001 C CNN
-F 3 "" H 9500 5450 50  0001 C CNN
-	1    9500 5400
+P 350 12850
+F 0 "SR155" H 350 12577 50  0000 C CNN
+F 1 "StrainRelief" H 50  13000 50  0001 C CNN
+F 2 "AV_Breakout_Continuity:StrainRelief" H 350 12900 50  0001 C CNN
+F 3 "" H 350 12900 50  0001 C CNN
+	1    350  12850
 	1    0    0    -1  
 $EndComp
 Wire Wire Line
-	9500 5400 9500 5250
-NoConn ~ 9650 5550
-NoConn ~ 9350 5550
+	350  12850 350  12700
+NoConn ~ 500  13000
+NoConn ~ 200  13000
 $Comp
 L 36-5029ct-nd:36-5029CT-ND TP156
 U 1 1 5CDA2557
-P 9950 5250
-F 0 "TP156" H 10000 5303 50  0000 L CNN
-F 1 "36-5029CT-ND" H 9950 5350 50  0001 C CNN
-F 2 "AV_Breakout_Continuity:TestPoint" H 10250 5550 60  0001 L CNN
-F 3 "" H 9950 5350 60  0001 C CNN
-	1    9950 5250
+P 800 12700
+F 0 "TP156" H 850 12753 50  0000 L CNN
+F 1 "36-5029CT-ND" H 800 12800 50  0001 C CNN
+F 2 "AV_Breakout_Continuity:TP_Through" H 1100 13000 60  0001 L CNN
+F 3 "" H 800 12800 60  0001 C CNN
+	1    800  12700
 	1    0    0    -1  
 $EndComp
 $Comp
 L 36-5029ct-nd:StrainRelief SR156
 U 1 1 5CDA255D
-P 9950 5400
-F 0 "SR156" H 9950 5127 50  0000 C CNN
-F 1 "StrainRelief" H 9650 5550 50  0001 C CNN
-F 2 "AV_Breakout_Continuity:StrainRelief" H 9950 5450 50  0001 C CNN
-F 3 "" H 9950 5450 50  0001 C CNN
-	1    9950 5400
+P 800 12850
+F 0 "SR156" H 800 12577 50  0000 C CNN
+F 1 "StrainRelief" H 500 13000 50  0001 C CNN
+F 2 "AV_Breakout_Continuity:StrainRelief" H 800 12900 50  0001 C CNN
+F 3 "" H 800 12900 50  0001 C CNN
+	1    800  12850
 	1    0    0    -1  
 $EndComp
 Wire Wire Line
-	9950 5400 9950 5250
-NoConn ~ 10100 5550
-NoConn ~ 9800 5550
+	800  12850 800  12700
+NoConn ~ 950  13000
+NoConn ~ 650  13000
 $Comp
 L 36-5029ct-nd:36-5029CT-ND TP157
 U 1 1 5CDA2566
-P 10400 5250
-F 0 "TP157" H 10450 5303 50  0000 L CNN
-F 1 "36-5029CT-ND" H 10400 5350 50  0001 C CNN
-F 2 "AV_Breakout_Continuity:TestPoint" H 10700 5550 60  0001 L CNN
-F 3 "" H 10400 5350 60  0001 C CNN
-	1    10400 5250
+P 1250 12700
+F 0 "TP157" H 1300 12753 50  0000 L CNN
+F 1 "36-5029CT-ND" H 1250 12800 50  0001 C CNN
+F 2 "AV_Breakout_Continuity:TP_Through" H 1550 13000 60  0001 L CNN
+F 3 "" H 1250 12800 60  0001 C CNN
+	1    1250 12700
 	1    0    0    -1  
 $EndComp
 $Comp
 L 36-5029ct-nd:StrainRelief SR157
 U 1 1 5CDA256C
-P 10400 5400
-F 0 "SR157" H 10400 5127 50  0000 C CNN
-F 1 "StrainRelief" H 10100 5550 50  0001 C CNN
-F 2 "AV_Breakout_Continuity:StrainRelief" H 10400 5450 50  0001 C CNN
-F 3 "" H 10400 5450 50  0001 C CNN
-	1    10400 5400
+P 1250 12850
+F 0 "SR157" H 1250 12577 50  0000 C CNN
+F 1 "StrainRelief" H 950 13000 50  0001 C CNN
+F 2 "AV_Breakout_Continuity:StrainRelief" H 1250 12900 50  0001 C CNN
+F 3 "" H 1250 12900 50  0001 C CNN
+	1    1250 12850
 	1    0    0    -1  
 $EndComp
 Wire Wire Line
-	10400 5400 10400 5250
-NoConn ~ 10550 5550
-NoConn ~ 10250 5550
+	1250 12850 1250 12700
+NoConn ~ 1400 13000
+NoConn ~ 1100 13000
 $Comp
 L 36-5029ct-nd:36-5029CT-ND TP158
 U 1 1 5CDA2575
 P 700 5600
 F 0 "TP158" H 750 5653 50  0000 L CNN
 F 1 "36-5029CT-ND" H 700 5700 50  0001 C CNN
-F 2 "AV_Breakout_Continuity:TestPoint" H 1000 5900 60  0001 L CNN
+F 2 "AV_Breakout_Continuity:TP_Through" H 1000 5900 60  0001 L CNN
 F 3 "" H 700 5700 60  0001 C CNN
 	1    700  5600
 	1    0    0    -1  
@@ -3894,7 +3894,7 @@ U 1 1 5CDA2584
 P 1150 5600
 F 0 "TP159" H 1200 5653 50  0000 L CNN
 F 1 "36-5029CT-ND" H 1150 5700 50  0001 C CNN
-F 2 "AV_Breakout_Continuity:TestPoint" H 1450 5900 60  0001 L CNN
+F 2 "AV_Breakout_Continuity:TP_Through" H 1450 5900 60  0001 L CNN
 F 3 "" H 1150 5700 60  0001 C CNN
 	1    1150 5600
 	1    0    0    -1  
@@ -3920,7 +3920,7 @@ U 1 1 5CDA2593
 P 1600 5600
 F 0 "TP160" H 1650 5653 50  0000 L CNN
 F 1 "36-5029CT-ND" H 1600 5700 50  0001 C CNN
-F 2 "AV_Breakout_Continuity:TestPoint" H 1900 5900 60  0001 L CNN
+F 2 "AV_Breakout_Continuity:TP_Through" H 1900 5900 60  0001 L CNN
 F 3 "" H 1600 5700 60  0001 C CNN
 	1    1600 5600
 	1    0    0    -1  
@@ -3946,7 +3946,7 @@ U 1 1 5CDA25A2
 P 650 6350
 F 0 "TP161" H 700 6403 50  0000 L CNN
 F 1 "36-5029CT-ND" H 650 6450 50  0001 C CNN
-F 2 "AV_Breakout_Continuity:TestPoint" H 950 6650 60  0001 L CNN
+F 2 "AV_Breakout_Continuity:TP_Through" H 950 6650 60  0001 L CNN
 F 3 "" H 650 6450 60  0001 C CNN
 	1    650  6350
 	1    0    0    -1  
@@ -3972,7 +3972,7 @@ U 1 1 5CDA25B1
 P 1100 6350
 F 0 "TP162" H 1150 6403 50  0000 L CNN
 F 1 "36-5029CT-ND" H 1100 6450 50  0001 C CNN
-F 2 "AV_Breakout_Continuity:TestPoint" H 1400 6650 60  0001 L CNN
+F 2 "AV_Breakout_Continuity:TP_Through" H 1400 6650 60  0001 L CNN
 F 3 "" H 1100 6450 60  0001 C CNN
 	1    1100 6350
 	1    0    0    -1  
@@ -3998,7 +3998,7 @@ U 1 1 5CDA25C0
 P 1550 6350
 F 0 "TP163" H 1600 6403 50  0000 L CNN
 F 1 "36-5029CT-ND" H 1550 6450 50  0001 C CNN
-F 2 "AV_Breakout_Continuity:TestPoint" H 1850 6650 60  0001 L CNN
+F 2 "AV_Breakout_Continuity:TP_Through" H 1850 6650 60  0001 L CNN
 F 3 "" H 1550 6450 60  0001 C CNN
 	1    1550 6350
 	1    0    0    -1  
@@ -4024,7 +4024,7 @@ U 1 1 5CDA25CF
 P 5000 5400
 F 0 "TP164" H 5050 5453 50  0000 L CNN
 F 1 "36-5029CT-ND" H 5000 5500 50  0001 C CNN
-F 2 "AV_Breakout_Continuity:TestPoint" H 5300 5700 60  0001 L CNN
+F 2 "AV_Breakout_Continuity:TP_Through" H 5300 5700 60  0001 L CNN
 F 3 "" H 5000 5500 60  0001 C CNN
 	1    5000 5400
 	1    0    0    -1  
@@ -4050,7 +4050,7 @@ U 1 1 5CDA25DE
 P 5450 5400
 F 0 "TP165" H 5500 5453 50  0000 L CNN
 F 1 "36-5029CT-ND" H 5450 5500 50  0001 C CNN
-F 2 "AV_Breakout_Continuity:TestPoint" H 5750 5700 60  0001 L CNN
+F 2 "AV_Breakout_Continuity:TP_Through" H 5750 5700 60  0001 L CNN
 F 3 "" H 5450 5500 60  0001 C CNN
 	1    5450 5400
 	1    0    0    -1  
@@ -4076,7 +4076,7 @@ U 1 1 5CDA25ED
 P 4950 6250
 F 0 "TP166" H 5000 6303 50  0000 L CNN
 F 1 "36-5029CT-ND" H 4950 6350 50  0001 C CNN
-F 2 "AV_Breakout_Continuity:TestPoint" H 5250 6550 60  0001 L CNN
+F 2 "AV_Breakout_Continuity:TP_Through" H 5250 6550 60  0001 L CNN
 F 3 "" H 4950 6350 60  0001 C CNN
 	1    4950 6250
 	1    0    0    -1  
@@ -4102,7 +4102,7 @@ U 1 1 5CDA25FC
 P 5400 6250
 F 0 "TP167" H 5450 6303 50  0000 L CNN
 F 1 "36-5029CT-ND" H 5400 6350 50  0001 C CNN
-F 2 "AV_Breakout_Continuity:TestPoint" H 5700 6550 60  0001 L CNN
+F 2 "AV_Breakout_Continuity:TP_Through" H 5700 6550 60  0001 L CNN
 F 3 "" H 5400 6350 60  0001 C CNN
 	1    5400 6250
 	1    0    0    -1  
@@ -4128,7 +4128,7 @@ U 1 1 5CDBDF04
 P 2050 2850
 F 0 "TP81" H 2100 2903 50  0000 L CNN
 F 1 "36-5029CT-ND" H 2050 2950 50  0001 C CNN
-F 2 "AV_Breakout_Continuity:TestPoint" H 2350 3150 60  0001 L CNN
+F 2 "AV_Breakout_Continuity:TP_Through" H 2350 3150 60  0001 L CNN
 F 3 "" H 2050 2950 60  0001 C CNN
 	1    2050 2850
 	1    0    0    -1  
@@ -4153,7 +4153,7 @@ U 1 1 5CDBDF12
 P 2500 2850
 F 0 "TP82" H 2550 2903 50  0000 L CNN
 F 1 "36-5029CT-ND" H 2500 2950 50  0001 C CNN
-F 2 "AV_Breakout_Continuity:TestPoint" H 2800 3150 60  0001 L CNN
+F 2 "AV_Breakout_Continuity:TP_Through" H 2800 3150 60  0001 L CNN
 F 3 "" H 2500 2950 60  0001 C CNN
 	1    2500 2850
 	1    0    0    -1  
@@ -4179,7 +4179,7 @@ U 1 1 5CDBDF21
 P 2950 2850
 F 0 "TP83" H 3000 2903 50  0000 L CNN
 F 1 "36-5029CT-ND" H 2950 2950 50  0001 C CNN
-F 2 "AV_Breakout_Continuity:TestPoint" H 3250 3150 60  0001 L CNN
+F 2 "AV_Breakout_Continuity:TP_Through" H 3250 3150 60  0001 L CNN
 F 3 "" H 2950 2950 60  0001 C CNN
 	1    2950 2850
 	1    0    0    -1  
@@ -4205,7 +4205,7 @@ U 1 1 5CDBDF30
 P 3400 2850
 F 0 "TP84" H 3450 2903 50  0000 L CNN
 F 1 "36-5029CT-ND" H 3400 2950 50  0001 C CNN
-F 2 "AV_Breakout_Continuity:TestPoint" H 3700 3150 60  0001 L CNN
+F 2 "AV_Breakout_Continuity:TP_Through" H 3700 3150 60  0001 L CNN
 F 3 "" H 3400 2950 60  0001 C CNN
 	1    3400 2850
 	1    0    0    -1  
@@ -4231,7 +4231,7 @@ U 1 1 5CDBDF3F
 P 3850 2850
 F 0 "TP85" H 3900 2903 50  0000 L CNN
 F 1 "36-5029CT-ND" H 3850 2950 50  0001 C CNN
-F 2 "AV_Breakout_Continuity:TestPoint" H 4150 3150 60  0001 L CNN
+F 2 "AV_Breakout_Continuity:TP_Through" H 4150 3150 60  0001 L CNN
 F 3 "" H 3850 2950 60  0001 C CNN
 	1    3850 2850
 	1    0    0    -1  
@@ -4257,7 +4257,7 @@ U 1 1 5CDBDF4E
 P 5200 750
 F 0 "TP86" H 5250 803 50  0000 L CNN
 F 1 "36-5029CT-ND" H 5200 850 50  0001 C CNN
-F 2 "AV_Breakout_Continuity:TestPoint" H 5500 1050 60  0001 L CNN
+F 2 "AV_Breakout_Continuity:TP_Through" H 5500 1050 60  0001 L CNN
 F 3 "" H 5200 850 60  0001 C CNN
 	1    5200 750 
 	1    0    0    -1  
@@ -4283,7 +4283,7 @@ U 1 1 5CDBDF5D
 P 5650 750
 F 0 "TP87" H 5700 803 50  0000 L CNN
 F 1 "36-5029CT-ND" H 5650 850 50  0001 C CNN
-F 2 "AV_Breakout_Continuity:TestPoint" H 5950 1050 60  0001 L CNN
+F 2 "AV_Breakout_Continuity:TP_Through" H 5950 1050 60  0001 L CNN
 F 3 "" H 5650 850 60  0001 C CNN
 	1    5650 750 
 	1    0    0    -1  
@@ -4309,7 +4309,7 @@ U 1 1 5CDBDF6C
 P 6100 750
 F 0 "TP88" H 6150 803 50  0000 L CNN
 F 1 "36-5029CT-ND" H 6100 850 50  0001 C CNN
-F 2 "AV_Breakout_Continuity:TestPoint" H 6400 1050 60  0001 L CNN
+F 2 "AV_Breakout_Continuity:TP_Through" H 6400 1050 60  0001 L CNN
 F 3 "" H 6100 850 60  0001 C CNN
 	1    6100 750 
 	1    0    0    -1  
@@ -4335,7 +4335,7 @@ U 1 1 5CDBDF7B
 P 6550 750
 F 0 "TP89" H 6600 803 50  0000 L CNN
 F 1 "36-5029CT-ND" H 6550 850 50  0001 C CNN
-F 2 "AV_Breakout_Continuity:TestPoint" H 6850 1050 60  0001 L CNN
+F 2 "AV_Breakout_Continuity:TP_Through" H 6850 1050 60  0001 L CNN
 F 3 "" H 6550 850 60  0001 C CNN
 	1    6550 750 
 	1    0    0    -1  
@@ -4355,4 +4355,12 @@ Wire Wire Line
 	6550 900  6550 750 
 NoConn ~ 6700 1050
 NoConn ~ 6400 1050
+Text Notes 3700 -450 0    315  ~ 0
+119102
+Text Notes 8650 -1750 0    315  ~ 0
+117637
+Text Notes 8600 -2800 0    315  ~ 0
+117649
+Text Notes 5550 -4000 0    315  ~ 0
+117717
 $EndSCHEMATC

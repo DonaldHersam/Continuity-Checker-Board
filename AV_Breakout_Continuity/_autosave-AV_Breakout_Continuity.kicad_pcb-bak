@@ -3,7 +3,7 @@
   (general
     (thickness 1.6)
     (drawings 27)
-    (tracks 0)
+    (tracks 46)
     (zones 0)
     (modules 334)
     (nets 168)
@@ -12,6 +12,8 @@
   (page A4)
   (layers
     (0 F.Cu signal)
+    (1 In1.Cu signal)
+    (2 In2.Cu signal)
     (31 B.Cu signal)
     (32 B.Adhes user)
     (33 F.Adhes user)
@@ -3460,7 +3462,7 @@
   )
 
   (module AV_Breakout_Continuity:StrainRelief (layer F.Cu) (tedit 5CC8B865) (tstamp 5CCA94CC)
-    (at 274.32 116.84)
+    (at 194.31 115.57)
     (path /5CD77C1E)
     (fp_text reference SR122 (at 2.5 0 90) (layer F.SilkS)
       (effects (font (size 1 1) (thickness 0.15)))
@@ -3485,7 +3487,7 @@
   )
 
   (module AV_Breakout_Continuity:StrainRelief (layer F.Cu) (tedit 5CC8B865) (tstamp 5CCA94DC)
-    (at 276.86 129.54)
+    (at 196.85 128.27)
     (path /5CD77C2D)
     (fp_text reference SR123 (at 2.5 0 90) (layer F.SilkS)
       (effects (font (size 1 1) (thickness 0.15)))
@@ -3510,7 +3512,7 @@
   )
 
   (module AV_Breakout_Continuity:StrainRelief (layer F.Cu) (tedit 5CC8B865) (tstamp 5CCA94EC)
-    (at 279.4 116.84)
+    (at 199.39 115.57)
     (path /5CD77C3C)
     (fp_text reference SR124 (at 2.5 0 90) (layer F.SilkS)
       (effects (font (size 1 1) (thickness 0.15)))
@@ -3535,7 +3537,7 @@
   )
 
   (module AV_Breakout_Continuity:StrainRelief (layer F.Cu) (tedit 5CC8B865) (tstamp 5CCA94FC)
-    (at 281.94 129.54)
+    (at 201.93 128.27)
     (path /5CD77C4B)
     (fp_text reference SR125 (at 2.5 0 90) (layer F.SilkS)
       (effects (font (size 1 1) (thickness 0.15)))
@@ -3560,7 +3562,7 @@
   )
 
   (module AV_Breakout_Continuity:StrainRelief (layer F.Cu) (tedit 5CC8B865) (tstamp 5CCA950C)
-    (at 223.52 116.84)
+    (at 143.51 115.57)
     (path /5CD77C5A)
     (fp_text reference SR126 (at 2.5 0 90) (layer F.SilkS)
       (effects (font (size 1 1) (thickness 0.15)))
@@ -3585,7 +3587,7 @@
   )
 
   (module AV_Breakout_Continuity:StrainRelief (layer F.Cu) (tedit 5CC8B865) (tstamp 5CCA951C)
-    (at 226.06 129.54)
+    (at 146.05 128.27)
     (path /5CD77C69)
     (fp_text reference SR127 (at 2.5 0 90) (layer F.SilkS)
       (effects (font (size 1 1) (thickness 0.15)))
@@ -3610,7 +3612,7 @@
   )
 
   (module AV_Breakout_Continuity:StrainRelief (layer F.Cu) (tedit 5CC8B865) (tstamp 5CCA952C)
-    (at 228.6 116.84)
+    (at 148.59 115.57)
     (path /5CD77C78)
     (fp_text reference SR128 (at 2.5 0 90) (layer F.SilkS)
       (effects (font (size 1 1) (thickness 0.15)))
@@ -3635,7 +3637,7 @@
   )
 
   (module AV_Breakout_Continuity:StrainRelief (layer F.Cu) (tedit 5CC8B865) (tstamp 5CCA953C)
-    (at 231.14 129.46)
+    (at 151.13 128.19)
     (path /5CD77C87)
     (fp_text reference SR129 (at 2.5 0 90) (layer F.SilkS)
       (effects (font (size 1 1) (thickness 0.15)))
@@ -3660,7 +3662,7 @@
   )
 
   (module AV_Breakout_Continuity:StrainRelief (layer F.Cu) (tedit 5CC8B865) (tstamp 5CCA954C)
-    (at 195.58 116.84)
+    (at 115.57 115.57)
     (path /5CD77C96)
     (fp_text reference SR130 (at 2.5 0 90) (layer F.SilkS)
       (effects (font (size 1 1) (thickness 0.15)))
@@ -3685,7 +3687,7 @@
   )
 
   (module AV_Breakout_Continuity:StrainRelief (layer F.Cu) (tedit 5CC8B865) (tstamp 5CCA955C)
-    (at 198.12 129.54)
+    (at 118.11 128.27)
     (path /5CD77CA5)
     (fp_text reference SR131 (at 2.5 0 90) (layer F.SilkS)
       (effects (font (size 1 1) (thickness 0.15)))
@@ -3710,7 +3712,7 @@
   )
 
   (module AV_Breakout_Continuity:StrainRelief (layer F.Cu) (tedit 5CC8B865) (tstamp 5CCA956C)
-    (at 200.66 116.84)
+    (at 120.65 115.57)
     (path /5CD77CB4)
     (fp_text reference SR132 (at 2.5 0 90) (layer F.SilkS)
       (effects (font (size 1 1) (thickness 0.15)))
@@ -3735,7 +3737,7 @@
   )
 
   (module AV_Breakout_Continuity:StrainRelief (layer F.Cu) (tedit 5CC8B865) (tstamp 5CCA957C)
-    (at 203.2 129.54)
+    (at 123.19 128.27)
     (path /5CD77CC3)
     (fp_text reference SR133 (at 2.5 0 90) (layer F.SilkS)
       (effects (font (size 1 1) (thickness 0.15)))
@@ -3860,7 +3862,7 @@
   )
 
   (module AV_Breakout_Continuity:StrainRelief (layer F.Cu) (tedit 5CC8B865) (tstamp 5CCA95CC)
-    (at 261.62 116.84)
+    (at 181.61 115.57)
     (path /5CDA244F)
     (fp_text reference SR138 (at 2.5 0 90) (layer F.SilkS)
       (effects (font (size 1 1) (thickness 0.15)))
@@ -3885,7 +3887,7 @@
   )
 
   (module AV_Breakout_Continuity:StrainRelief (layer F.Cu) (tedit 5CC8B865) (tstamp 5CCA95DC)
-    (at 264.16 129.54)
+    (at 184.15 128.27)
     (path /5CDA245E)
     (fp_text reference SR139 (at 2.5 0 90) (layer F.SilkS)
       (effects (font (size 1 1) (thickness 0.15)))
@@ -3910,7 +3912,7 @@
   )
 
   (module AV_Breakout_Continuity:StrainRelief (layer F.Cu) (tedit 5CC8B865) (tstamp 5CCA95EC)
-    (at 266.7 116.84)
+    (at 186.69 115.57)
     (path /5CDA246D)
     (fp_text reference SR140 (at 2.5 0 90) (layer F.SilkS)
       (effects (font (size 1 1) (thickness 0.15)))
@@ -3935,7 +3937,7 @@
   )
 
   (module AV_Breakout_Continuity:StrainRelief (layer F.Cu) (tedit 5CC8B865) (tstamp 5CCA95FC)
-    (at 269.24 129.54)
+    (at 189.23 128.27)
     (path /5CDA247C)
     (fp_text reference SR141 (at 2.5 0 90) (layer F.SilkS)
       (effects (font (size 1 1) (thickness 0.15)))
@@ -3960,7 +3962,7 @@
   )
 
   (module AV_Breakout_Continuity:StrainRelief (layer F.Cu) (tedit 5CC8B865) (tstamp 5CCA960C)
-    (at 236.22 116.84)
+    (at 156.21 115.57)
     (path /5CDA248B)
     (fp_text reference SR142 (at 2.5 0 90) (layer F.SilkS)
       (effects (font (size 1 1) (thickness 0.15)))
@@ -3985,7 +3987,7 @@
   )
 
   (module AV_Breakout_Continuity:StrainRelief (layer F.Cu) (tedit 5CC8B865) (tstamp 5CCA961C)
-    (at 238.76 129.54)
+    (at 158.75 128.27)
     (path /5CDA249A)
     (fp_text reference SR143 (at 2.5 0 90) (layer F.SilkS)
       (effects (font (size 1 1) (thickness 0.15)))
@@ -4010,7 +4012,7 @@
   )
 
   (module AV_Breakout_Continuity:StrainRelief (layer F.Cu) (tedit 5CC8B865) (tstamp 5CCA962C)
-    (at 241.3 116.84)
+    (at 161.29 115.57)
     (path /5CDA24A9)
     (fp_text reference SR144 (at 2.5 0 90) (layer F.SilkS)
       (effects (font (size 1 1) (thickness 0.15)))
@@ -4035,7 +4037,7 @@
   )
 
   (module AV_Breakout_Continuity:StrainRelief (layer F.Cu) (tedit 5CC8B865) (tstamp 5CCA963C)
-    (at 243.84 129.54)
+    (at 163.83 128.27)
     (path /5CDA24B8)
     (fp_text reference SR145 (at 2.5 0 90) (layer F.SilkS)
       (effects (font (size 1 1) (thickness 0.15)))
@@ -4060,7 +4062,7 @@
   )
 
   (module AV_Breakout_Continuity:StrainRelief (layer F.Cu) (tedit 5CC8B865) (tstamp 5CCA964C)
-    (at 210.82 116.84)
+    (at 130.81 115.57)
     (path /5CDA24C7)
     (fp_text reference SR146 (at 2.5 0 90) (layer F.SilkS)
       (effects (font (size 1 1) (thickness 0.15)))
@@ -4085,7 +4087,7 @@
   )
 
   (module AV_Breakout_Continuity:StrainRelief (layer F.Cu) (tedit 5CC8B865) (tstamp 5CCA965C)
-    (at 213.36 129.54)
+    (at 133.35 128.27)
     (path /5CDA24D6)
     (fp_text reference SR147 (at 2.5 0 90) (layer F.SilkS)
       (effects (font (size 1 1) (thickness 0.15)))
@@ -4110,7 +4112,7 @@
   )
 
   (module AV_Breakout_Continuity:StrainRelief (layer F.Cu) (tedit 5CC8B865) (tstamp 5CCA966C)
-    (at 215.9 116.84)
+    (at 135.89 115.57)
     (path /5CDA24E5)
     (fp_text reference SR148 (at 2.5 0 90) (layer F.SilkS)
       (effects (font (size 1 1) (thickness 0.15)))
@@ -4135,7 +4137,7 @@
   )
 
   (module AV_Breakout_Continuity:StrainRelief (layer F.Cu) (tedit 5CC8B865) (tstamp 5CCA967C)
-    (at 218.44 129.54)
+    (at 138.43 128.27)
     (path /5CDA24F4)
     (fp_text reference SR149 (at 2.5 0 90) (layer F.SilkS)
       (effects (font (size 1 1) (thickness 0.15)))
@@ -4260,7 +4262,7 @@
   )
 
   (module AV_Breakout_Continuity:StrainRelief (layer F.Cu) (tedit 5CC8B865) (tstamp 5CCA96CC)
-    (at 248.92 116.84)
+    (at 168.91 115.57)
     (path /5CDA253F)
     (fp_text reference SR154 (at 2.5 0 90) (layer F.SilkS)
       (effects (font (size 1 1) (thickness 0.15)))
@@ -4285,7 +4287,7 @@
   )
 
   (module AV_Breakout_Continuity:StrainRelief (layer F.Cu) (tedit 5CC8B865) (tstamp 5CCA96DC)
-    (at 251.46 129.54)
+    (at 171.45 128.27)
     (path /5CDA254E)
     (fp_text reference SR155 (at 2.5 0 90) (layer F.SilkS)
       (effects (font (size 1 1) (thickness 0.15)))
@@ -4310,7 +4312,7 @@
   )
 
   (module AV_Breakout_Continuity:StrainRelief (layer F.Cu) (tedit 5CC8B865) (tstamp 5CCA96EC)
-    (at 254 116.84)
+    (at 173.99 115.57)
     (path /5CDA255D)
     (fp_text reference SR156 (at 2.5 0 90) (layer F.SilkS)
       (effects (font (size 1 1) (thickness 0.15)))
@@ -4335,7 +4337,7 @@
   )
 
   (module AV_Breakout_Continuity:StrainRelief (layer F.Cu) (tedit 5CC8B865) (tstamp 5CCA96FC)
-    (at 256.54 129.54)
+    (at 176.53 128.27)
     (path /5CDA256C)
     (fp_text reference SR157 (at 2.5 0 90) (layer F.SilkS)
       (effects (font (size 1 1) (thickness 0.15)))
@@ -4360,7 +4362,7 @@
   )
 
   (module AV_Breakout_Continuity:StrainRelief (layer F.Cu) (tedit 5CC8B865) (tstamp 5CCA970C)
-    (at 182.88 116.84)
+    (at 102.87 115.57)
     (path /5CDA257B)
     (fp_text reference SR158 (at 2.5 0 90) (layer F.SilkS)
       (effects (font (size 1 1) (thickness 0.15)))
@@ -4385,7 +4387,7 @@
   )
 
   (module AV_Breakout_Continuity:StrainRelief (layer F.Cu) (tedit 5CC8B865) (tstamp 5CCA971C)
-    (at 185.42 129.54)
+    (at 105.41 128.27)
     (path /5CDA258A)
     (fp_text reference SR159 (at 2.5 0 90) (layer F.SilkS)
       (effects (font (size 1 1) (thickness 0.15)))
@@ -4410,7 +4412,7 @@
   )
 
   (module AV_Breakout_Continuity:StrainRelief (layer F.Cu) (tedit 5CC8B865) (tstamp 5CCA972C)
-    (at 187.96 116.76)
+    (at 107.95 115.49)
     (path /5CDA2599)
     (fp_text reference SR160 (at 2.5 0 90) (layer F.SilkS)
       (effects (font (size 1 1) (thickness 0.15)))
@@ -4435,7 +4437,7 @@
   )
 
   (module AV_Breakout_Continuity:StrainRelief (layer F.Cu) (tedit 5CC8B865) (tstamp 5CCA973C)
-    (at 170.18 116.84)
+    (at 90.17 115.57)
     (path /5CDA25A8)
     (fp_text reference SR161 (at 2.5 0 90) (layer F.SilkS)
       (effects (font (size 1 1) (thickness 0.15)))
@@ -4460,7 +4462,7 @@
   )
 
   (module AV_Breakout_Continuity:StrainRelief (layer F.Cu) (tedit 5CC8B865) (tstamp 5CCA974C)
-    (at 172.72 129.54)
+    (at 92.71 128.27)
     (path /5CDA25B7)
     (fp_text reference SR162 (at 2.5 0 90) (layer F.SilkS)
       (effects (font (size 1 1) (thickness 0.15)))
@@ -4485,7 +4487,7 @@
   )
 
   (module AV_Breakout_Continuity:StrainRelief (layer F.Cu) (tedit 5CC8B865) (tstamp 5CCA975C)
-    (at 175.26 116.84)
+    (at 95.25 115.57)
     (path /5CDA25C6)
     (fp_text reference SR163 (at 2.5 0 90) (layer F.SilkS)
       (effects (font (size 1 1) (thickness 0.15)))
@@ -4510,7 +4512,7 @@
   )
 
   (module AV_Breakout_Continuity:StrainRelief (layer F.Cu) (tedit 5CC8B865) (tstamp 5CCA976C)
-    (at 160.02 116.84)
+    (at 80.01 115.57)
     (path /5CDA25D5)
     (fp_text reference SR164 (at 2.5 0 90) (layer F.SilkS)
       (effects (font (size 1 1) (thickness 0.15)))
@@ -4535,7 +4537,7 @@
   )
 
   (module AV_Breakout_Continuity:StrainRelief (layer F.Cu) (tedit 5CC8B865) (tstamp 5CCA977C)
-    (at 162.56 129.54)
+    (at 82.55 128.27)
     (path /5CDA25E4)
     (fp_text reference SR165 (at 2.5 0 90) (layer F.SilkS)
       (effects (font (size 1 1) (thickness 0.15)))
@@ -4560,7 +4562,7 @@
   )
 
   (module AV_Breakout_Continuity:StrainRelief (layer F.Cu) (tedit 5CC8B865) (tstamp 5CCA978C)
-    (at 149.86 116.76)
+    (at 69.85 115.49)
     (path /5CDA25F3)
     (fp_text reference SR166 (at 2.5 0 90) (layer F.SilkS)
       (effects (font (size 1 1) (thickness 0.15)))
@@ -4585,7 +4587,7 @@
   )
 
   (module AV_Breakout_Continuity:StrainRelief (layer F.Cu) (tedit 5CC8B865) (tstamp 5CCA979C)
-    (at 152.4 129.54)
+    (at 72.39 128.27)
     (path /5CDA2602)
     (fp_text reference SR167 (at 2.5 0 90) (layer F.SilkS)
       (effects (font (size 1 1) (thickness 0.15)))
@@ -7028,5 +7030,52 @@
   (gr_text "Flight Board Programming" (at 104.14 39.37) (layer F.Cu)
     (effects (font (size 1.5 1.5) (thickness 0.3)))
   )
+
+  (segment (start 150.58 95.305) (end 150.58 94.04) (width 0.25) (layer F.Cu) (net 158))
+  (segment (start 145.555 100.33) (end 150.58 95.305) (width 0.25) (layer F.Cu) (net 158))
+  (segment (start 129.54 100.33) (end 145.555 100.33) (width 0.25) (layer F.Cu) (net 158))
+  (segment (start 123.19 106.68) (end 129.54 100.33) (width 0.25) (layer F.Cu) (net 158))
+  (segment (start 102.87 106.68) (end 123.19 106.68) (width 0.25) (layer F.Cu) (net 158))
+  (segment (start 102.87 110.57) (end 102.87 106.68) (width 0.25) (layer F.Cu) (net 158))
+  (segment (start 152.34 96.58) (end 155.66 96.58) (width 0.25) (layer F.Cu) (net 159))
+  (segment (start 147.32 101.6) (end 152.34 96.58) (width 0.25) (layer F.Cu) (net 159))
+  (segment (start 129.54 101.6) (end 147.32 101.6) (width 0.25) (layer F.Cu) (net 159))
+  (segment (start 123.19 107.95) (end 129.54 101.6) (width 0.25) (layer F.Cu) (net 159))
+  (segment (start 105.41 123.27) (end 105.41 107.95) (width 0.25) (layer F.Cu) (net 159))
+  (segment (start 105.41 107.95) (end 123.19 107.95) (width 0.25) (layer F.Cu) (net 159))
+  (segment (start 131.915 94.04) (end 132.8 94.04) (width 0.25) (layer F.Cu) (net 161))
+  (segment (start 123.085 102.87) (end 131.915 94.04) (width 0.25) (layer F.Cu) (net 161))
+  (segment (start 90.17 102.87) (end 123.085 102.87) (width 0.25) (layer F.Cu) (net 161))
+  (segment (start 90.17 110.57) (end 90.17 102.87) (width 0.25) (layer F.Cu) (net 161))
+  (segment (start 130.75 96.58) (end 137.88 96.58) (width 0.25) (layer F.Cu) (net 162))
+  (segment (start 123.19 104.14) (end 130.75 96.58) (width 0.25) (layer F.Cu) (net 162))
+  (segment (start 92.71 123.27) (end 92.71 104.14) (width 0.25) (layer F.Cu) (net 162))
+  (segment (start 92.71 104.14) (end 123.19 104.14) (width 0.25) (layer F.Cu) (net 162))
+  (segment (start 142.96 98.34) (end 142.96 94.04) (width 0.25) (layer F.Cu) (net 163))
+  (segment (start 142.24 99.06) (end 142.96 98.34) (width 0.25) (layer F.Cu) (net 163))
+  (segment (start 129.54 99.06) (end 142.24 99.06) (width 0.25) (layer F.Cu) (net 163))
+  (segment (start 123.19 105.41) (end 129.54 99.06) (width 0.25) (layer F.Cu) (net 163))
+  (segment (start 95.25 110.57) (end 95.25 105.41) (width 0.25) (layer F.Cu) (net 163))
+  (segment (start 95.25 105.41) (end 123.19 105.41) (width 0.25) (layer F.Cu) (net 163))
+  (segment (start 114.24 96.58) (end 120.1 96.58) (width 0.25) (layer F.Cu) (net 164))
+  (segment (start 110.49 100.33) (end 114.24 96.58) (width 0.25) (layer F.Cu) (net 164))
+  (segment (start 86.36 100.33) (end 110.49 100.33) (width 0.25) (layer F.Cu) (net 164))
+  (segment (start 80.01 110.57) (end 80.01 106.68) (width 0.25) (layer F.Cu) (net 164))
+  (segment (start 80.01 106.68) (end 86.36 100.33) (width 0.25) (layer F.Cu) (net 164))
+  (segment (start 125.18 97.07) (end 125.18 94.04) (width 0.25) (layer F.Cu) (net 165))
+  (segment (start 120.65 101.6) (end 125.18 97.07) (width 0.25) (layer F.Cu) (net 165))
+  (segment (start 87.63 101.6) (end 120.65 101.6) (width 0.25) (layer F.Cu) (net 165))
+  (segment (start 82.55 123.27) (end 82.55 106.68) (width 0.25) (layer F.Cu) (net 165))
+  (segment (start 82.55 106.68) (end 87.63 101.6) (width 0.25) (layer F.Cu) (net 165))
+  (segment (start 101.99 96.52) (end 104.14 96.52) (width 0.25) (layer F.Cu) (net 166))
+  (segment (start 85.07 96.52) (end 101.99 96.52) (width 0.25) (layer F.Cu) (net 166))
+  (segment (start 71.1 110.49) (end 85.07 96.52) (width 0.25) (layer F.Cu) (net 166))
+  (segment (start 69.85 110.49) (end 71.1 110.49) (width 0.25) (layer F.Cu) (net 166))
+  (segment (start 76.2 107.95) (end 72.39 111.76) (width 0.25) (layer F.Cu) (net 167))
+  (segment (start 109.94 94.04) (end 109.94 95.8) (width 0.25) (layer F.Cu) (net 167))
+  (segment (start 109.94 95.8) (end 106.68 99.06) (width 0.25) (layer F.Cu) (net 167))
+  (segment (start 72.39 111.76) (end 72.39 123.27) (width 0.25) (layer F.Cu) (net 167))
+  (segment (start 106.68 99.06) (end 85.09 99.06) (width 0.25) (layer F.Cu) (net 167))
+  (segment (start 85.09 99.06) (end 76.2 107.95) (width 0.25) (layer F.Cu) (net 167))
 
 )
