@@ -1,4 +1,4 @@
-16553198320267538
+16554756204636284
 AV_Breakout_Continuity
 StrainRelief
 
@@ -8,6 +8,13 @@ StrainRelief
 3
 AV_Breakout_Continuity
 TestPoint
+
+
+0
+1
+1
+AV_Breakout_Continuity
+TP_Through
 
 
 0

@@ -1,5 +1,5 @@
-(module TestPoint (layer F.Cu) (tedit 5CD20ED9)
-  (fp_text reference TP?? (at 0 2.5) (layer F.SilkS)
+(module TestPoint (layer F.Cu) (tedit 5CD4B0B0)
+  (fp_text reference "" (at 0 2.5) (layer F.SilkS) hide
     (effects (font (size 1 1) (thickness 0.15)))
   )
   (fp_text value TestPoint (at 0 -2.5) (layer F.Fab) hide
