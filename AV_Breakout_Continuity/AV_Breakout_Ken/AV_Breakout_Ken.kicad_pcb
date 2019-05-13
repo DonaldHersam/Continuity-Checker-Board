@@ -104,7 +104,7 @@
   (module Source_Footprints:PC_Test_Point_Mini_3.8x2.03mm (layer F.Cu) (tedit 5A983F1D) (tstamp 5CC33244)
     (at 152.4 35.56)
     (descr file:///C:/Users/chad_rosencrans/Downloads/5029.PDF)
-    (fp_text reference " " (at 0 -2.06) (layer F.SilkS)
+    (fp_text reference " " (at 0 -2.06) (layer F.SilkS) hide
       (effects (font (size 1 1) (thickness 0.15)))
     )
     (fp_text value " " (at 0 2.18) (layer F.Fab)
@@ -135,7 +135,7 @@
   (module Source_Footprints:PC_Test_Point_Mini_3.8x2.03mm (layer F.Cu) (tedit 5A983F1D) (tstamp 5CC3322F)
     (at 139.7 35.56)
     (descr file:///C:/Users/chad_rosencrans/Downloads/5029.PDF)
-    (fp_text reference " " (at 0 -2.06) (layer F.SilkS)
+    (fp_text reference " " (at 0 -2.06) (layer F.SilkS) hide
       (effects (font (size 1 1) (thickness 0.15)))
     )
     (fp_text value " " (at 0 2.18) (layer F.Fab)
@@ -166,7 +166,7 @@
   (module Source_Footprints:PC_Test_Point_Mini_3.8x2.03mm (layer F.Cu) (tedit 5A983F1D) (tstamp 5CC3321A)
     (at 133.35 35.56)
     (descr file:///C:/Users/chad_rosencrans/Downloads/5029.PDF)
-    (fp_text reference " " (at 0 -2.06) (layer F.SilkS)
+    (fp_text reference " " (at 0 -2.06) (layer F.SilkS) hide
       (effects (font (size 1 1) (thickness 0.15)))
     )
     (fp_text value " " (at 0 2.18) (layer F.Fab)
@@ -197,7 +197,7 @@
   (module Source_Footprints:PC_Test_Point_Mini_3.8x2.03mm (layer F.Cu) (tedit 5A983F1D) (tstamp 5CC33205)
     (at 120.65 35.56)
     (descr file:///C:/Users/chad_rosencrans/Downloads/5029.PDF)
-    (fp_text reference " " (at 0 -2.06) (layer F.SilkS)
+    (fp_text reference " " (at 0 -2.06) (layer F.SilkS) hide
       (effects (font (size 1 1) (thickness 0.15)))
     )
     (fp_text value " " (at 0 2.18) (layer F.Fab)
@@ -228,7 +228,7 @@
   (module Source_Footprints:PC_Test_Point_Mini_3.8x2.03mm (layer F.Cu) (tedit 5A983F1D) (tstamp 5CC331F0)
     (at 146.05 35.56)
     (descr file:///C:/Users/chad_rosencrans/Downloads/5029.PDF)
-    (fp_text reference " " (at 0 -2.06) (layer F.SilkS)
+    (fp_text reference " " (at 0 -2.06) (layer F.SilkS) hide
       (effects (font (size 1 1) (thickness 0.15)))
     )
     (fp_text value " " (at 0 2.18) (layer F.Fab)
@@ -259,7 +259,7 @@
   (module Source_Footprints:PC_Test_Point_Mini_3.8x2.03mm (layer F.Cu) (tedit 5A983F1D) (tstamp 5CC331D8)
     (at 143.51 41.91)
     (descr file:///C:/Users/chad_rosencrans/Downloads/5029.PDF)
-    (fp_text reference " " (at 0 -2.06) (layer F.SilkS)
+    (fp_text reference " " (at 0 -2.06) (layer F.SilkS) hide
       (effects (font (size 1 1) (thickness 0.15)))
     )
     (fp_text value " " (at 0 2.18) (layer F.Fab)
@@ -290,7 +290,7 @@
   (module Source_Footprints:PC_Test_Point_Mini_3.8x2.03mm (layer F.Cu) (tedit 5A983F1D) (tstamp 5CC331C3)
     (at 118.11 41.91)
     (descr file:///C:/Users/chad_rosencrans/Downloads/5029.PDF)
-    (fp_text reference " " (at 0 -2.06) (layer F.SilkS)
+    (fp_text reference " " (at 0 -2.06) (layer F.SilkS) hide
       (effects (font (size 1 1) (thickness 0.15)))
     )
     (fp_text value " " (at 0 2.18) (layer F.Fab)
@@ -321,7 +321,7 @@
   (module Source_Footprints:PC_Test_Point_Mini_3.8x2.03mm (layer F.Cu) (tedit 5A983F1D) (tstamp 5CC331AE)
     (at 137.16 41.91)
     (descr file:///C:/Users/chad_rosencrans/Downloads/5029.PDF)
-    (fp_text reference " " (at 0 -2.06) (layer F.SilkS)
+    (fp_text reference " " (at 0 -2.06) (layer F.SilkS) hide
       (effects (font (size 1 1) (thickness 0.15)))
     )
     (fp_text value " " (at 0 2.18) (layer F.Fab)
@@ -352,7 +352,7 @@
   (module Source_Footprints:PC_Test_Point_Mini_3.8x2.03mm (layer F.Cu) (tedit 5A983F1D) (tstamp 5CC33199)
     (at 130.81 41.91)
     (descr file:///C:/Users/chad_rosencrans/Downloads/5029.PDF)
-    (fp_text reference " " (at 0 -2.06) (layer F.SilkS)
+    (fp_text reference " " (at 0 -2.06) (layer F.SilkS) hide
       (effects (font (size 1 1) (thickness 0.15)))
     )
     (fp_text value " " (at 0 2.18) (layer F.Fab)
@@ -383,7 +383,7 @@
   (module Source_Footprints:PC_Test_Point_Mini_3.8x2.03mm (layer F.Cu) (tedit 5A983F1D) (tstamp 5CC33184)
     (at 127 35.56)
     (descr file:///C:/Users/chad_rosencrans/Downloads/5029.PDF)
-    (fp_text reference " " (at 0 -2.06) (layer F.SilkS)
+    (fp_text reference " " (at 0 -2.06) (layer F.SilkS) hide
       (effects (font (size 1 1) (thickness 0.15)))
     )
     (fp_text value " " (at 0 2.18) (layer F.Fab)
@@ -414,7 +414,7 @@
   (module Source_Footprints:PC_Test_Point_Mini_3.8x2.03mm (layer F.Cu) (tedit 5A983F1D) (tstamp 5CC3316F)
     (at 149.86 41.91)
     (descr file:///C:/Users/chad_rosencrans/Downloads/5029.PDF)
-    (fp_text reference " " (at 0 -2.06) (layer F.SilkS)
+    (fp_text reference " " (at 0 -2.06) (layer F.SilkS) hide
       (effects (font (size 1 1) (thickness 0.15)))
     )
     (fp_text value " " (at 0 2.18) (layer F.Fab)
@@ -445,7 +445,7 @@
   (module Source_Footprints:PC_Test_Point_Mini_3.8x2.03mm (layer F.Cu) (tedit 5A983F1D) (tstamp 5CC3315A)
     (at 124.46 41.91)
     (descr file:///C:/Users/chad_rosencrans/Downloads/5029.PDF)
-    (fp_text reference " " (at 0 -2.06) (layer F.SilkS)
+    (fp_text reference " " (at 0 -2.06) (layer F.SilkS) hide
       (effects (font (size 1 1) (thickness 0.15)))
     )
     (fp_text value " " (at 0 2.18) (layer F.Fab)
@@ -476,7 +476,7 @@
   (module Source_Footprints:PC_Test_Point_Mini_3.8x2.03mm (layer F.Cu) (tedit 5A983F1D) (tstamp 5CC33145)
     (at 124.46 29.21)
     (descr file:///C:/Users/chad_rosencrans/Downloads/5029.PDF)
-    (fp_text reference " " (at 0 -2.06) (layer F.SilkS)
+    (fp_text reference " " (at 0 -2.06) (layer F.SilkS) hide
       (effects (font (size 1 1) (thickness 0.15)))
     )
     (fp_text value " " (at 0 2.18) (layer F.Fab)
@@ -507,7 +507,7 @@
   (module Source_Footprints:PC_Test_Point_Mini_3.8x2.03mm (layer F.Cu) (tedit 5A983F1D) (tstamp 5CC33130)
     (at 149.86 29.21)
     (descr file:///C:/Users/chad_rosencrans/Downloads/5029.PDF)
-    (fp_text reference " " (at 0 -2.06) (layer F.SilkS)
+    (fp_text reference " " (at 0 -2.06) (layer F.SilkS) hide
       (effects (font (size 1 1) (thickness 0.15)))
     )
     (fp_text value " " (at 0 2.18) (layer F.Fab)
@@ -538,7 +538,7 @@
   (module Source_Footprints:PC_Test_Point_Mini_3.8x2.03mm (layer F.Cu) (tedit 5A983F1D) (tstamp 5CC3311B)
     (at 130.81 29.21)
     (descr file:///C:/Users/chad_rosencrans/Downloads/5029.PDF)
-    (fp_text reference " " (at 0 -2.06) (layer F.SilkS)
+    (fp_text reference " " (at 0 -2.06) (layer F.SilkS) hide
       (effects (font (size 1 1) (thickness 0.15)))
     )
     (fp_text value " " (at 0 2.18) (layer F.Fab)
@@ -569,7 +569,7 @@
   (module Source_Footprints:PC_Test_Point_Mini_3.8x2.03mm (layer F.Cu) (tedit 5A983F1D) (tstamp 5CC33106)
     (at 118.11 29.21)
     (descr file:///C:/Users/chad_rosencrans/Downloads/5029.PDF)
-    (fp_text reference " " (at 0 -2.06) (layer F.SilkS)
+    (fp_text reference " " (at 0 -2.06) (layer F.SilkS) hide
       (effects (font (size 1 1) (thickness 0.15)))
     )
     (fp_text value " " (at 0 2.18) (layer F.Fab)
@@ -600,7 +600,7 @@
   (module Source_Footprints:PC_Test_Point_Mini_3.8x2.03mm (layer F.Cu) (tedit 5A983F1D) (tstamp 5CC330F1)
     (at 137.16 29.21)
     (descr file:///C:/Users/chad_rosencrans/Downloads/5029.PDF)
-    (fp_text reference " " (at 0 -2.06) (layer F.SilkS)
+    (fp_text reference " " (at 0 -2.06) (layer F.SilkS) hide
       (effects (font (size 1 1) (thickness 0.15)))
     )
     (fp_text value " " (at 0 2.18) (layer F.Fab)
@@ -631,7 +631,7 @@
   (module Source_Footprints:PC_Test_Point_Mini_3.8x2.03mm (layer F.Cu) (tedit 5A983F1D) (tstamp 5CC330DC)
     (at 143.51 29.21)
     (descr file:///C:/Users/chad_rosencrans/Downloads/5029.PDF)
-    (fp_text reference " " (at 0 -2.06) (layer F.SilkS)
+    (fp_text reference " " (at 0 -2.06) (layer F.SilkS) hide
       (effects (font (size 1 1) (thickness 0.15)))
     )
     (fp_text value " " (at 0 2.18) (layer F.Fab)
@@ -662,7 +662,7 @@
   (module Source_Footprints:PC_Test_Point_Mini_3.8x2.03mm (layer F.Cu) (tedit 5A983F1D) (tstamp 5CC33244)
     (at 104.14 35.56)
     (descr file:///C:/Users/chad_rosencrans/Downloads/5029.PDF)
-    (fp_text reference " " (at 0 -2.06) (layer F.SilkS)
+    (fp_text reference " " (at 0 -2.06) (layer F.SilkS) hide
       (effects (font (size 1 1) (thickness 0.15)))
     )
     (fp_text value " " (at 0 2.18) (layer F.Fab)
@@ -693,7 +693,7 @@
   (module Source_Footprints:PC_Test_Point_Mini_3.8x2.03mm (layer F.Cu) (tedit 5A983F1D) (tstamp 5CC3322F)
     (at 91.44 35.56)
     (descr file:///C:/Users/chad_rosencrans/Downloads/5029.PDF)
-    (fp_text reference " " (at 0 -2.06) (layer F.SilkS)
+    (fp_text reference " " (at 0 -2.06) (layer F.SilkS) hide
       (effects (font (size 1 1) (thickness 0.15)))
     )
     (fp_text value " " (at 0 2.18) (layer F.Fab)
@@ -724,7 +724,7 @@
   (module Source_Footprints:PC_Test_Point_Mini_3.8x2.03mm (layer F.Cu) (tedit 5A983F1D) (tstamp 5CC3321A)
     (at 85.09 35.56)
     (descr file:///C:/Users/chad_rosencrans/Downloads/5029.PDF)
-    (fp_text reference " " (at 0 -2.06) (layer F.SilkS)
+    (fp_text reference " " (at 0 -2.06) (layer F.SilkS) hide
       (effects (font (size 1 1) (thickness 0.15)))
     )
     (fp_text value " " (at 0 2.18) (layer F.Fab)
@@ -755,7 +755,7 @@
   (module Source_Footprints:PC_Test_Point_Mini_3.8x2.03mm (layer F.Cu) (tedit 5A983F1D) (tstamp 5CC33205)
     (at 72.39 35.56)
     (descr file:///C:/Users/chad_rosencrans/Downloads/5029.PDF)
-    (fp_text reference " " (at 0 -2.06) (layer F.SilkS)
+    (fp_text reference " " (at 0 -2.06) (layer F.SilkS) hide
       (effects (font (size 1 1) (thickness 0.15)))
     )
     (fp_text value " " (at 0 2.18) (layer F.Fab)
@@ -786,7 +786,7 @@
   (module Source_Footprints:PC_Test_Point_Mini_3.8x2.03mm (layer F.Cu) (tedit 5A983F1D) (tstamp 5CC331F0)
     (at 97.79 35.56)
     (descr file:///C:/Users/chad_rosencrans/Downloads/5029.PDF)
-    (fp_text reference " " (at 0 -2.06) (layer F.SilkS)
+    (fp_text reference " " (at 0 -2.06) (layer F.SilkS) hide
       (effects (font (size 1 1) (thickness 0.15)))
     )
     (fp_text value " " (at 0 2.18) (layer F.Fab)
@@ -817,7 +817,7 @@
   (module Source_Footprints:PC_Test_Point_Mini_3.8x2.03mm (layer F.Cu) (tedit 5A983F1D) (tstamp 5CC331D8)
     (at 95.25 41.91)
     (descr file:///C:/Users/chad_rosencrans/Downloads/5029.PDF)
-    (fp_text reference " " (at 0 -2.06) (layer F.SilkS)
+    (fp_text reference " " (at 0 -2.06) (layer F.SilkS) hide
       (effects (font (size 1 1) (thickness 0.15)))
     )
     (fp_text value " " (at 0 2.18) (layer F.Fab)
@@ -848,7 +848,7 @@
   (module Source_Footprints:PC_Test_Point_Mini_3.8x2.03mm (layer F.Cu) (tedit 5A983F1D) (tstamp 5CC331C3)
     (at 69.85 41.91)
     (descr file:///C:/Users/chad_rosencrans/Downloads/5029.PDF)
-    (fp_text reference " " (at 0 -2.06) (layer F.SilkS)
+    (fp_text reference " " (at 0 -2.06) (layer F.SilkS) hide
       (effects (font (size 1 1) (thickness 0.15)))
     )
     (fp_text value " " (at 0 2.18) (layer F.Fab)
@@ -879,7 +879,7 @@
   (module Source_Footprints:PC_Test_Point_Mini_3.8x2.03mm (layer F.Cu) (tedit 5A983F1D) (tstamp 5CC331AE)
     (at 88.9 41.91)
     (descr file:///C:/Users/chad_rosencrans/Downloads/5029.PDF)
-    (fp_text reference " " (at 0 -2.06) (layer F.SilkS)
+    (fp_text reference " " (at 0 -2.06) (layer F.SilkS) hide
       (effects (font (size 1 1) (thickness 0.15)))
     )
     (fp_text value " " (at 0 2.18) (layer F.Fab)
@@ -910,7 +910,7 @@
   (module Source_Footprints:PC_Test_Point_Mini_3.8x2.03mm (layer F.Cu) (tedit 5A983F1D) (tstamp 5CC33199)
     (at 82.55 41.91)
     (descr file:///C:/Users/chad_rosencrans/Downloads/5029.PDF)
-    (fp_text reference " " (at 0 -2.06) (layer F.SilkS)
+    (fp_text reference " " (at 0 -2.06) (layer F.SilkS) hide
       (effects (font (size 1 1) (thickness 0.15)))
     )
     (fp_text value " " (at 0 2.18) (layer F.Fab)
@@ -941,7 +941,7 @@
   (module Source_Footprints:PC_Test_Point_Mini_3.8x2.03mm (layer F.Cu) (tedit 5A983F1D) (tstamp 5CC33184)
     (at 78.74 35.56)
     (descr file:///C:/Users/chad_rosencrans/Downloads/5029.PDF)
-    (fp_text reference " " (at 0 -2.06) (layer F.SilkS)
+    (fp_text reference " " (at 0 -2.06) (layer F.SilkS) hide
       (effects (font (size 1 1) (thickness 0.15)))
     )
     (fp_text value " " (at 0 2.18) (layer F.Fab)
@@ -972,7 +972,7 @@
   (module Source_Footprints:PC_Test_Point_Mini_3.8x2.03mm (layer F.Cu) (tedit 5A983F1D) (tstamp 5CC3316F)
     (at 101.6 41.91)
     (descr file:///C:/Users/chad_rosencrans/Downloads/5029.PDF)
-    (fp_text reference " " (at 0 -2.06) (layer F.SilkS)
+    (fp_text reference " " (at 0 -2.06) (layer F.SilkS) hide
       (effects (font (size 1 1) (thickness 0.15)))
     )
     (fp_text value " " (at 0 2.18) (layer F.Fab)
@@ -1003,7 +1003,7 @@
   (module Source_Footprints:PC_Test_Point_Mini_3.8x2.03mm (layer F.Cu) (tedit 5A983F1D) (tstamp 5CC3315A)
     (at 76.2 41.91)
     (descr file:///C:/Users/chad_rosencrans/Downloads/5029.PDF)
-    (fp_text reference " " (at 0 -2.06) (layer F.SilkS)
+    (fp_text reference " " (at 0 -2.06) (layer F.SilkS) hide
       (effects (font (size 1 1) (thickness 0.15)))
     )
     (fp_text value " " (at 0 2.18) (layer F.Fab)
@@ -1034,7 +1034,7 @@
   (module Source_Footprints:PC_Test_Point_Mini_3.8x2.03mm (layer F.Cu) (tedit 5A983F1D) (tstamp 5CC33145)
     (at 76.2 29.21)
     (descr file:///C:/Users/chad_rosencrans/Downloads/5029.PDF)
-    (fp_text reference " " (at 0 -2.06) (layer F.SilkS)
+    (fp_text reference " " (at 0 -2.06) (layer F.SilkS) hide
       (effects (font (size 1 1) (thickness 0.15)))
     )
     (fp_text value " " (at 0 2.18) (layer F.Fab)
@@ -1065,7 +1065,7 @@
   (module Source_Footprints:PC_Test_Point_Mini_3.8x2.03mm (layer F.Cu) (tedit 5A983F1D) (tstamp 5CC33130)
     (at 101.6 29.21)
     (descr file:///C:/Users/chad_rosencrans/Downloads/5029.PDF)
-    (fp_text reference " " (at 0 -2.06) (layer F.SilkS)
+    (fp_text reference " " (at 0 -2.06) (layer F.SilkS) hide
       (effects (font (size 1 1) (thickness 0.15)))
     )
     (fp_text value " " (at 0 2.18) (layer F.Fab)
@@ -1096,7 +1096,7 @@
   (module Source_Footprints:PC_Test_Point_Mini_3.8x2.03mm (layer F.Cu) (tedit 5A983F1D) (tstamp 5CC3311B)
     (at 82.55 29.21)
     (descr file:///C:/Users/chad_rosencrans/Downloads/5029.PDF)
-    (fp_text reference " " (at 0 -2.06) (layer F.SilkS)
+    (fp_text reference " " (at 0 -2.06) (layer F.SilkS) hide
       (effects (font (size 1 1) (thickness 0.15)))
     )
     (fp_text value " " (at 0 2.18) (layer F.Fab)
@@ -1127,7 +1127,7 @@
   (module Source_Footprints:PC_Test_Point_Mini_3.8x2.03mm (layer F.Cu) (tedit 5A983F1D) (tstamp 5CC33106)
     (at 69.85 29.21)
     (descr file:///C:/Users/chad_rosencrans/Downloads/5029.PDF)
-    (fp_text reference " " (at 0 -2.06) (layer F.SilkS)
+    (fp_text reference " " (at 0 -2.06) (layer F.SilkS) hide
       (effects (font (size 1 1) (thickness 0.15)))
     )
     (fp_text value " " (at 0 2.18) (layer F.Fab)
@@ -1158,7 +1158,7 @@
   (module Source_Footprints:PC_Test_Point_Mini_3.8x2.03mm (layer F.Cu) (tedit 5A983F1D) (tstamp 5CC330F1)
     (at 88.9 29.21)
     (descr file:///C:/Users/chad_rosencrans/Downloads/5029.PDF)
-    (fp_text reference " " (at 0 -2.06) (layer F.SilkS)
+    (fp_text reference " " (at 0 -2.06) (layer F.SilkS) hide
       (effects (font (size 1 1) (thickness 0.15)))
     )
     (fp_text value " " (at 0 2.18) (layer F.Fab)
@@ -1189,7 +1189,7 @@
   (module Source_Footprints:PC_Test_Point_Mini_3.8x2.03mm (layer F.Cu) (tedit 5A983F1D) (tstamp 5CC330DC)
     (at 95.25 29.21)
     (descr file:///C:/Users/chad_rosencrans/Downloads/5029.PDF)
-    (fp_text reference " " (at 0 -2.06) (layer F.SilkS)
+    (fp_text reference " " (at 0 -2.06) (layer F.SilkS) hide
       (effects (font (size 1 1) (thickness 0.15)))
     )
     (fp_text value " " (at 0 2.18) (layer F.Fab)
@@ -1220,7 +1220,7 @@
   (module Source_Footprints:PC_Test_Point_Mini_3.8x2.03mm (layer F.Cu) (tedit 5A983F1D) (tstamp 5CC32E2F)
     (at 26.67 41.91)
     (descr file:///C:/Users/chad_rosencrans/Downloads/5029.PDF)
-    (fp_text reference " " (at 0 -2.06) (layer F.SilkS)
+    (fp_text reference " " (at 0 -2.06) (layer F.SilkS) hide
       (effects (font (size 1 1) (thickness 0.15)))
     )
     (fp_text value " " (at 0 2.18) (layer F.Fab)
@@ -1251,7 +1251,7 @@
   (module Source_Footprints:PC_Test_Point_Mini_3.8x2.03mm (layer F.Cu) (tedit 5A983F1D) (tstamp 5CC32E1A)
     (at 52.07 41.91)
     (descr file:///C:/Users/chad_rosencrans/Downloads/5029.PDF)
-    (fp_text reference " " (at 0 -2.06) (layer F.SilkS)
+    (fp_text reference " " (at 0 -2.06) (layer F.SilkS) hide
       (effects (font (size 1 1) (thickness 0.15)))
     )
     (fp_text value " " (at 0 2.18) (layer F.Fab)
@@ -1282,7 +1282,7 @@
   (module Source_Footprints:PC_Test_Point_Mini_3.8x2.03mm (layer F.Cu) (tedit 5A983F1D) (tstamp 5CC32E05)
     (at 33.02 41.91)
     (descr file:///C:/Users/chad_rosencrans/Downloads/5029.PDF)
-    (fp_text reference " " (at 0 -2.06) (layer F.SilkS)
+    (fp_text reference " " (at 0 -2.06) (layer F.SilkS) hide
       (effects (font (size 1 1) (thickness 0.15)))
     )
     (fp_text value " " (at 0 2.18) (layer F.Fab)
@@ -1313,7 +1313,7 @@
   (module Source_Footprints:PC_Test_Point_Mini_3.8x2.03mm (layer F.Cu) (tedit 5A983F1D) (tstamp 5CC32DF0)
     (at 20.32 41.91)
     (descr file:///C:/Users/chad_rosencrans/Downloads/5029.PDF)
-    (fp_text reference " " (at 0 -2.06) (layer F.SilkS)
+    (fp_text reference " " (at 0 -2.06) (layer F.SilkS) hide
       (effects (font (size 1 1) (thickness 0.15)))
     )
     (fp_text value " " (at 0 2.18) (layer F.Fab)
@@ -1344,7 +1344,7 @@
   (module Source_Footprints:PC_Test_Point_Mini_3.8x2.03mm (layer F.Cu) (tedit 5A983F1D) (tstamp 5CC32DDB)
     (at 39.37 41.91)
     (descr file:///C:/Users/chad_rosencrans/Downloads/5029.PDF)
-    (fp_text reference " " (at 0 -2.06) (layer F.SilkS)
+    (fp_text reference " " (at 0 -2.06) (layer F.SilkS) hide
       (effects (font (size 1 1) (thickness 0.15)))
     )
     (fp_text value " " (at 0 2.18) (layer F.Fab)
@@ -1375,7 +1375,7 @@
   (module Source_Footprints:PC_Test_Point_Mini_3.8x2.03mm (layer F.Cu) (tedit 5A983F1D) (tstamp 5CC32DC6)
     (at 45.72 41.91)
     (descr file:///C:/Users/chad_rosencrans/Downloads/5029.PDF)
-    (fp_text reference " " (at 0 -2.06) (layer F.SilkS)
+    (fp_text reference " " (at 0 -2.06) (layer F.SilkS) hide
       (effects (font (size 1 1) (thickness 0.15)))
     )
     (fp_text value " " (at 0 2.18) (layer F.Fab)
@@ -1406,7 +1406,7 @@
   (module Source_Footprints:PC_Test_Point_Mini_3.8x2.03mm (layer F.Cu) (tedit 5A983F1D) (tstamp 5CC32E2F)
     (at 29.21 35.56)
     (descr file:///C:/Users/chad_rosencrans/Downloads/5029.PDF)
-    (fp_text reference " " (at 0 -2.06) (layer F.SilkS)
+    (fp_text reference " " (at 0 -2.06) (layer F.SilkS) hide
       (effects (font (size 1 1) (thickness 0.15)))
     )
     (fp_text value " " (at 0 2.18) (layer F.Fab)
@@ -1437,7 +1437,7 @@
   (module Source_Footprints:PC_Test_Point_Mini_3.8x2.03mm (layer F.Cu) (tedit 5A983F1D) (tstamp 5CC32E1A)
     (at 54.61 35.56)
     (descr file:///C:/Users/chad_rosencrans/Downloads/5029.PDF)
-    (fp_text reference " " (at 0 -2.06) (layer F.SilkS)
+    (fp_text reference " " (at 0 -2.06) (layer F.SilkS) hide
       (effects (font (size 1 1) (thickness 0.15)))
     )
     (fp_text value " " (at 0 2.18) (layer F.Fab)
@@ -1468,7 +1468,7 @@
   (module Source_Footprints:PC_Test_Point_Mini_3.8x2.03mm (layer F.Cu) (tedit 5A983F1D) (tstamp 5CC32E05)
     (at 35.56 35.56)
     (descr file:///C:/Users/chad_rosencrans/Downloads/5029.PDF)
-    (fp_text reference " " (at 0 -2.06) (layer F.SilkS)
+    (fp_text reference " " (at 0 -2.06) (layer F.SilkS) hide
       (effects (font (size 1 1) (thickness 0.15)))
     )
     (fp_text value " " (at 0 2.18) (layer F.Fab)
@@ -1499,7 +1499,7 @@
   (module Source_Footprints:PC_Test_Point_Mini_3.8x2.03mm (layer F.Cu) (tedit 5A983F1D) (tstamp 5CC32DF0)
     (at 22.86 35.56)
     (descr file:///C:/Users/chad_rosencrans/Downloads/5029.PDF)
-    (fp_text reference " " (at 0 -2.06) (layer F.SilkS)
+    (fp_text reference " " (at 0 -2.06) (layer F.SilkS) hide
       (effects (font (size 1 1) (thickness 0.15)))
     )
     (fp_text value " " (at 0 2.18) (layer F.Fab)
@@ -1530,7 +1530,7 @@
   (module Source_Footprints:PC_Test_Point_Mini_3.8x2.03mm (layer F.Cu) (tedit 5A983F1D) (tstamp 5CC32DDB)
     (at 41.91 35.56)
     (descr file:///C:/Users/chad_rosencrans/Downloads/5029.PDF)
-    (fp_text reference " " (at 0 -2.06) (layer F.SilkS)
+    (fp_text reference " " (at 0 -2.06) (layer F.SilkS) hide
       (effects (font (size 1 1) (thickness 0.15)))
     )
     (fp_text value " " (at 0 2.18) (layer F.Fab)
@@ -1561,7 +1561,7 @@
   (module Source_Footprints:PC_Test_Point_Mini_3.8x2.03mm (layer F.Cu) (tedit 5A983F1D) (tstamp 5CC32DC6)
     (at 48.26 35.56)
     (descr file:///C:/Users/chad_rosencrans/Downloads/5029.PDF)
-    (fp_text reference " " (at 0 -2.06) (layer F.SilkS)
+    (fp_text reference " " (at 0 -2.06) (layer F.SilkS) hide
       (effects (font (size 1 1) (thickness 0.15)))
     )
     (fp_text value " " (at 0 2.18) (layer F.Fab)
@@ -1592,7 +1592,7 @@
   (module Source_Footprints:PC_Test_Point_Mini_3.8x2.03mm (layer F.Cu) (tedit 5A983F1D) (tstamp 5CC38210)
     (at 52.07 29.21)
     (descr file:///C:/Users/chad_rosencrans/Downloads/5029.PDF)
-    (fp_text reference " " (at 0 -2.06) (layer F.SilkS)
+    (fp_text reference " " (at 0 -2.06) (layer F.SilkS) hide
       (effects (font (size 1 1) (thickness 0.15)))
     )
     (fp_text value " " (at 0 2.18) (layer F.Fab)
@@ -1623,7 +1623,7 @@
   (module Source_Footprints:PC_Test_Point_Mini_3.8x2.03mm (layer F.Cu) (tedit 5A983F1D) (tstamp 5CC38258)
     (at 20.32 29.21)
     (descr file:///C:/Users/chad_rosencrans/Downloads/5029.PDF)
-    (fp_text reference " " (at 0 -2.06) (layer F.SilkS)
+    (fp_text reference " " (at 0 -2.06) (layer F.SilkS) hide
       (effects (font (size 1 1) (thickness 0.15)))
     )
     (fp_text value " " (at 0 2.18) (layer F.Fab)
@@ -1654,7 +1654,7 @@
   (module Source_Footprints:PC_Test_Point_Mini_3.8x2.03mm (layer F.Cu) (tedit 5A983F1D) (tstamp 5CC38225)
     (at 33.02 29.21)
     (descr file:///C:/Users/chad_rosencrans/Downloads/5029.PDF)
-    (fp_text reference " " (at 0 -2.06) (layer F.SilkS)
+    (fp_text reference " " (at 0 -2.06) (layer F.SilkS) hide
       (effects (font (size 1 1) (thickness 0.15)))
     )
     (fp_text value " " (at 0 2.18) (layer F.Fab)
@@ -1685,7 +1685,7 @@
   (module Source_Footprints:PC_Test_Point_Mini_3.8x2.03mm (layer F.Cu) (tedit 5A983F1D) (tstamp 5CC381E6)
     (at 26.67 29.21)
     (descr file:///C:/Users/chad_rosencrans/Downloads/5029.PDF)
-    (fp_text reference " " (at 0 -2.06) (layer F.SilkS)
+    (fp_text reference " " (at 0 -2.06) (layer F.SilkS) hide
       (effects (font (size 1 1) (thickness 0.15)))
     )
     (fp_text value " " (at 0 2.18) (layer F.Fab)
@@ -1716,7 +1716,7 @@
   (module Source_Footprints:PC_Test_Point_Mini_3.8x2.03mm (layer F.Cu) (tedit 5A983F1D) (tstamp 5CC381D1)
     (at 39.37 29.21)
     (descr file:///C:/Users/chad_rosencrans/Downloads/5029.PDF)
-    (fp_text reference " " (at 0 -2.06) (layer F.SilkS)
+    (fp_text reference " " (at 0 -2.06) (layer F.SilkS) hide
       (effects (font (size 1 1) (thickness 0.15)))
     )
     (fp_text value " " (at 0 2.18) (layer F.Fab)
@@ -1747,7 +1747,7 @@
   (module Source_Footprints:PC_Test_Point_Mini_3.8x2.03mm (layer F.Cu) (tedit 5A983F1D) (tstamp 5CC381BC)
     (at 45.72 29.21)
     (descr file:///C:/Users/chad_rosencrans/Downloads/5029.PDF)
-    (fp_text reference " " (at 0 -2.06) (layer F.SilkS)
+    (fp_text reference " " (at 0 -2.06) (layer F.SilkS) hide
       (effects (font (size 1 1) (thickness 0.15)))
     )
     (fp_text value " " (at 0 2.18) (layer F.Fab)

@@ -1,15 +1,10 @@
-(module StrainRelief (layer F.Cu) (tedit 5CC8B865)
-  (fp_text reference SR?? (at 2.5 0 90) (layer F.SilkS)
+(module StrainRelief (layer F.Cu) (tedit 5CD5E844)
+  (fp_text reference SR?? (at 2.5 0 90) (layer F.Fab) hide
     (effects (font (size 1 1) (thickness 0.15)))
   )
   (fp_text value " " (at -2.5 0 90) (layer F.Fab) hide
     (effects (font (size 1 1) (thickness 0.15)))
   )
-  (fp_line (start -1.5 6.1) (end -1.5 -6.1) (layer F.SilkS) (width 0.12))
-  (fp_line (start -1.5 -6.1) (end 1.5 -6.1) (layer F.SilkS) (width 0.12))
-  (fp_line (start 1.5 -6.1) (end 1.5 6.1) (layer F.SilkS) (width 0.12))
-  (fp_line (start 1.5 6.1) (end -1.5 6.1) (layer F.SilkS) (width 0.12))
-  (fp_line (start -1.5 2.5) (end 1.5 2.5) (layer F.SilkS) (width 0.12))
   (fp_line (start -1.25 5.85) (end -1.25 -5.85) (layer F.CrtYd) (width 0.05))
   (fp_line (start -1.25 -5.85) (end 1.25 -5.85) (layer F.CrtYd) (width 0.05))
   (fp_line (start 1.25 -5.85) (end 1.25 5.85) (layer F.CrtYd) (width 0.05))
